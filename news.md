@@ -26,10 +26,13 @@ Welcome to **Lawrence Bates** (PDRA, Jennifer Nichols Lab, University of Edinbur
 
 ### 12 May 2025
 Lab Excuresion to Mam Tor with our visitor **Lawrence Bates**!
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <img src="/assets/images/news/20250512-mam_tor-1.jpg" alt="Harriet, Sam, Lawrence, and Stan on Mam Tor" width="400">
-  <img src="/assets/images/news/20250512-mam_tor-2.jpg" alt="View towards Mam Tor" width="400">
-</div>
+
+<table>
+<tr>
+  <td><img src="/assets/images/news/20250512-mam_tor-1.jpg" width="400" alt="Lab selfie"></td>
+  <td><img src="/assets/images/news/20250512-mam_tor-2.jpg" width="400" alt="View"></td>
+</tr>
+</table>
 
 ### 7 May 2025
 Welcome to **Rober Insall** (UCL), visiting to give the **Materials & Biological Physics** in Sheffield.
@@ -56,3 +59,7 @@ Welcome to **Josh Brickman** (University of Copenhagen), visiting to give the **
 ### 10 February 2025  
 Welcome to **Harriet English** and **Samuel Higgins-Aguilar**, who are joining the lab as part of their MSc in Reproductive and Developmental Medicine.  
 They will be investigating the implications of aneuploidies on extraembryonic lineage specification.
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <img src="/assets/images/news/20250512-mam_tor-1.jpg" alt="Harriet, Sam, Lawrence, and Stan on Mam Tor" width="400">
+  <img src="/assets/images/news/20250512-mam_tor-2.jpg" alt="View towards Mam Tor" width="400">
+</div>
