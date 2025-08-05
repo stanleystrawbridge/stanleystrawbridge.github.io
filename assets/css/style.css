@@ -1,9 +1,10 @@
 .people-photo {
-  width: 600px;
+  width: 200px;            /* or 250px, depending on your layout */
   height: auto;
-  border-radius: 8px; /* or 50% for circular */
+  border-radius: 8px;      /* gives subtle rounded corners — not circles */
   display: block;
-  margin: 0 auto;
+  margin: 10px auto;
+  object-fit: cover;
 }
 
 .news-photo {
