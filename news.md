@@ -4,8 +4,6 @@ title: "News"
 permalink: /news/
 ---
 
-# News
-
 ### 5 August 2025  
 Thank you, **Cherie**, for all your hard work this summer! Wishing you the very best of luck with your final year.
 
@@ -28,8 +26,10 @@ Welcome to **Lawrence Bates** (PDRA, Jennifer Nichols Lab, University of Edinbur
 
 ### 12 May 2025
 Lab Excuresion to Mam Tor with our visitor **Lawrence Bates**!
-![Harriet, Sam, Lawrence, and Stan on the Peak of Mam Tor](/assets/images/news/20250512-mam_tor-1.jpg)
-![The View back onto Mam Tor](/assets/images/news/20250512-mam_tor-2.jpg)
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <img src="/assets/images/news/20250512-mam_tor-1.jpg" alt="Harriet, Sam, Lawrence, and Stan on Mam Tor" width="400">
+  <img src="/assets/images/news/20250512-mam_tor-2.jpg" alt="View towards Mam Tor" width="400">
+</div>
 
 ### 7 May 2025
 Welcome to **Rober Insall** (UCL), visiting to give the **Materials & Biological Physics** in Sheffield.
