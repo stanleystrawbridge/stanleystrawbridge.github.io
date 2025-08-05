@@ -10,14 +10,13 @@ permalink: /people/
 
 | Name                          | Affiliation             | Role                                                       | Year  | Notes                                              |
 |-------------------------------|-------------------------|------------------------------------------------------------|-------|----------------------------------------------------|
-| **Stanley Strawbridge**       | University of Sheffield | Principal Investigator                                     | —     |                                                    |
-| **Yuze Cao**                  | ENS Paris               | PhD Student                                                | —     | Primary supervisors: David Holcman, Srinjan Basu   |
-| **Cherie Cheung**             | University of Sheffield | Sheffield Undergraduate Research Experience (SURE) Student | 2025  |                                                    |
-| **Gina Penetra**              | University of Sheffield | Sheffield Undergraduate Research Experience (SURE) Student | 2025  |                                                    |
-| **Harriet English**           | University of Sheffield | MSc Student, Reproductive & Developmental Medicine         | 2025  |                                                    |
-| **Samuel Guttridge**          | University of Sheffield | PhD Student                                                | 2025  | Primary supervisor: Emma Lucas                     |
+| **Stanley E. Strawbridge**    | University of Sheffield | Principal Investigator                                     | —     |                                                    |
+| **Yuze Cao**                  | ENS Paris               | PhD Student, Biophysics                                    | 2024  | Primary supervisors: David Holcman, Srinjan Basu   |
+| **Cherie Cheung**             | University of Sheffield | BA Student, Biomedical Sciences                            | 2025  | Sheffield Undergraduate Research Experience (SURE) Student |  
+| **Gina Penetra**              | University of Sheffield | BA Student, Biomedical Sciences                            | 2025  | Sheffield Undergraduate Research Experience (SURE) Student |
+| **Harriet L. English**        | University of Sheffield | MSc Student, Reproductive & Developmental Medicine         | 2025  |                                                    |
+| **Samuel Guttridge**          | University of Sheffield | PhD Student, Reproductive Medicine                         | 2025  | Primary supervisor: Emma Lucas                     |
 | **Samuel J. Higgins-Aguilar** | University of Sheffield | MSc Student, Reproductive & Developmental Medicine         | 2025  |                                                    |
-
 
 ## Collaborators
 
@@ -29,4 +28,3 @@ permalink: /people/
 | **Jennifer Nichols**    | University of Edinburgh             |
 
 ## Alumni
-
