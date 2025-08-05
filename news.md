@@ -22,8 +22,8 @@ The lab attended this excellent BSDB-sponsored meeting. Stan is *still* presenti
   <tr>
     <td>
       <figure>
-        <img src="/assets/images/news/20250710-NEDB.jpg" width=300px class="news-photo" alt="Cool Kids">
-        <figcaption style="text-align: center;">Left to right, Stan, Harriet, Sam G., Cherie, and Gina!</figcaption>
+        <img src="/assets/images/news/20250710-NEDB.jpg" class="news-photo" alt="Cool Kids">
+        <figcaption>Left to right, Stan, Harriet, Sam G., Cherie, and Gina!</figcaption>
       </figure>
     </td>
   </tr>
@@ -54,7 +54,7 @@ Medals awarded at Friday's journal club!
     <td>
       <figure>
         <img src="/assets/images/news/20250704-golf_fang-medalists.jpg" class="news-photo" alt="Go for gold!">
-        <figcaption style="text-align: center;">Cherie, Gold; Sam H.-A., Silver; and Harriet, Bronze.</figcaption>
+        <figcaption>Cherie, Gold; Sam H.-A., Silver; and Harriet, Bronze.</figcaption>
       </figure>
     </td>
   </tr>
@@ -72,13 +72,13 @@ Cherie will be exploring cell signalling and Gina will be working on genome stab
     <td>
       <figure>
         <img src="/assets/images/people/cherie_cheung.jpg" class="news-photo" alt="Cherie Cheung">
-        <figcaption style="text-align: center;">Cherie Cheung</figcaption>
+        <figcaption>Cherie Cheung</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="/assets/images/people/gina_penetra.jpg" class="news-photo" alt="Gina Penetra">
-        <figcaption style="text-align: center;">Gina Penetra</figcaption>
+        <figcaption>Gina Penetra</figcaption>
       </figure>
     </td>
   </tr>
@@ -95,13 +95,13 @@ Lab Excursion to Mam Tor with our visitor **Lawrence Bates**!
     <td>
       <figure>
         <img src="/assets/images/news/20250512-mam_tor-1.jpg" class="news-photo" alt="Cherie on Mam Tor">
-        <figcaption style="text-align: center;">Counter-clockwise from the front: Stan, Lawrence, Harriet, and Sam</figcaption>
+        <figcaption>Counter-clockwise from the front: Stan, Lawrence, Harriet, and Sam</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="/assets/images/news/20250512-mam_tor-2.jpg" class="news-photo" alt="Gina on Mam Tor">
-        <figcaption style="text-align: center;">Mam Tor in the distance</figcaption>
+        <figcaption>Mam Tor in the distance</figcaption>
       </figure>
     </td>
   </tr>
@@ -134,7 +134,7 @@ Welcome to **Josh Brickman** (University of Copenhagen), visiting to give the **
     <td>
       <figure>
         <img src="/assets/images/news/20250303-josh_visit.jpg" class="news-photo" alt="Cheers">
-        <figcaption style="text-align: center;">Anestis, Josh, Ivana, and Stan</figcaption>
+        <figcaption>Anestis, Josh, Ivana, and Stan</figcaption>
       </figure>
     </td>
   </tr>
@@ -149,13 +149,13 @@ They will be investigating the implications of aneuploidies on extraembryonic li
   <td>
     <figure>
       <img src="/assets/images/people/harriet_english.jpg" class="news-photo" alt="Harriet English">
-      <figcaption style="text-align: center;">Harriet English</figcaption>
+      <figcaption>Harriet English</figcaption>
     </figure>
   </td>
   <td>
     <figure>
       <img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="news-photo" alt="Samuel Higgins-Aguilar">
-      <figcaption style="text-align: center;">Samuel Higgins-Aguilar</figcaption>
+      <figcaption>Samuel Higgins-Aguilar</figcaption>
     </figure>
   </td>
 </tr>
