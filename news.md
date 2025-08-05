@@ -45,16 +45,11 @@ Lab Excursion to Golf Fang Sheffield. In the end, everyone gets a hole-in-one!
 
 Medals awarded at Friday's journal club!
 
-<table>
-  <tr>
-    <td>
-      <figure>
-        <img src="/assets/images/news/20250704-golf_fang-medalists.jpg" class="news-photo" alt="Go for gold!">
-        <figcaption>Cherie, Gold; Sam H.-A., Silver; and Harriet, Bronze.</figcaption>
-      </figure>
-    </td>
-  </tr>
-</table>
+
+<figure>
+	<img src="/assets/images/news/20250704-golf_fang-medalists.jpg" class="news-photo" alt="Go for gold!">
+	<figcaption>Cherie, Gold; Sam H.-A., Silver; and Harriet, Bronze.</figcaption>
+</figure>
 
 ### 25 June 2025  
 Welcome to **Sissy Wamaitha** (PDRA, Amander Clark Lab, UCLA), visiting Sheffield to give the **DRN Seminar**.
@@ -125,16 +120,10 @@ Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Camb
 ### 3 March 2025  
 Welcome to **Josh Brickman** (University of Copenhagen), visiting to give the **DRN Seminar** in Sheffield.
 
-<table>
-  <tr>
-    <td>
-      <figure>
-        <img src="/assets/images/news/20250303-josh_visit.jpg" class="news-photo" alt="Cheers">
-        <figcaption>Anestis, Josh, Ivana, and Stan</figcaption>
-      </figure>
-    </td>
-  </tr>
-</table>
+<figure>
+	<img src="/assets/images/news/20250303-josh_visit.jpg" class="news-photo" alt="Cheers">
+	<figcaption>Anestis, Josh, Ivana, and Stan</figcaption>
+</figure>
 
 ### 10 February 2025  
 Welcome to **Harriet English** and **Samuel Higgins-Aguilar**, who are joining the lab as part of their MSc in Reproductive and Developmental Medicine.  
