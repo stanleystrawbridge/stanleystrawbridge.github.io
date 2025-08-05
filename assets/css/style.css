@@ -1,7 +1,6 @@
 .people-photo {
-  width: 200px;            /* or 250px, depending on your layout */
+  width: 250px;
   height: auto;
-  border-radius: 8px;      /* gives subtle rounded corners — not circles */
   display: block;
   margin: 10px auto;
   object-fit: cover;
