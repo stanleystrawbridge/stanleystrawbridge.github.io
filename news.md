@@ -20,16 +20,10 @@ Stan introduces his to the Bateson Centre for Disease Mechanisms by giving a tal
 **Northern(ish) England Developmental Biology Meeting**, University of Sheffield, UK  
 The lab attended this excellent BSDB-sponsored meeting. Stan is *still* presenting posters... how much longer will this continue?
 
-<table>
-  <tr>
-    <td>
-      <figure>
-        <img src="/assets/images/news/20250710-NEDB.jpg" class="news-photo" alt="Cool Kids">
-        <figcaption>Left to right, Stan, Harriet, Sam G., Cherie, and Gina!</figcaption>
-      </figure>
-    </td>
-  </tr>
-</table>
+<figure>
+  <img src="/assets/images/news/20250710-NEDB.jpg" class="news-photo" alt="Cool Kids">
+  <figcaption>Left to right, Stan, Harriet, Sam G., Cherie, and Gina!</figcaption>
+</figure>
 
 ### 2 July 2025  
 Lab Excursion to Golf Fang Sheffield. In the end, everyone gets a hole-in-one!
