@@ -8,7 +8,7 @@
 }
 
 .news-photo {
-  max-width: 300px;
+  max-width: 200px;
   height: 400px;
   object-fit: cover;
   padding: 10px;
