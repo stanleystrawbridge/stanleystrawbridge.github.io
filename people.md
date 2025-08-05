@@ -18,15 +18,15 @@ permalink: /people/
 | **Samuel Guttridge**          | University of Sheffield | PhD Student                                                | 2025  | Primary supervisor: Emma Lucas                     |
 | **Samuel J. Higgins-Aguilar** | University of Sheffield | MSc Student, Reproductive & Developmental Medicine         | 2025  |                                                    |
 
+
 ## Collaborators
 
-| Name                    | Affiliation / Role                  |
+| Name                    | Affiliation                         |
 |-------------------------|-------------------------------------|
-| **David Holcman**       | Collaborator                        |
-| **Srinjan Basu**        | Collaborator                        |
-| **Jennifer Nichols**    | Collaborator                        |
-| **Alexander G. Fletcher** | Collaborator                      |
+| **Srinjan Basu**        | Imperial College London             |
+| **Alexander G. Fletcher** | University of Sheffield           |
+| **David Holcman**       | ENS Paris                           |
+| **Jennifer Nichols**    | University of Edinburgh             |
 
 ## Alumni
 
-*(Add lab alumni here as you go.)*
