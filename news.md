@@ -14,6 +14,29 @@ Thank you for all your energy and dedication this summer, **Gina**! Wishing you 
 **Northern(ish) England Developmental Biology Meeting**, University of Sheffield, UK  
 The lab attended this excellent BSDB-sponsored meeting. Stan is *still* presenting posters... how much longer will this continue?
 
+<table>
+<tr>
+  <td><img src="/assets/images/news/20250710-NEDB.jpg" width="400" alt="Cool Kids"></td>
+</tr>
+</table>
+
+### 2 July 2025  
+Lab Excuresion to Golf Fang Sheffield. In the end, everyone gets a hole-in-one!
+
+<table>
+<tr>
+  <td><img src="/assets/images/news/20250702-golf_fang-plane.jpg" width="400" alt="Take Flight"></td>
+  <td><img src="/assets/images/news/20250702-golf_fang-swan.jpg" width="400" alt="Stop staring at me swan!"></td>
+</tr>
+</table>
+
+Medals awarded at Friday's journal club: Cherie, Gold; Sam H.-A., Silver, ; and Harriet, Bronze.
+<table>
+<tr>
+  <td><img src="/assets/images/news/20250704-golf_fang-medalists.jpg" width="400" alt="go for gold!"></td>
+</tr>
+</table>
+
 ### 25 June 2025  
 Welcome to **Sissy Wamaitha** (PDRA, Amander Clark Lab, UCLA), visiting Sheffield to give the **DRN Seminar**.
 
