@@ -10,6 +10,10 @@ Thank you, **Cherie**, for all your hard work this summer! Wishing you the very 
 ### 25 July 2025  
 Thank you for all your energy and dedication this summer, **Gina**! Wishing you success in the year ahead.
 
+### 11 July 2025  
+**Bateson Centre Symposium**, University of Sheffield, UK  
+Stan introduces his to the Bateson Centre for Disease Mechanisms by giving a talk. 
+
 ### 10 July 2025  
 **Northern(ish) England Developmental Biology Meeting**, University of Sheffield, UK  
 The lab attended this excellent BSDB-sponsored meeting. Stan is *still* presenting posters... how much longer will this continue?
