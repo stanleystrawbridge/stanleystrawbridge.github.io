@@ -8,23 +8,29 @@ permalink: /people/
 
 ## Current Members
 
-| Name                          | Affiliation             | Role                                                       | Year  | Notes                                              |
-|-------------------------------|-------------------------|------------------------------------------------------------|-------|----------------------------------------------------|
-| **Stanley E. Strawbridge**    | University of Sheffield | Principal Investigator                                     | —     |                                                    |
-| **Yuze Cao**                  | ENS Paris               | PhD Student, Biophysics                                    | 2024  | Primary supervisors: David Holcman, Srinjan Basu   |
-| **Cherie Cheung**             | University of Sheffield | BA Student, Biomedical Sciences                            | 2025  | Sheffield Undergraduate Research Experience (SURE) Student |  
-| **Gina Penetra**              | University of Sheffield | BA Student, Biomedical Sciences                            | 2025  | Sheffield Undergraduate Research Experience (SURE) Student |
-| **Harriet L. English**        | University of Sheffield | MSc Student, Reproductive & Developmental Medicine         | 2025  |                                                    |
-| **Samuel Guttridge**          | University of Sheffield | PhD Student, Reproductive Medicine                         | 2025  | Primary supervisor: Emma Lucas                     |
-| **Samuel J. Higgins-Aguilar** | University of Sheffield | MSc Student, Reproductive & Developmental Medicine         | 2025  |                                                    |
+| Photo | Name                          | Affiliation             | Role                                                       | Year  | Notes                                              |
+|-------|-------------------------------|-------------------------|------------------------------------------------------------|-------|----------------------------------------------------|
+| <img src="/assets/images/people/stanley_strawbridge.jpg" width="80"/> | **Stanley E. Strawbridge**    | University of Sheffield | Principal Investigator                                     | —     |                                                    |
+| <img src="/assets/images/people/yuze_cao.jpg" width="80"/>            | **Yuze Cao**                  | ENS Paris               | PhD Student, Biophysics                                    | 2024  | Primary supervisors: David Holcman, Srinjan Basu   |
+| <img src="/assets/images/people/cherie_cheung.jpg" width="80"/>      | **Cherie Cheung**             | University of Sheffield | BA Student, Biomedical Sciences                            | 2025  | Sheffield Undergraduate Research Experience (SURE) Student |  
+| <img src="/assets/images/people/gina_penetra.jpg" width="80"/>       | **Gina Penetra**              | University of Sheffield | BA Student, Biomedical Sciences                            | 2025  | Sheffield Undergraduate Research Experience (SURE) Student |
+| <img src="/assets/images/people/harriet_english.jpg" width="80"/>    | **Harriet L. English**        | University of Sheffield | MSc Student, Reproductive & Developmental Medicine         | 2025  |                                                    |
+| <img src="/assets/images/people/samuel_guttridge.jpg" width="80"/>   | **Samuel Guttridge**          | University of Sheffield | PhD Student, Reproductive Medicine                         | 2025  | Primary supervisor: Emma Lucas                     |
+| <img src="/assets/images/people/samuel_higgins-aguilar.jpg" width="80"/> | **Samuel J. Higgins-Aguilar** | University of Sheffield | MSc Student, Reproductive & Developmental Medicine         | 2025  |                                                    |
 
 ## Collaborators
 
-| Name                    | Affiliation                         |
-|-------------------------|-------------------------------------|
-| **Srinjan Basu**        | Imperial College London             |
-| **Alexander G. Fletcher** | University of Sheffield           |
-| **David Holcman**       | ENS Paris                           |
-| **Jennifer Nichols**    | University of Edinburgh             |
+| Name                        | Affiliation                                               |
+|-----------------------------|-----------------------------------------------------------|
+| **Ivana Barbaric**          | School of Biosciences, University of Sheffield            |
+| **Srinjan Basu**            | Imperial College London                                   |
+| **Frederik Claeyssens**     | School of Chemical, Materials and Biological Engineering, University of Sheffield |
+| **Mark Fenwick**            | School of Medicine and Population Health, University of Sheffield |
+| **Alexander G. Fletcher**   | School of Mathematical and Physical Sciences, University of Sheffield |
+| **David Holcman**           | École Normale Supérieure (ENS), Paris                     |
+| **Emma Lucas**              | School of Medicine and Population Health, University of Sheffield |
+| **Jennifer Nichols**        | University of Edinburgh                                   |
+| **Marysia Placzek**         | School of Biosciences, University of Sheffield            |
+| **Anestis Tsakiridis**      | School of Biosciences, University of Sheffield            |
 
 ## Alumni
