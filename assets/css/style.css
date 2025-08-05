@@ -1,6 +1,6 @@
 .people-photo {
-  width: 200px;        
-  height: 200px;
+  width: 400px;        
+  height: 400px;
   object-fit: cover;
   border-radius: 8px;
   display: block;
@@ -10,7 +10,6 @@
 .news-photo {
   height: 400px;
   max-width: 300px;
-  object-fit: cover;
   padding: 10px;
   border-radius: 8px;
 }
