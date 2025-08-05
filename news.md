@@ -19,27 +19,45 @@ Stan introduces his to the Bateson Centre for Disease Mechanisms by giving a tal
 The lab attended this excellent BSDB-sponsored meeting. Stan is *still* presenting posters... how much longer will this continue?
 
 <table>
-<tr>
-  <td><img src="/assets/images/news/20250710-NEDB.jpg" class="news-photo" alt="Cool Kids"></td>
-</tr>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20250710-NEDB.jpg" class="news-photo" alt="Cool Kids">
+        <figcaption>Left to right, Stan, Harriet, Sam G., Cherie, and Gina!</figcaption>
+      </figure>
+    </td>
+  </tr>
 </table>
 
 ### 2 July 2025  
 Lab Excursion to Golf Fang Sheffield. In the end, everyone gets a hole-in-one!
 
 <table>
-<tr>
-  <td><img src="/assets/images/news/20250702-golf_fang-plane.jpg" class="news-photo" alt="Take Flight"></td>
-  <td><img src="/assets/images/news/20250702-golf_fang-swan.jpg" class="news-photo" alt="Stop staring at me swan!"></td>
-</tr>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20250702-golf_fang-plane.jpg" class="news-photo" alt="Take Flight">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20250702-golf_fang-swan.jpg" class="news-photo" alt="Stop staring at me swan!">
+      </figure>
+    </td>
+  </tr>
 </table>
 
-Medals awarded at Friday's journal club: Cherie, Gold; Sam H.-A., Silver; and Harriet, Bronze.
+Medals awarded at Friday's journal club!
 
 <table>
-<tr>
-  <td><img src="/assets/images/news/20250704-golf_fang-medalists.jpg" class="news-photo" alt="Go for gold!"></td>
-</tr>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20250704-golf_fang-medalists.jpg" class="news-photo" alt="Go for gold!">
+        <figcaption>Cherie, Gold; Sam H.-A., Silver; and Harriet, Bronze.</figcaption>
+      </figure>
+    </td>
+  </tr>
 </table>
 
 ### 25 June 2025  
@@ -50,10 +68,20 @@ A warm welcome to **Cherie Cheung** and **Gina Penetra**, who are joining us thi
 Cherie will be exploring cell signalling and Gina will be working on genome stability.
 
 <table>
-<tr>
-  <td><img src="/assets/images/people/cherie_cheung.jpg" class="news-photo" alt="Cherie Cheung"></td>
-  <td><img src="/assets/images/people/gina_penetra.jpg" class="news-photo" alt="Gina Penetra"></td>
-</tr>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/people/cherie_cheung.jpg" class="news-photo" alt="Cherie Cheung">
+        <figcaption>Cherie Cheung</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/people/gina_penetra.jpg" class="news-photo" alt="Gina Penetra">
+        <figcaption>Gina Penetra</figcaption>
+      </figure>
+    </td>
+  </tr>
 </table>
 
 ### 14 May 2025  
@@ -63,10 +91,20 @@ Welcome to **Lawrence Bates** (PDRA, Jennifer Nichols Lab, University of Edinbur
 Lab Excursion to Mam Tor with our visitor **Lawrence Bates**!
 
 <table>
-<tr>
-  <td><img src="/assets/images/news/20250512-mam_tor-1.jpg" class="news-photo" alt="Cherie on Mam Tor"></td>
-  <td><img src="/assets/images/news/20250512-mam_tor-2.jpg" class="news-photo" alt="Gina on Mam Tor"></td>
-</tr>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20250512-mam_tor-1.jpg" class="news-photo" alt="Cherie on Mam Tor">
+        <figcaption>Counter-clockwise from the front: Stan, Lawrence, Harriet, and Sam</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20250512-mam_tor-2.jpg" class="news-photo" alt="Gina on Mam Tor">
+        <figcaption>Mam Tor in the distance</figcaption>
+      </figure>
+    </td>
+  </tr>
 </table>
 
 ### 7 May 2025  
@@ -92,9 +130,14 @@ Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Camb
 Welcome to **Josh Brickman** (University of Copenhagen), visiting to give the **DRN Seminar** in Sheffield.
 
 <table>
-<tr>
-  <td><img src="/assets/images/news/20250303-josh_visit.jpg" class="news-photo" alt="Cheers"></td>
-</tr>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20250303-josh_visit.jpg" class="news-photo" alt="Cheers">
+        <figcaption style="text-align: center;">Anestis, Josh, Ivana, and Stan</figcaption>
+      </figure>
+    </td>
+  </tr>
 </table>
 
 ### 10 February 2025  
