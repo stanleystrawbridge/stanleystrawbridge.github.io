@@ -7,12 +7,13 @@
 }
 
 .news-photo {
-  width: auto;
+  width: 400px;
   height: 400px;
   object-fit: cover;
   padding: 10px;
   border-radius: 8px;
 }
+
 figure {
   display: flex;
   flex-direction: column;
