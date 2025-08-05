@@ -1,6 +1,6 @@
 .people-photo {
-  width: 120px;        /* Adjust size to what you want */
-  height: 120px;
+  width: 200px;        
+  height: 200px;
   object-fit: cover;
   border-radius: 8px;
   display: block;
