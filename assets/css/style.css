@@ -1,5 +1,5 @@
 .people-photo {
-  width: 300px;
+  width: 600px;
   height: auto;
   border-radius: 8px; /* or 50% for circular */
   display: block;
@@ -7,19 +7,21 @@
 }
 
 .news-photo {
-  width: auto;
-  height: 300px;
+  width: 100%;
+  max-width: 600px;   /* limits large images */
+  height: auto;
   object-fit: cover;
   padding: 10px;
-  border-radius: 8px; /* optional: for a rounded look */
+  border-radius: 8px;
 }
-
 figure {
-  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px auto; /* centers horizontally */
   padding: 0;
   text-align: center;
 }
-
 figcaption {
   font-size: 0.9em;
   color: #555;
