@@ -26,6 +26,14 @@ Cherie will be exploring cell signalling and Gina will be working on genome stab
 ### 14 May 2025  
 Welcome to **Lawrence Bates** (PDRA, Jennifer Nichols Lab, University of Edinburgh), visiting to give the **DRN Seminar** in Sheffield.
 
+### 12 May 2025
+Lab Excuresion to Mam Tor with our visitor **Lawrence Bates**!
+![Harriet, Sam, Lawrence, and Stan on the Peak of Mam Tor](/assets/images/news/20250512-mam_tor-1.jpg)
+![The View back onto Mam Tor](/assets/images/news/20250512-mam_tor-2.jpg)
+
+### 7 May 2025
+Welcome to **Rober Insall** (UCL), visiting to give the **Materials & Biological Physics** in Sheffield.
+
 ### 7 March 2025  
 **Cambridge Developmental Biology Seminar Series**, University of Cambridge, UK  
 Stan gave a talk and saw many friendly faces. Thank you for the invite!
@@ -41,6 +49,9 @@ Stan gave a talk hosted by the Division of Developmental Biology & Medicine. Tha
 ### 12–14 March 2025  
 **Sy-Stem 2025**, Vienna, Austria  
 Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Cambridge Stem Cell Institute.
+
+### 3 March 2025  
+Welcome to **Josh Brickman** (University of Copenhagen), visiting to give the **DRN Seminar** in Sheffield.
 
 ### 10 February 2025  
 Welcome to **Harriet English** and **Samuel Higgins-Aguilar**, who are joining the lab as part of their MSc in Reproductive and Developmental Medicine.  
