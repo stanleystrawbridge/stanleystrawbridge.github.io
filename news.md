@@ -91,6 +91,12 @@ Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Camb
 ### 3 March 2025  
 Welcome to **Josh Brickman** (University of Copenhagen), visiting to give the **DRN Seminar** in Sheffield.
 
+<table>
+<tr>
+  <td><img src="/assets/images/news/20250303-josh_visit.jpg" class="news-photo" alt="Cheers"></td>
+</tr>
+</table>
+
 ### 10 February 2025  
 Welcome to **Harriet English** and **Samuel Higgins-Aguilar**, who are joining the lab as part of their MSc in Reproductive and Developmental Medicine.  
 They will be investigating the implications of aneuploidies on extraembryonic lineage specification.
