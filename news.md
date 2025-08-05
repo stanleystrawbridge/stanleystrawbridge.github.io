@@ -36,8 +36,8 @@ Lab Excuresion to Mam Tor with our visitor **Lawrence Bates**!
 
 <table>
 <tr>
-  <td><img src="/assets/images/news/20250512-mam_tor-1.jpg" width="400" alt="Lab selfie"></td>
-  <td><img src="/assets/images/news/20250512-mam_tor-2.jpg" width="400" alt="View"></td>
+  <td><img src="/assets/images/news/20250512-mam_tor-1.jpg" width="400" alt="Cherie"></td>
+  <td><img src="/assets/images/news/20250512-mam_tor-2.jpg" width="400" alt="Gina"></td>
 </tr>
 </table>
 
@@ -69,7 +69,7 @@ They will be investigating the implications of aneuploidies on extraembryonic li
 
 <table>
 <tr>
-  <td><img src="/assets/images/people/harriet_english.jpg" width="400" alt="Lab selfie"></td>
-  <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" width="400" alt="View"></td>
+  <td><img src="/assets/images/people/harriet_english.jpg" width="400" alt="Harriet"></td>
+  <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" width="400" alt="Sam"></td>
 </tr>
 </table>
