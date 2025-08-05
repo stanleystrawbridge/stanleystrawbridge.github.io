@@ -8,7 +8,7 @@ permalink: /people/
 
 ## Current Members
 
-| Photo                                                                               | Name                          | Affiliation             | Role                                                       | Year  | Notes                                                                 |
+|                                                                                     | Name                          | Affiliation             | Role                                                       | Year  | Notes                                                                 |
 |-------------------------------------------------------------------------------------|-------------------------------|-------------------------|------------------------------------------------------------|-------|-----------------------------------------------------------------------|
 | <img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" />    | **Stanley E. Strawbridge**    | University of Sheffield | Principal Investigator                                     | —     |                                                                       |
 | <img src="/assets/images/people/yuze_cao.jpg" class="people-photo" />               | **Yuze Cao**                  | ENS Paris               | PhD Student, Biophysics                                    | 2024  | Primary supervisors: David Holcman, Srinjan Basu                      |
