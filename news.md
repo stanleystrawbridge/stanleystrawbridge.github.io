@@ -54,7 +54,7 @@ Medals awarded at Friday's journal club!
     <td>
       <figure>
         <img src="/assets/images/news/20250704-golf_fang-medalists.jpg" class="news-photo" alt="Go for gold!">
-        <figcaption>Cherie, Gold; Sam H.-A., Silver; and Harriet, Bronze.</figcaption>
+        <figcaption style="text-align: center;">Cherie, Gold; Sam H.-A., Silver; and Harriet, Bronze.</figcaption>
       </figure>
     </td>
   </tr>
@@ -72,13 +72,13 @@ Cherie will be exploring cell signalling and Gina will be working on genome stab
     <td>
       <figure>
         <img src="/assets/images/people/cherie_cheung.jpg" class="news-photo" alt="Cherie Cheung">
-        <figcaption>Cherie Cheung</figcaption>
+        <figcaption style="text-align: center;">Cherie Cheung</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="/assets/images/people/gina_penetra.jpg" class="news-photo" alt="Gina Penetra">
-        <figcaption>Gina Penetra</figcaption>
+        <figcaption style="text-align: center;">Gina Penetra</figcaption>
       </figure>
     </td>
   </tr>
@@ -95,13 +95,13 @@ Lab Excursion to Mam Tor with our visitor **Lawrence Bates**!
     <td>
       <figure>
         <img src="/assets/images/news/20250512-mam_tor-1.jpg" class="news-photo" alt="Cherie on Mam Tor">
-        <figcaption>Counter-clockwise from the front: Stan, Lawrence, Harriet, and Sam</figcaption>
+        <figcaption style="text-align: center;">Counter-clockwise from the front: Stan, Lawrence, Harriet, and Sam</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="/assets/images/news/20250512-mam_tor-2.jpg" class="news-photo" alt="Gina on Mam Tor">
-        <figcaption>Mam Tor in the distance</figcaption>
+        <figcaption style="text-align: center;">Mam Tor in the distance</figcaption>
       </figure>
     </td>
   </tr>
