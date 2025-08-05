@@ -10,6 +10,7 @@ markdown: kramdown
 
 header_pages:
   - index.md
+  - news.md
   - about.md
   - people.md
   - research.md
