@@ -21,6 +21,13 @@ Welcome to **Sissy Wamaitha** (PDRA, Amander Clark Lab, UCLA), visiting Sheffiel
 A warm welcome to **Cherie Cheung** and **Gina Penetra**, who are joining us this summer through the Sheffield Undergraduate Research Experience (SURE) Scheme.  
 Cherie will be exploring cell signalling and Gina will be working on genome stability.
 
+<table>
+<tr>
+  <td><img src="/assets/images/people/cherie_cheung.jpg" width="400" alt="Lab selfie"></td>
+  <td><img src="/assets/images/people/gina_penetra.jpg" width="400" alt="View"></td>
+</tr>
+</table>
+
 ### 14 May 2025  
 Welcome to **Lawrence Bates** (PDRA, Jennifer Nichols Lab, University of Edinburgh), visiting to give the **DRN Seminar** in Sheffield.
 
@@ -59,7 +66,10 @@ Welcome to **Josh Brickman** (University of Copenhagen), visiting to give the **
 ### 10 February 2025  
 Welcome to **Harriet English** and **Samuel Higgins-Aguilar**, who are joining the lab as part of their MSc in Reproductive and Developmental Medicine.  
 They will be investigating the implications of aneuploidies on extraembryonic lineage specification.
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <img src="/assets/images/news/20250512-mam_tor-1.jpg" alt="Harriet, Sam, Lawrence, and Stan on Mam Tor" width="400">
-  <img src="/assets/images/news/20250512-mam_tor-2.jpg" alt="View towards Mam Tor" width="400">
-</div>
+
+<table>
+<tr>
+  <td><img src="/assets/images/people/harriet_english.jpg" width="400" alt="Lab selfie"></td>
+  <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" width="400" alt="View"></td>
+</tr>
+</table>
