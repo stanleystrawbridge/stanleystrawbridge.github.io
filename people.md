@@ -22,7 +22,7 @@ permalink: /people/
 
 ## Collaborators
 
-### Internal (University of Sheffield)
+### University of Sheffield
 
 | Name                      | Affiliation                                               |
 |---------------------------|-----------------------------------------------------------|
