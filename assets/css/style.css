@@ -8,9 +8,7 @@
 }
 
 .news-photo {
-  max-width: 200px;
-  height: 400px;
-  object-fit: cover;
+  height: 250px;
   padding: 10px;
   border-radius: 8px;
 }
