@@ -22,8 +22,8 @@ The lab attended this excellent BSDB-sponsored meeting. Stan is *still* presenti
   <tr>
     <td>
       <figure>
-        <img src="/assets/images/news/20250710-NEDB.jpg" class="news-photo" alt="Cool Kids">
-        <figcaption>Left to right, Stan, Harriet, Sam G., Cherie, and Gina!</figcaption>
+        <img src="/assets/images/news/20250710-NEDB.jpg" width=300px class="news-photo" alt="Cool Kids">
+        <figcaption style="text-align: center;">Left to right, Stan, Harriet, Sam G., Cherie, and Gina!</figcaption>
       </figure>
     </td>
   </tr>
