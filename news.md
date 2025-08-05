@@ -52,7 +52,7 @@ Medals awarded at Friday's journal club!
 </figure>
 
 ### 25 June 2025  
-Welcome to **Sissy Wamaitha** (PDRA, Amander Clark Lab, UCLA), visiting Sheffield to give the **DRN Seminar**.
+Welcome to **Sissy Wamaitha** (Amander Clark Lab, UCLA), visiting Sheffield to give the **DRN Seminar**.
 
 ### 16 June 2025  
 A warm welcome to **Cherie Cheung** and **Gina Penetra**, who are joining us this summer through the Sheffield Undergraduate Research Experience (SURE) Scheme.  
@@ -75,8 +75,11 @@ Cherie will be exploring cell signalling and Gina will be working on genome stab
   </tr>
 </table>
 
+### 28 May 2025 
+Welcome to **Thorsten Boroviak** (University of Cambridge), visiting his PhD Alma Mater to give the **DRN Seminar** in Sheffield.
+
 ### 14 May 2025  
-Welcome to **Lawrence Bates** (PDRA, Jennifer Nichols Lab, University of Edinburgh), visiting to give the **DRN Seminar** in Sheffield.
+Welcome to **Lawrence Bates** (Jennifer Nichols Lab, University of Edinburgh), visiting to give the **DRN Seminar** in Sheffield.
 
 ### 12 May 2025  
 Lab Excursion to Mam Tor with our visitor **Lawrence Bates**!
@@ -125,6 +128,9 @@ Welcome to **Josh Brickman** (University of Copenhagen), visiting to give the **
 	<figcaption>Anestis, Josh, Ivana, and Stan</figcaption>
 </figure>
 
+### 2 February 2025 
+Welcome to **Vivki Metzis** (MRC LMS), visiting to give the **DRN Seminar** in Sheffield.
+
 ### 10 February 2025  
 Welcome to **Harriet English** and **Samuel Higgins-Aguilar**, who are joining the lab as part of their MSc in Reproductive and Developmental Medicine.  
 They will be investigating the implications of aneuploidies on extraembryonic lineage specification.
@@ -145,3 +151,12 @@ They will be investigating the implications of aneuploidies on extraembryonic li
   </td>
 </tr>
 </table>
+
+### 15 January 2025 
+Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), visiting to give the **DRN Seminar** in Sheffield.
+
+22 October 2024
+Stan gave a talk at a Physics of Life (PoL) Joint Project Meeting in Sheffield that brought together PoL fellows and investigators from Sheffield, London, and Warwick.
+
+### 16 October 2024 
+Welcome to **Marta Shahbazi** (MRC LMB), visiting to give the **DRN Seminar** in Sheffield.
