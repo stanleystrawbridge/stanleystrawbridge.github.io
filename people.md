@@ -8,15 +8,85 @@ permalink: /people/
 
 ## Current Members
 
-|                                                                                     | Name                          | Affiliation             | Role                                                       | Year  | Notes                                                                 |
-|-------------------------------------------------------------------------------------|-------------------------------|-------------------------|------------------------------------------------------------|-------|-----------------------------------------------------------------------|
-| <img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" />    | **Stanley E. Strawbridge**    | University of Sheffield | Principal Investigator                                     | —     |                                                                       |
-| <img src="/assets/images/people/yuze_cao.jpg" class="people-photo" />               | **Yuze Cao**                  | ENS Paris               | PhD Student, Biophysics                                    | 2024  | Primary supervisors: David Holcman, Srinjan Basu                      |
-| <img src="/assets/images/people/cherie_cheung.jpg" class="people-photo" />          | **Cherie Cheung**             | University of Sheffield | BA Student, Biomedical Sciences                            | 2025  | Sheffield Undergraduate Research Experience (SURE) Student            |
-| <img src="/assets/images/people/gina_penetra.jpg" class="people-photo" />           | **Gina Penetra**              | University of Sheffield | BA Student, Biomedical Sciences                            | 2025  | Co-supervised with Paul J. Gokhale; SURE Student                      |
-| <img src="/assets/images/people/harriet_english.jpg" class="people-photo" />        | **Harriet L. English**        | University of Sheffield | MSc Student, Reproductive & Developmental Medicine         | 2025  |                                                                       |
-| <img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" />       | **Samuel Guttridge**          | University of Sheffield | PhD Student, Reproductive Medicine                         | 2025  | Primary supervisor: Emma Lucas                                        |
-| <img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="people-photo" /> | **Samuel J. Higgins-Aguilar** | University of Sheffield | MSc Student, Reproductive & Developmental Medicine         | 2025  |                                                                       |
+<style>
+.people-table td:first-child,
+.people-table th:first-child {
+  width: 130px;
+  min-width: 130px;
+  max-width: 150px;
+}
+</style>
+
+<table class="people-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Name</th>
+      <th>Affiliation</th>
+      <th>Role</th>
+      <th>Year</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" /></td>
+      <td><strong>Stanley E. Strawbridge</strong></td>
+      <td>University of Sheffield</td>
+      <td>Principal Investigator</td>
+      <td>—</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" /></td>
+      <td><strong>Yuze Cao</strong></td>
+      <td>ENS Paris</td>
+      <td>PhD Student, Biophysics</td>
+      <td>2024</td>
+      <td>Primary supervisors: David Holcman, Srinjan Basu</td>
+    </tr>
+    <tr>
+      <td><img src="/assets/images/people/cherie_cheung.jpg" class="people-photo" /></td>
+      <td><strong>Cherie Cheung</strong></td>
+      <td>University of Sheffield</td>
+      <td>BA Student, Biomedical Sciences</td>
+      <td>2025</td>
+      <td>Sheffield Undergraduate Research Experience (SURE) Student</td>
+    </tr>
+    <tr>
+      <td><img src="/assets/images/people/gina_penetra.jpg" class="people-photo" /></td>
+      <td><strong>Gina Penetra</strong></td>
+      <td>University of Sheffield</td>
+      <td>BA Student, Biomedical Sciences</td>
+      <td>2025</td>
+      <td>Co-supervised with Paul J. Gokhale; SURE Student</td>
+    </tr>
+    <tr>
+      <td><img src="/assets/images/people/harriet_english.jpg" class="people-photo" /></td>
+      <td><strong>Harriet L. English</strong></td>
+      <td>University of Sheffield</td>
+      <td>MSc Student, Reproductive & Developmental Medicine</td>
+      <td>2025</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" /></td>
+      <td><strong>Samuel Guttridge</strong></td>
+      <td>University of Sheffield</td>
+      <td>PhD Student, Reproductive Medicine</td>
+      <td>2025</td>
+      <td>Primary supervisor: Emma Lucas</td>
+    </tr>
+    <tr>
+      <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="people-photo" /></td>
+      <td><strong>Samuel J. Higgins-Aguilar</strong></td>
+      <td>University of Sheffield</td>
+      <td>MSc Student, Reproductive & Developmental Medicine</td>
+      <td>2025</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
