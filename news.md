@@ -16,24 +16,25 @@ The lab attended this excellent BSDB-sponsored meeting. Stan is *still* presenti
 
 <table>
 <tr>
-  <td><img src="/assets/images/news/20250710-NEDB.jpg" width="400" alt="Cool Kids"></td>
+  <td><img src="/assets/images/news/20250710-NEDB.jpg" class="news-photo" alt="Cool Kids"></td>
 </tr>
 </table>
 
 ### 2 July 2025  
-Lab Excuresion to Golf Fang Sheffield. In the end, everyone gets a hole-in-one!
+Lab Excursion to Golf Fang Sheffield. In the end, everyone gets a hole-in-one!
 
 <table>
 <tr>
-  <td><img src="/assets/images/news/20250702-golf_fang-plane.jpg" width="400" alt="Take Flight"></td>
-  <td><img src="/assets/images/news/20250702-golf_fang-swan.jpg" width="400" alt="Stop staring at me swan!"></td>
+  <td><img src="/assets/images/news/20250702-golf_fang-plane.jpg" class="news-photo" alt="Take Flight"></td>
+  <td><img src="/assets/images/news/20250702-golf_fang-swan.jpg" class="news-photo" alt="Stop staring at me swan!"></td>
 </tr>
 </table>
 
-Medals awarded at Friday's journal club: Cherie, Gold; Sam H.-A., Silver, ; and Harriet, Bronze.
+Medals awarded at Friday's journal club: Cherie, Gold; Sam H.-A., Silver; and Harriet, Bronze.
+
 <table>
 <tr>
-  <td><img src="/assets/images/news/20250704-golf_fang-medalists.jpg" width="400" alt="go for gold!"></td>
+  <td><img src="/assets/images/news/20250704-golf_fang-medalists.jpg" class="news-photo" alt="Go for gold!"></td>
 </tr>
 </table>
 
@@ -46,26 +47,26 @@ Cherie will be exploring cell signalling and Gina will be working on genome stab
 
 <table>
 <tr>
-  <td><img src="/assets/images/people/cherie_cheung.jpg" width="400" alt="Lab selfie"></td>
-  <td><img src="/assets/images/people/gina_penetra.jpg" width="400" alt="View"></td>
+  <td><img src="/assets/images/people/cherie_cheung.jpg" class="news-photo" alt="Cherie Cheung"></td>
+  <td><img src="/assets/images/people/gina_penetra.jpg" class="news-photo" alt="Gina Penetra"></td>
 </tr>
 </table>
 
 ### 14 May 2025  
 Welcome to **Lawrence Bates** (PDRA, Jennifer Nichols Lab, University of Edinburgh), visiting to give the **DRN Seminar** in Sheffield.
 
-### 12 May 2025
-Lab Excuresion to Mam Tor with our visitor **Lawrence Bates**!
+### 12 May 2025  
+Lab Excursion to Mam Tor with our visitor **Lawrence Bates**!
 
 <table>
 <tr>
-  <td><img src="/assets/images/news/20250512-mam_tor-1.jpg" width="400" alt="Cherie"></td>
-  <td><img src="/assets/images/news/20250512-mam_tor-2.jpg" width="400" alt="Gina"></td>
+  <td><img src="/assets/images/news/20250512-mam_tor-1.jpg" class="news-photo" alt="Cherie on Mam Tor"></td>
+  <td><img src="/assets/images/news/20250512-mam_tor-2.jpg" class="news-photo" alt="Gina on Mam Tor"></td>
 </tr>
 </table>
 
-### 7 May 2025
-Welcome to **Rober Insall** (UCL), visiting to give the **Materials & Biological Physics** in Sheffield.
+### 7 May 2025  
+Welcome to **Rober Insall** (UCL), visiting to give the **Materials & Biological Physics** seminar in Sheffield.
 
 ### 7 March 2025  
 **Cambridge Developmental Biology Seminar Series**, University of Cambridge, UK  
@@ -92,7 +93,7 @@ They will be investigating the implications of aneuploidies on extraembryonic li
 
 <table>
 <tr>
-  <td><img src="/assets/images/people/harriet_english.jpg" width="400" alt="Harriet"></td>
-  <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" width="400" alt="Sam"></td>
+  <td><img src="/assets/images/people/harriet_english.jpg" class="news-photo" alt="Harriet English"></td>
+  <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="news-photo" alt="Samuel Higgins-Aguilar"></td>
 </tr>
 </table>
