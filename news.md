@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 ---
 
+# News
+
 ### 5 August 2025  
 Thank you, **Cherie**, for all your hard work this summer! Wishing you the very best of luck with your final year.
 
