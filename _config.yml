@@ -1,0 +1,17 @@
+# _config.yml
+title: “Stanley Strawbridge”            
+description: “Physics of Life and Quantitative Biology Fellow” 
+baseurl: ""                             
+url: "https://stanleystrawbridge.github.io"
+
+theme: minima                         
+plugins: [ jekyll-feed ]               
+markdown: kramdown                     
+
+header_pages:
+  - index.md
+  - about.md
+  - people.md
+  - research.md
+  - publications.md
+  - contact.md
