@@ -103,7 +103,17 @@ They will be investigating the implications of aneuploidies on extraembryonic li
 
 <table>
 <tr>
-  <td><img src="/assets/images/people/harriet_english.jpg" class="news-photo" alt="Harriet English"></td>
-  <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="news-photo" alt="Samuel Higgins-Aguilar"></td>
+  <td>
+    <figure>
+      <img src="/assets/images/people/harriet_english.jpg" class="news-photo" alt="Harriet English">
+      <figcaption style="text-align: center;">Harriet English</figcaption>
+    </figure>
+  </td>
+  <td>
+    <figure>
+      <img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="news-photo" alt="Samuel Higgins-Aguilar">
+      <figcaption style="text-align: center;">Samuel Higgins-Aguilar</figcaption>
+    </figure>
+  </td>
 </tr>
 </table>
