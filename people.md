@@ -54,14 +54,6 @@ permalink: /people/
       <td>Sheffield Undergraduate Research Experience (SURE) Student</td>
     </tr>
     <tr>
-      <td><img src="/assets/images/people/gina_penetra.jpg" class="people-photo" /></td>
-      <td><strong>Gina Penetra</strong></td>
-      <td>University of Sheffield</td>
-      <td>BA Student, Biomedical Sciences</td>
-      <td>2025</td>
-      <td>Co-supervised with Paul J. Gokhale; SURE Student</td>
-    </tr>
-    <tr>
       <td><img src="/assets/images/people/harriet_english.jpg" class="people-photo" /></td>
       <td><strong>Harriet L. English</strong></td>
       <td>University of Sheffield</td>
@@ -84,6 +76,14 @@ permalink: /people/
       <td>MSc Student, Reproductive & Developmental Medicine</td>
       <td>2025</td>
       <td></td>
+    </tr>
+	<tr>
+      <td><img src="/assets/images/people/gina_penetra.jpg" class="people-photo" /></td>
+      <td><strong>Gina Penetra</strong></td>
+      <td>University of Sheffield</td>
+      <td>BA Student, Biomedical Sciences</td>
+      <td>2025</td>
+      <td>Co-supervised with Paul J. Gokhale; SURE Student</td>
     </tr>
   </tbody>
 </table>

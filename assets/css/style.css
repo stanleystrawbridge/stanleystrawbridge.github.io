@@ -32,3 +32,7 @@ table.people-table th:first-child {
   min-width: 130px;
   max-width: 150px;
 }
+
+table.photo-table td {
+  vertical-align: top;
+}
