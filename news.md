@@ -112,48 +112,6 @@ Welcome to **Rober Insall** (UCL), visiting to give the **Materials & Biological
 **Biologists @ 100**, Liverpool, UK  
 Stan presented a poster at this exciting centenary event. Many thanks to the **British Society for Developmental Biology** for providing travel funds!
 
-### 7 March 2025  
-**Cambridge Developmental Biology Seminar Series**, University of Cambridge, UK  
-Stan gave a talk and saw many friendly faces. Thank you for the invite!
-
-<table>
-<tr>
-  <td>
-    <figure>
-      <img src="/assets/images/news/20250307_cambridge-1.jpg" class="news-photo" alt="Hi Mom!">
-      <figcaption>Gurdon Poster Famous.</figcaption>
-    </figure>
-  </td>
-  <td>
-    <figure>
-      <img src="/assets/images/news/20250307_cambridge-2.jpg" class="news-photo" alt="Sigh">
-      <figcaption>Christ's College</figcaption>
-    </figure>
-  </td>
-</tr>
-</table>
-
-### 17 February 2025  
-**Manchester Division of Developmental Biology and Medicine Seminar**, University of Manchester, UK  
-Stan gave a talk hosted by the Division of Developmental Biology & Medicine. Thank you, **Anzy Miller**, for the invitation!
-
-<table>
-<tr>
-  <td>
-    <figure>
-      <img src="/assets/images/news/20250217_manchester-1.jpg" class="news-photo" alt="Helical">
-      <figcaption>Infographicical!</figcaption>
-    </figure>
-  </td>
-  <td>
-    <figure>
-      <img src="/assets/images/news/20250217_manchester-2.jpg" class="news-photo" alt="Regal">
-      <figcaption>Gothic.</figcaption>
-    </figure>
-  </td>
-</tr>
-</table>
-
 ### 12–14 March 2025  
 **Sy-Stem 2025**, Vienna, Austria  
 Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Cambridge Stem Cell Institute.
@@ -201,6 +159,27 @@ Stan dropped in on **Martin Leeb** at the **Max Perutz Labs**, Vienna, to catch 
 </tr>
 </table>
 
+### 7 March 2025  
+**Cambridge Developmental Biology Seminar Series**, University of Cambridge, UK  
+Stan gave a talk and saw many friendly faces. Thank you for the invite!
+
+<table>
+<tr>
+  <td>
+    <figure>
+      <img src="/assets/images/news/20250307_cambridge-1.jpg" class="news-photo" alt="Hi Mom!">
+      <figcaption>Gurdon Poster Famous.</figcaption>
+    </figure>
+  </td>
+  <td>
+    <figure>
+      <img src="/assets/images/news/20250307_cambridge-2.jpg" class="news-photo" alt="Sigh">
+      <figcaption>Christ's College</figcaption>
+    </figure>
+  </td>
+</tr>
+</table>
+
 ### 3 March 2025  
 Welcome to **Josh Brickman** (University of Copenhagen), visiting to give the **DRN Seminar** in Sheffield.
 
@@ -209,8 +188,26 @@ Welcome to **Josh Brickman** (University of Copenhagen), visiting to give the **
 	<figcaption>Anestis, Josh, Ivana, and Stan</figcaption>
 </figure>
 
-### 2 February 2025 
-Welcome to **Vivki Metzis** (MRC LMS), visiting to give the **DRN Seminar** in Sheffield.
+### 17 February 2025  
+**Manchester Division of Developmental Biology and Medicine Seminar**, University of Manchester, UK  
+Stan gave a talk hosted by the Division of Developmental Biology & Medicine. Thank you, **Anzy Miller**, for the invitation!
+
+<table>
+<tr>
+  <td>
+    <figure>
+      <img src="/assets/images/news/20250217_manchester-1.jpg" class="news-photo" alt="Helical">
+      <figcaption>Infographicical!</figcaption>
+    </figure>
+  </td>
+  <td>
+    <figure>
+      <img src="/assets/images/news/20250217_manchester-2.jpg" class="news-photo" alt="Regal">
+      <figcaption>Gothic.</figcaption>
+    </figure>
+  </td>
+</tr>
+</table>
 
 ### 10 February 2025  
 Welcome to **Harriet English** and **Samuel Higgins-Aguilar**, who are joining the lab as part of their MSc in Reproductive and Developmental Medicine.  
@@ -232,6 +229,9 @@ They will be investigating the implications of aneuploidies on extraembryonic li
   </td>
 </tr>
 </table>
+
+### 2 February 2025 
+Welcome to **Vivki Metzis** (MRC LMS), visiting to give the **DRN Seminar** in Sheffield.
 
 ### 15 January 2025 
 Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), visiting to give the **DRN Seminar** in Sheffield.
