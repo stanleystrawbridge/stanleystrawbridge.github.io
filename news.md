@@ -134,7 +134,7 @@ Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Camb
       <figcaption>Axolotl fish!</figcaption>
     </figure>
   </td>
-    <td>
+  <td>
     <figure>
       <img src="/assets/images/news/20250312_SystemTalk-2.jpg" class="news-photo" alt="IMP">
       <figcaption>Willkommen!</figcaption>
