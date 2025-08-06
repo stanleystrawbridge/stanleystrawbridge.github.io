@@ -82,6 +82,23 @@ Welcome to **Thorsten Boroviak** (University of Cambridge), visiting his PhD Alm
 **abcam**, Cambridge, UK
 Stan gave a talk at the *abcam* Cambridge Site. Thank you *Anne Wiblin* for hosting! 
 
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20250519-abcam-1.jpg" class="news-photo" alt="shiny">
+        <figcaption>abcam, but I bet you could tell</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20250519-abcam--2.jpg" class="news-photo" alt="shinier">
+        <figcaption>Also abcam, the hint is in the logo</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ### 14 May 2025  
 Welcome to **Lawrence Bates** (Jennifer Nichols Lab, University of Edinburgh), visiting to give the **DRN Seminar** in Sheffield.
 
@@ -134,13 +151,13 @@ Stan presented a poster at this exciting centenary event. Many thanks to the **B
   <td>
     <figure>
       <img src="/assets/images/news/20250324_cob-1.jpg" class="news-photo" alt="Angular">
-      <figcaption>Museum of Liverpool</figcaption>
+      <figcaption>CoB @ 100</figcaption>
     </figure>
   </td>
   <td>
     <figure>
       <img src="/assets/images/news/20250324_cob-2.jpg" class="news-photo" alt="It's Bright">
-      <figcaption>CoB @ 100</figcaption>
+      <figcaption>Museum of Liverpool</figcaption>
     </figure>
   </td>
 </tr>
