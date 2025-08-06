@@ -120,7 +120,7 @@ Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Camb
 <tr>
   <td>
     <figure>
-      <img src="/assets/images/news/20250312_SystemTalk-1.jpg" class="news-photo" alt="Blub">
+      <img src="/assets/images/news/20250312_SystemTalk-1.JPG" class="news-photo" alt="Blub">
       <figcaption>Axolotl fish!</figcaption>
     </figure>
   </td>
