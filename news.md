@@ -116,6 +116,23 @@ Stan presented a poster at this exciting centenary event. Many thanks to the **B
 **Cambridge Developmental Biology Seminar Series**, University of Cambridge, UK  
 Stan gave a talk and saw many friendly faces. Thank you for the invite!
 
+<table>
+<tr>
+  <td>
+    <figure>
+      <img src="/assets/images/news/20250307_cambridge-1.jpg" class="news-photo" alt="Hi Mom!">
+      <figcaption>Gurdon Poster Famous.</figcaption>
+    </figure>
+  </td>
+  <td>
+    <figure>
+      <img src="/assets/images/news/20250307_cambridge-2.jpg" class="news-photo" alt="Sigh">
+      <figcaption>Christ's College</figcaption>
+    </figure>
+  </td>
+</tr>
+</table>
+
 ### 17 February 2025  
 **Manchester Division of Developmental Biology and Medicine Seminar**, University of Manchester, UK  
 Stan gave a talk hosted by the Division of Developmental Biology & Medicine. Thank you, **Anzy Miller**, for the invitation!
@@ -124,14 +141,14 @@ Stan gave a talk hosted by the Division of Developmental Biology & Medicine. Tha
 <tr>
   <td>
     <figure>
-      <img src="/assets/images/news/20250217_manchester-1.jpg" class="news-photo" alt="Blub">
-      <figcaption>Axolotl fish!</figcaption>
+      <img src="/assets/images/news/20250217_manchester-1.jpg" class="news-photo" alt="Helical">
+      <figcaption>Infographicical!</figcaption>
     </figure>
   </td>
   <td>
     <figure>
-      <img src="/assets/images/news/20250217_manchester-2.jpg" class="news-photo" alt="Nice Slide!">
-      <figcaption>We are indeed recruiting!</figcaption>
+      <img src="/assets/images/news/20250217_manchester-2.jpg" class="news-photo" alt="Regal">
+      <figcaption>Gothic.</figcaption>
     </figure>
   </td>
 </tr>
