@@ -78,6 +78,10 @@ Cherie will be exploring cell signalling and Gina will be working on genome stab
 ### 28 May 2025 
 Welcome to **Thorsten Boroviak** (University of Cambridge), visiting his PhD Alma Mater to give the **DRN Seminar** in Sheffield.
 
+### 19 May 2025 
+**abcam**, Cambridge, UK
+Stan gave a talk at the *abcam* Cambridge Site. Thank you *Anne Wiblin* for hosting! 
+
 ### 14 May 2025  
 Welcome to **Lawrence Bates** (Jennifer Nichols Lab, University of Edinburgh), visiting to give the **DRN Seminar** in Sheffield.
 
@@ -104,13 +108,13 @@ Lab Excursion to Mam Tor with our visitor **Lawrence Bates**!
 ### 7 May 2025  
 Welcome to **Rober Insall** (UCL), visiting to give the **Materials & Biological Physics** seminar in Sheffield.
 
-### 7 March 2025  
-**Cambridge Developmental Biology Seminar Series**, University of Cambridge, UK  
-Stan gave a talk and saw many friendly faces. Thank you for the invite!
-
 ### 24–27 March 2025  
 **Biologists @ 100**, Liverpool, UK  
 Stan presented a poster at this exciting centenary event. Many thanks to the **British Society for Developmental Biology** for providing travel funds!
+
+### 7 March 2025  
+**Cambridge Developmental Biology Seminar Series**, University of Cambridge, UK  
+Stan gave a talk and saw many friendly faces. Thank you for the invite!
 
 ### 17 February 2025  
 **Manchester Division of Developmental Biology and Medicine Seminar**, University of Manchester, UK  
@@ -119,6 +123,43 @@ Stan gave a talk hosted by the Division of Developmental Biology & Medicine. Tha
 ### 12–14 March 2025  
 **Sy-Stem 2025**, Vienna, Austria  
 Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Cambridge Stem Cell Institute.
+
+<table>
+<tr>
+  <td>
+    <figure>
+      <img src="/assets/images/people/20250312_SystemTalk-1.jpg" class="news-photo" alt="Nice Slide!">
+      <figcaption>We are indeed recruiting!</figcaption>
+    </figure>
+  </td>
+  <td>
+    <figure>
+      <img src="/assets/images/people/20250312_SystemTalk-2.jpg" class="news-photo" alt="IMP?">
+      <figcaption>Vienna BioCenter </figcaption>
+    </figure>
+  </td>
+</tr>
+</table>
+
+### 10 March 2025  
+Stan dropped in on *Martin Leeb* at the *Max Perutz Labs*, Vienna, to catch up over some rum punch kuchen!
+
+<table>
+<tr>
+  <td>
+    <figure>
+      <img src="/assets/images/people/20250310_martin.jpg" class="news-photo" alt="Yo!">
+      <figcaption>Martin and Stan</figcaption>
+    </figure>
+  </td>
+  <td>
+    <figure>
+      <img src="/assets/images/people/20250310_max-perutz.jpg" class="news-photo" alt="Graphic!">
+      <figcaption>Something about insulin?</figcaption>
+    </figure>
+  </td>
+</tr>
+</table>
 
 ### 3 March 2025  
 Welcome to **Josh Brickman** (University of Copenhagen), visiting to give the **DRN Seminar** in Sheffield.
@@ -155,8 +196,14 @@ They will be investigating the implications of aneuploidies on extraembryonic li
 ### 15 January 2025 
 Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), visiting to give the **DRN Seminar** in Sheffield.
 
-22 October 2024
+### 22 October 2024
 Stan gave a talk at a Physics of Life (PoL) Joint Project Meeting in Sheffield that brought together PoL fellows and investigators from Sheffield, London, and Warwick.
+
+<figure>
+	<img src="/assets/images/news/20241022_firth_court.jpg" class="news-photo" alt="Quad!">
+	<figcaption>Firth Court</figcaption>
+</figure>
+
 
 ### 16 October 2024 
 Welcome to **Marta Shahbazi** (MRC LMB), visiting to give the **DRN Seminar** in Sheffield.
