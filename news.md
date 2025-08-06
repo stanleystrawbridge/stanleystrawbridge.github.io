@@ -128,33 +128,33 @@ Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Camb
 <tr>
   <td>
     <figure>
-      <img src="/assets/images/people/20250312_SystemTalk-1.jpg" class="news-photo" alt="Nice Slide!">
+      <img src="/assets/images/news/20250312_SystemTalk-1.jpg" class="news-photo" alt="Nice Slide!">
       <figcaption>We are indeed recruiting!</figcaption>
     </figure>
   </td>
   <td>
     <figure>
-      <img src="/assets/images/people/20250312_SystemTalk-2.jpg" class="news-photo" alt="IMP?">
-      <figcaption>Vienna BioCenter </figcaption>
+      <img src="/assets/images/news/20250312_SystemTalk-2.jpg" class="news-photo" alt="IMP?">
+      <figcaption>Vienna BioCenter has a tank with axolotol!</figcaption>
     </figure>
   </td>
 </tr>
 </table>
 
 ### 10 March 2025  
-Stan dropped in on *Martin Leeb* at the *Max Perutz Labs*, Vienna, to catch up over some rum punch kuchen!
+Stan dropped in on **Martin Leeb** at the **Max Perutz Labs**, Vienna, to catch up over some rum punch kuchen!
 
 <table>
 <tr>
   <td>
     <figure>
-      <img src="/assets/images/people/20250310_martin.jpg" class="news-photo" alt="Yo!">
+      <img src="/assets/images/news/20250310_martin.jpg" class="news-photo" alt="Yo!">
       <figcaption>Martin and Stan</figcaption>
     </figure>
   </td>
   <td>
     <figure>
-      <img src="/assets/images/people/20250310_max-perutz.jpg" class="news-photo" alt="Graphic!">
+      <img src="/assets/images/news/20250310_max-perutz.jpg" class="news-photo" alt="Graphic!">
       <figcaption>Something about insulin?</figcaption>
     </figure>
   </td>
