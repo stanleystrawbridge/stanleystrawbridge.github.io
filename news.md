@@ -120,7 +120,22 @@ Stan gave a talk and saw many friendly faces. Thank you for the invite!
 **Manchester Division of Developmental Biology and Medicine Seminar**, University of Manchester, UK  
 Stan gave a talk hosted by the Division of Developmental Biology & Medicine. Thank you, **Anzy Miller**, for the invitation!
 
-
+<table>
+<tr>
+  <td>
+    <figure>
+      <img src="/assets/images/news/20250217_manchester-1.jpg" class="news-photo" alt="Blub">
+      <figcaption>Axolotl fish!</figcaption>
+    </figure>
+  </td>
+  <td>
+    <figure>
+      <img src="/assets/images/news/20250217_manchester-2.jpg" class="news-photo" alt="Nice Slide!">
+      <figcaption>We are indeed recruiting!</figcaption>
+    </figure>
+  </td>
+</tr>
+</table>
 
 ### 12–14 March 2025  
 **Sy-Stem 2025**, Vienna, Austria  
