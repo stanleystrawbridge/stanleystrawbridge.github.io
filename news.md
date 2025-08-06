@@ -130,14 +130,20 @@ Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Camb
 <tr>
   <td>
     <figure>
-      <img src="/assets/images/news/20250312_SystemTalk-1.jpg" class="news-photo" alt="Nice Slide!">
-      <figcaption>We are indeed recruiting!</figcaption>
+      <img src="/assets/images/news/20250312_SystemTalk-1.jpg" class="news-photo" alt="Blub">
+      <figcaption>Axolotl fish!</figcaption>
+    </figure>
+  </td>
+    <td>
+    <figure>
+      <img src="/assets/images/news/20250312_SystemTalk-2.jpg" class="news-photo" alt="IMP">
+      <figcaption>Willkommen!</figcaption>
     </figure>
   </td>
   <td>
     <figure>
-      <img src="/assets/images/news/20250312_SystemTalk-2.jpg" class="news-photo" alt="IMP">
-      <figcaption>Vienna BioCenter has a tank with axolotl!</figcaption>
+      <img src="/assets/images/news/20250312_SystemTalk-3.jpg" class="news-photo" alt="Nice Slide!">
+      <figcaption>We are indeed recruiting!</figcaption>
     </figure>
   </td>
 </tr>
