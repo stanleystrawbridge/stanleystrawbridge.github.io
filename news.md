@@ -78,7 +78,10 @@ Cherie will be exploring cell signalling and Gina will be working on genome stab
 ### 28 May 2025 
 Welcome to **Thorsten Boroviak** (University of Cambridge), visiting his PhD Alma Mater to give the **DRN Seminar** in Sheffield.
 
-
+<figure>
+  <img src="/assets/images/news/202505258-thorsten.jpg" class="news-photo" alt="Jolly!">
+  <figcaption>Dr. Boroviak in action.</figcaption>
+</figure>
 
 ### 19 May 2025 
 **abcam**, Cambridge, UK  
@@ -94,7 +97,7 @@ Stan gave a talk at the **abcam** Cambridge Site. Thank you **Anne Wiblin** for 
     </td>
     <td>
       <figure>
-        <img src="/assets/images/news/20250519-abcam--2.jpg" class="news-photo" alt="shinier">
+        <img src="/assets/images/news/20250519-abcam--2.JPG" class="news-photo" alt="shinier">
         <figcaption>Also abcam, the hint is in the logo</figcaption>
       </figure>
     </td>
