@@ -323,8 +323,21 @@ Welcome to **Marta Shahbazi** (MRC LMB), visiting to give the **DRN Seminar** in
 ### September 2024
 **The Strawbridge Lab** is established in name and begins transition From the Univeristy of Cambridge to the Univeristy of Sheffield!
 
-Thank you Cambridge for a fantastic 11 years. Endless thanks to the Smith, Nichols , and Basu Labs.
-<figure>
-	<img src="/assets/images/news/20241022_firth_court.jpg" class="news-photo" alt="Quad!">
-	<figcaption>Firth Court</figcaption>
-</figure>
+Thank you Cambridge for a fantastic 11 years. Endless thanks to the Smith, Nichols, and Basu Labs.
+
+<table>
+<tr>
+  <td>
+    <figure>
+		<img src="/assets/images/news/20240901_firth_court.jpg" class="news-photo" alt="Quad!">
+		<figcaption>Firth Court</figcaption>
+    </figure>
+  </td>
+  <td>
+    <figure>
+		<img src="/assets/images/news/20240901_hans.jpg" class="news-photo" alt="Quad!">
+		<figcaption>Sir Hans Krebs, FRS</figcaption>
+    </figure>
+  </td>
+</tr>
+</table>
