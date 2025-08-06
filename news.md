@@ -133,14 +133,14 @@ Stan presented a poster at this exciting centenary event. Many thanks to the **B
 <tr>
   <td>
     <figure>
-      <img src="/assets/images/news/20250324_cob-1.jpg" class="news-photo" alt="Yo!">
-      <figcaption>Martin and Stan</figcaption>
+      <img src="/assets/images/news/20250324_cob-1.jpg" class="news-photo" alt="Angular">
+      <figcaption>Museum of Liverpool</figcaption>
     </figure>
   </td>
   <td>
     <figure>
-      <img src="/assets/images/news/20250324_cob-2.jpg" class="news-photo" alt="Graphic!">
-      <figcaption>Something about insulin?</figcaption>
+      <img src="/assets/images/news/20250324_cob-2.jpg" class="news-photo" alt="It's Bright">
+      <figcaption>CoB @ 100</figcaption>
     </figure>
   </td>
 </tr>
