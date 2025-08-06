@@ -103,3 +103,5 @@ permalink: /publications/
       BS Mathematics, West Virginia University.
   </li>
 </ol>
+
+</div>
