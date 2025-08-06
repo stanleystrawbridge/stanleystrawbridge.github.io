@@ -85,6 +85,23 @@ Stan gave a talk at the *abcam* Cambridge Site. Thank you *Anne Wiblin* for host
 ### 14 May 2025  
 Welcome to **Lawrence Bates** (Jennifer Nichols Lab, University of Edinburgh), visiting to give the **DRN Seminar** in Sheffield.
 
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20250514_larry-1.jpg" class="news-photo" alt="cafe">
+        <figcaption>Lawrence and Stan at Coffe Revs</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20250514_larry-2.jpg" class="news-photo" alt="what am I doing with my hands?">
+        <figcaption>Lawrence Presenting</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ### 12 May 2025  
 Lab Excursion to Mam Tor with our visitor **Lawrence Bates**!
 
@@ -92,13 +109,13 @@ Lab Excursion to Mam Tor with our visitor **Lawrence Bates**!
   <tr>
     <td>
       <figure>
-        <img src="/assets/images/news/20250512-mam_tor-1.jpg" class="news-photo" alt="Cherie on Mam Tor">
+        <img src="/assets/images/news/20250512-mam_tor-1.jpg" class="news-photo" alt="on the mount">
         <figcaption>Counter-clockwise from the front: Stan, Lawrence, Harriet, and Sam</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="/assets/images/news/20250512-mam_tor-2.jpg" class="news-photo" alt="Gina on Mam Tor">
+        <img src="/assets/images/news/20250512-mam_tor-2.jpg" class="news-photo" alt="Onto the mount">
         <figcaption>Mam Tor in the distance</figcaption>
       </figure>
     </td>
@@ -111,6 +128,24 @@ Welcome to **Rober Insall** (UCL), visiting to give the **Materials & Biological
 ### 24–27 March 2025  
 **Biologists @ 100**, Liverpool, UK  
 Stan presented a poster at this exciting centenary event. Many thanks to the **British Society for Developmental Biology** for providing travel funds!
+
+<table>
+<tr>
+  <td>
+    <figure>
+      <img src="/assets/images/news/20250324_cob-1.jpg" class="news-photo" alt="Yo!">
+      <figcaption>Martin and Stan</figcaption>
+    </figure>
+  </td>
+  <td>
+    <figure>
+      <img src="/assets/images/news/20250324_cob-2.jpg" class="news-photo" alt="Graphic!">
+      <figcaption>Something about insulin?</figcaption>
+    </figure>
+  </td>
+</tr>
+</table>
+
 
 ### 12–14 March 2025  
 **Sy-Stem 2025**, Vienna, Austria  
