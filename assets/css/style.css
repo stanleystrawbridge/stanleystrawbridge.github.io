@@ -36,3 +36,17 @@ table.people-table th:first-child {
 table.photo-table td {
   vertical-align: top;
 }
+
+
+#publications-page h2,  
+#publications-page h3 {
+  margin-top: 2.2rem;  
+  margin-bottom: 0.6rem;
+}
+
+
+#publications-page ol {
+  margin-top: 0;        
+  margin-bottom: 2rem;  
+  padding-left: 1.4rem; 
+}

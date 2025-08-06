@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 ---
 
+<div id="publications-page">
+
 # Publications
 ---
 
