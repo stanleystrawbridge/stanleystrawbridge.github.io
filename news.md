@@ -321,8 +321,9 @@ Stan gave a talk at a Physics of Life (PoL) Joint Project Meeting in Sheffield t
 Welcome to **Marta Shahbazi** (MRC LMB), visiting to give the **DRN Seminar** in Sheffield.
 
 ### September 2024
-Strawbridge Lab established in name and begins transition to the Univeristy of Sheffield!
+**The Strawbridge Lab** is established in name and begins transition From the Univeristy of Cambridge to the Univeristy of Sheffield!
 
+Thank you Cambridge for a fantastic 11 years. Endless thanks to the Smith, Nichols , and Basu Labs.
 <figure>
 	<img src="/assets/images/news/20241022_firth_court.jpg" class="news-photo" alt="Quad!">
 	<figcaption>Firth Court</figcaption>
