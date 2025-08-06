@@ -12,6 +12,14 @@ Thank you, **Cherie**, for all your hard work this summer! Wishing you the very 
 ### 25 July 2025  
 Thank you for all your energy and dedication this summer, **Gina**! Wishing you success in the year ahead.
 
+### 18 July 2025
+**Smith Lab* Reunion in Cambridge.
+
+<figure>
+  <img src="/assets/images/news/20250718-smithLabReunion.JPG" class="news-photo" alt="Favs">
+  <figcaption></figcaption>
+</figure>
+
 ### 11 July 2025  
 **Bateson Centre Symposium**, University of Sheffield, UK  
 Stan introduces his to the Bateson Centre for Disease Mechanisms by giving a talk. 
@@ -102,7 +110,7 @@ Stan gave a talk at the **abcam** Cambridge Site. Thank you **Anne Wiblin** for 
     </td>
     <td>
       <figure>
-        <img src="/assets/images/news/20250519-abcam--2.JPG" class="news-photo" alt="shinier">
+        <img src="/assets/images/news/20250519-abcam-2.jpg" class="news-photo" alt="shinier">
         <figcaption>Also abcam, the hint is in the logo</figcaption>
       </figure>
     </td>
