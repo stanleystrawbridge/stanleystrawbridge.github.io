@@ -311,7 +311,7 @@ Excursion up Win Hill with the **Placzek Lab** et al. Thank you Marysia and Andy
 
 <figure>
 	<img src="/assets/images/news/20241216_winhill.jpg" class="news-photo" alt="Quad!">
-	<figcaption>Firth Court</figcaption>
+	<figcaption>Oscar the Lab stealing the show.</figcaption>
 </figure>
 
 ### 22 October 2024
