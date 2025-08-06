@@ -136,8 +136,8 @@ Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Camb
   </td>
   <td>
     <figure>
-      <img src="/assets/images/news/20250312_SystemTalk-2.jpg" class="news-photo" alt="IMP?">
-      <figcaption>Vienna BioCenter has a tank with axolotol!</figcaption>
+      <img src="/assets/images/news/20250312_SystemTalk-2.jpg" class="news-photo" alt="IMP">
+      <figcaption>Vienna BioCenter has a tank with axolotl!</figcaption>
     </figure>
   </td>
 </tr>
