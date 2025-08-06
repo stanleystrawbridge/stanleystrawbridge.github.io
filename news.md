@@ -89,7 +89,7 @@ Welcome to **Lawrence Bates** (Jennifer Nichols Lab, University of Edinburgh), v
   <tr>
     <td>
       <figure>
-        <img src="/assets/images/news/20250514_larry-1.jpg" class="news-photo" alt="cafe">
+        <img src="/assets/images/news/20250514_larry-1.JPG" class="news-photo" alt="cafe">
         <figcaption>Lawrence and Stan at Coffe Revs</figcaption>
       </figure>
     </td>
