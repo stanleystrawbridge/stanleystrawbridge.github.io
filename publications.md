@@ -7,9 +7,12 @@ permalink: /publications/
 # Publications
 ---
 
+† Authors contributed equally
+* Corresponding author
+
 ## Articles
 <ol reversed>
-  <li><strong>Strawbridge, S.E.</strong>, Schrattel, A.K., Humphreys, P., Jones, K.A., Artus, J., Hadjantonakis, A.K., Fletcher, A.G., Nichols, J. (2025).  
+  <li><strong>Strawbridge, S.E.<sup>†*</sup></strong>, Schrattel, A.K., Humphreys, P., Jones, K.A., Artus, J., Hadjantonakis, A.K., Fletcher, A.G., Nichols, J. (2025).  
       <em>Donor embryonic stem cells displace host cells of 8-cell-stage chimeras to the extra-embryonic lineages by spatial crowding and FGF4 signalling.</em>  
       <strong>Development</strong>, 152 (12), dev204518.
   </li>
