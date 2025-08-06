@@ -317,11 +317,13 @@ Excursion up Win Hill with the **Placzek Lab** et al. Thank you Marysia and Andy
 ### 22 October 2024
 Stan gave a talk at a Physics of Life (PoL) Joint Project Meeting in Sheffield that brought together PoL fellows and investigators from Sheffield, London, and Warwick.
 
+### 16 October 2024 
+Welcome to **Marta Shahbazi** (MRC LMB), visiting to give the **DRN Seminar** in Sheffield.
+
+### September 2024
+Strawbridge Lab established in name and begins transition to the Univeristy of Sheffield!
+
 <figure>
 	<img src="/assets/images/news/20241022_firth_court.jpg" class="news-photo" alt="Quad!">
 	<figcaption>Firth Court</figcaption>
 </figure>
-
-
-### 16 October 2024 
-Welcome to **Marta Shahbazi** (MRC LMB), visiting to give the **DRN Seminar** in Sheffield.
