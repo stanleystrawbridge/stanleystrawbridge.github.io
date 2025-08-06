@@ -7,8 +7,8 @@ permalink: /publications/
 # Publications
 ---
 
-† First/Co-first author(s)
-* Corresponding/Co-corresponding author(s)
+<sup>†</sup> First/Co-first author(s)
+<sup>*</sup> Corresponding/Co-corresponding author(s)
 
 ## Articles
 <ol reversed>
