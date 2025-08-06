@@ -120,6 +120,8 @@ Stan gave a talk and saw many friendly faces. Thank you for the invite!
 **Manchester Division of Developmental Biology and Medicine Seminar**, University of Manchester, UK  
 Stan gave a talk hosted by the Division of Developmental Biology & Medicine. Thank you, **Anzy Miller**, for the invitation!
 
+
+
 ### 12–14 March 2025  
 **Sy-Stem 2025**, Vienna, Austria  
 Stan gave a talk at Sy-Stem and caught up with many familiar faces from the Cambridge Stem Cell Institute.
