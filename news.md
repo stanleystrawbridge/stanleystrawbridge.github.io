@@ -335,7 +335,7 @@ Thank you Cambridge for a fantastic 11 years. Endless thanks to the Smith, Nicho
   </td>
   <td>
     <figure>
-		<img src="/assets/images/news/20240901_hans.jpg" class="news-photo" alt="Quad!">
+		<img src="/assets/images/news/20240901_hans.JPG" class="news-photo" alt="Quad!">
 		<figcaption>Sir Hans Krebs, FRS</figcaption>
     </figure>
   </td>
