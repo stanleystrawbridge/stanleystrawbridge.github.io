@@ -54,6 +54,11 @@ Medals awarded at Friday's journal club!
 ### 25 June 2025  
 Welcome to **Sissy Wamaitha** (Amander Clark Lab, UCLA), visiting Sheffield to give the **DRN Seminar**.
 
+<figure>
+  <img src="/assets/images/news/20250625-sissy.jpg" class="news-photo" alt="FWC4LyFe">
+  <figcaption>Sissy and Stan</figcaption>
+</figure>
+
 ### 16 June 2025  
 A warm welcome to **Cherie Cheung** and **Gina Penetra**, who are joining us this summer through the Sheffield Undergraduate Research Experience (SURE) Scheme.  
 Cherie will be exploring cell signalling and Gina will be working on genome stability.
@@ -79,7 +84,7 @@ Cherie will be exploring cell signalling and Gina will be working on genome stab
 Welcome to **Thorsten Boroviak** (University of Cambridge), visiting his PhD Alma Mater to give the **DRN Seminar** in Sheffield.
 
 <figure>
-  <img src="/assets/images/news/202505258-thorsten.jpg" class="news-photo" alt="Jolly!">
+  <img src="/assets/images/news/20250528-thorsten.jpg" class="news-photo" alt="Jolly!">
   <figcaption>Dr. Boroviak in action.</figcaption>
 </figure>
 
@@ -292,6 +297,14 @@ Welcome to **Vivki Metzis** (MRC LMS), visiting to give the **DRN Seminar** in S
 
 ### 15 January 2025 
 Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), visiting to give the **DRN Seminar** in Sheffield.
+
+### 16 December 2024 
+Excursion up Win Hill with the **Placzek Lab** et al. Thank you Marysia and Andy for hosting!
+
+<figure>
+	<img src="/assets/images/news/20241216_winhill.jpg" class="news-photo" alt="Quad!">
+	<figcaption>Firth Court</figcaption>
+</figure>
 
 ### 22 October 2024
 Stan gave a talk at a Physics of Life (PoL) Joint Project Meeting in Sheffield that brought together PoL fellows and investigators from Sheffield, London, and Warwick.
