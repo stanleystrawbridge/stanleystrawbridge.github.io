@@ -16,7 +16,7 @@ permalink: /publications/
 
   <li>Chinnaiya, K., Groves, I., Manning, E., Place, E., Furley, C., <strong>Strawbridge, S.E.</strong>, Fletcher, A.G., Placzek, M. (2025).  
       <em>Balancing SHH and BMP/FGF10 to specify tuberal hypothalamic neurons and glia.</em>  
-      <strong>Developmental Biology<strong>.
+      <strong>Developmental Biology</strong>.
   </li>
 
   <li><strong>Strawbridge, S.E.</strong>, Kurowski, A., Corujo-Simón, E., Fletcher, A.N., Nichols, J., Fletcher, A.G. (2023).  
