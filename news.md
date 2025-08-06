@@ -13,11 +13,11 @@ Thank you, **Cherie**, for all your hard work this summer! Wishing you the very 
 Thank you for all your energy and dedication this summer, **Gina**! Wishing you success in the year ahead.
 
 ### 18 July 2025
-**Smith Lab* Reunion in Cambridge.
+**Smith Lab** Reunion in Cambridge.
 
 <figure>
   <img src="/assets/images/news/20250718-smithLabReunion.JPG" class="news-photo" alt="Favs">
-  <figcaption></figcaption>
+  <figcaption>Some of the best people around</figcaption>
 </figure>
 
 ### 11 July 2025  
