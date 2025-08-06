@@ -77,25 +77,25 @@ permalink: /publications/
 
 ---
 
-## Theses
+## Dissertations
 <ol reversed>
   <li><strong>Strawbridge, S.E.</strong> (2019).  
       <em>Understanding the Dynamics of Embryonic Stem Cell Differentiation.</em>  
-      PhD Dissertation, Biochemistry, University of Cambridge.
+      PhD Biochemistry, University of Cambridge.
   </li>
 
   <li><strong>Strawbridge, S.E.</strong> (2013).  
       <em>The Effects of Fluid Flow on Cell Aggregation: A Hybrid Approach to Modeling Chemotaxis.</em>  
-      MSc Dissertation, Mathematical Modelling & Scientific Computing, University of Oxford.
+      MSc Mathematical Modelling & Scientific Computing, University of Oxford.
   </li>
 
   <li><strong>Strawbridge, S.E.</strong> (2011).  
       <em>Dissecting the Relationship between SOD and GSH in HepG2 Cells.</em>  
-      BS Dissertation, Biochemistry, West Virginia University.
+      BS Biochemistry, West Virginia University.
   </li>
 
   <li><strong>Strawbridge, S.E.</strong> (2011).  
       <em>Examination of a Hamiltonian Kepler Problem with Classical and Special Relativistic Mechanics.</em>  
-      BS Dissertation, Mathematics, West Virginia University.
+      BS Mathematics, West Virginia University.
   </li>
 </ol>
