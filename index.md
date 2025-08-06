@@ -3,8 +3,17 @@ layout: home
 title: "Home"
 permalink: /
 ---
-Welcome to my website!  
 
+
+About
+
+The Research
+
+Plain Language
+
+The Details
+
+Contact
 
 
 
