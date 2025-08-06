@@ -336,7 +336,7 @@ Thank you Cambridge for a fantastic 11 years. Endless thanks to the Smith, Nicho
   <td>
     <figure>
 		<img src="/assets/images/news/20240901_hans.JPG" class="news-photo" alt="Biochemical!">
-		<figcaption>Sir Hans Krebs, FRS</figcaption>
+		<figcaption>Prof Sir Hans Krebs, FRS</figcaption>
     </figure>
   </td>
 </tr>
