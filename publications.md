@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-<div id="publications-page">
+
 
 # Publications
 ---
@@ -104,4 +104,3 @@ permalink: /publications/
   </li>
 </ol>
 
-</div>
