@@ -10,8 +10,9 @@ markdown: kramdown
 
 header_pages:
   - index.md
-  - news.md
+
   - people.md
   - publications.md
   - public engagement.md
+  - news.md
   - joining the lab.md
