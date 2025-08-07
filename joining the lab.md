@@ -8,7 +8,6 @@ permalink: /join/
 
 ---
 
-
 We welcome **motivated, curious researchers** at every career stage who enjoy working across disciplines.  
 
 If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbridge@sheffield.ac.uk)** with 
@@ -18,7 +17,6 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 3. which route below you’re considering  
 
 ---
-
 
 ## Research Themes
 
@@ -33,11 +31,9 @@ Have another idea? Let’s talk!
 
 ---
   
-  
 ## Routes into the Lab  
 
 ---
-
 
 ### Undergraduate
 
@@ -48,7 +44,6 @@ Have another idea? Let’s talk!
 | L4 Final-Year Research Projects (Biomedical Sci & allied degrees) | choose in autumn (internal portal) |
 
 ---
-
 
 ### Master’s Research
 
@@ -62,23 +57,22 @@ Projects can be hosted through :
 
 ---
 
-
 ### PhD Studentships
 
 Most funded projects are advertised via **[FindAPhD](https://www.findaphd.com/)** and on social media (Bluesky `@stanleystrawbridge.bsky.social`, X `@StanStrawbridge`).  
+
+**Clinicians:** see the [UKRI Pre-Doctoral Clinical Research Training Fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/).
+
 Self-funded or externally-funded applicants: please email first.
 
-#### Sample self-funded topics
+#### Current self-funded topics
 
 | Theme | Example skill set |
 | :--- | :--- |
 | Modelling pre-implantation lineage kinetics | image analysis, segmentation, agent-based / continuum modelling |
 | Human implantation platform (blastoids + endometrial assembloids) | stem-cell culture, 3-D imaging, quantitative analysis |
 
-> **Clinicians:** see the [UKRI Pre-Doctoral Clinical Research Training Fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/).
-
 ---
-
 
 ### Postdoctoral Fellowships
 
@@ -100,7 +94,6 @@ Below are common schemes we host/support&hairsp;—&hairsp;others welcome!
 *Email us **3 – 6 months** before applying so we can craft a competitive proposal.*
 
 ---
-
 
 ## What We Offer
 
