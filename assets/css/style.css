@@ -1,3 +1,9 @@
+.news-photo {
+  height: 250px;
+  padding: 10px;
+  border-radius: 8px;
+}
+
 .people-photo {
   height: 100px;
   object-fit: cover;
@@ -6,10 +12,14 @@
   margin: 0 auto;
 }
 
-.news-photo {
-  height: 250px;
-  padding: 10px;
-  border-radius: 8px;
+.site-title {
+  display: none;   /* hide the big blue title link */
+}
+
+figcaption {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 4px;
 }
 
 figure {
@@ -19,11 +29,6 @@ figure {
   margin: 20px auto;
   padding: 0;
   text-align: center;
-}
-figcaption {
-  font-size: 0.9em;
-  color: #555;
-  margin-top: 4px;
 }
 
 table.people-table td:first-child,
@@ -51,6 +56,3 @@ table.photo-table td {
   padding-left: 1.4rem; 
 }
 
-.site-title {
-  display: none;   /* hide the big blue title link */
-}
