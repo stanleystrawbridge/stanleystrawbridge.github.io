@@ -4,7 +4,7 @@ description: Quantifying human development
 baseurl: ""                             
 url: "https://stanleystrawbridge.github.io"
      
-theme: null
+theme: minima
      
 plugins: [ jekyll-feed ]
 markdown: kramdown                     
