@@ -14,11 +14,13 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 2. your CV (PDF)  
 3. which route below you’re considering  
 
+
 ---
+
 
 ## Research Themes
 
-We develop **quantitative, computational, and imaging approaches** to understand early human development:
+We develop **quantitative, computational, and imaging approaches** to understand early human development and when it goes wrong:
 
 - **Cell-population dynamics** – lineage allocation & pattern formation  
 - **Morphogen gradients** – imaging + modelling in dense tissues  
@@ -29,7 +31,11 @@ Have another idea? Let’s talk!
 
 ---
 
+
 ## Routes into the Lab
+
+---
+
 
 ### Undergraduate
 
@@ -40,6 +46,7 @@ Have another idea? Let’s talk!
 | L4 Final-Year Research Projects (Biomedical Sci & allied degrees) | choose in autumn (internal portal) |
 
 ---
+
 
 ### Master’s Research
 
