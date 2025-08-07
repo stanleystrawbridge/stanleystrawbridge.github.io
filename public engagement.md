@@ -5,7 +5,8 @@ permalink: /public-engagement/
 ---
 
 Public engagement is a core part of our lab’s work.  
-If you’d like to collaborate on an activity or you are curious about what is possible, please **[get in touch](mailto:s.strawbridge@sheffield.ac.uk)**.  
+
+If you’d like to collaborate on an activity or you are curious about what is possible, please **[get in touch](mailto:s.strawbridge@sheffield.ac.uk)**.
 Below are a few highlights.
 
 ---
@@ -41,7 +42,7 @@ At the Cambridge Stem Cell Institute we ran **Game Jams** that brought local gam
 ---
 
 ### Science Comedy
-Science inspired comedy is a great way to show that scientist are just normal people. 
+Science inspired comedy is a great way to show that scientist are just normal people.
 Or to confirm the publics suspicisions that we are as delightfully odd as they think we are!
 Stan has performed sets, emceed comedy nights, and trained performers in Cambridge and London.
 
