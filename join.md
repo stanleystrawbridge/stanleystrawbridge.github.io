@@ -105,3 +105,5 @@ Below are common schemes we host/support&hairsp;—&hairsp;others welcome!
 * Sheffield: affordable city, Peak District 15 min away  
 
 **Questions?** Just [email](mailto:s.strawbridge@sheffield.ac.uk) – we’re happy to chat!
+
+---
