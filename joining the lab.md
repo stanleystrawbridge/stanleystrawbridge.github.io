@@ -54,6 +54,8 @@ We supervise projects via:
 
 ### PhD Studentships
 
+[UKRI Predoctoral clinical research training fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/)
+
 Funded projects appear on **[FindAPhD](https://www.findaphd.com/)** and social media  
 (Bluesky `@stanleystrawbridge.bsky.social`, X `@StanStrawbridge`).  
 Self-funded or externally-funded applicants: email first.
@@ -69,17 +71,22 @@ Self-funded or externally-funded applicants: email first.
 
 ### Postdoctoral Fellowships <span id="fellowships"></span>
 
+Examples include, but are not limited to:
+
 | Fellowship | Typical deadline |
 |------------|------------------|
-| [EMBO Postdoctoral Fellowship](https://www.embo.org/funding/fellowships/postdoctoral-fellowship/) | mid-April & mid-October |
-| [HFSP Long-Term Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships) | February |
+| [BBSRC fellowships](https://www.ukri.org/what-we-do/developing-people-and-skills/bbsrc/fellowships/) | variable |
+| [EMBO Postdoctoral Fellowship](https://www.embo.org/funding/fellowships/postdoctoral-fellowship/) | January and July |
+| [Ernest Rutherford Fellowship](https://www.ukri.org/what-we-do/developing-people-and-skills/stfc/fellowships/ernest-rutherford-fellowships/) | October |
+| [HFSP Long-Term Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships) | May (Letter of Intent) |
+| [HFSP Cross-Disciplinary Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships) | May (Letter of Intent) |
 | [Marie Skłodowska-Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) | September |
+| [Marshall Sherfield Fellowship](https://www.marshallscholarship.org/postgraduates/marshall-sherfield/) | December |
 | [Newton International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) | March |
-| [Wellcome Early Career Award](https://wellcome.org/grant-funding/schemes/early-career-awards) | rolling |
-| [Ernest Rutherford Fellowship](https://www.ukri.org/councils/stfc/career-and-skills-development/fellowships/ernest-rutherford-fellowship/) | autumn |
-| [Marshall Sherfield Fellowship](https://www.marshallscholarship.org/postgraduates/marshall-sherfield/) | September |
+| [UKRI Postdoctoral clinical research training fellowship](https://www.ukri.org/opportunity/post-doctoral-clinical-research-training-fellowship/) | September |
+| [Wellcome Early Career Award](https://wellcome.org/grant-funding/schemes/early-career-awards) | February and September |
 
-*Please contact us **3–6 months** before a deadline so we can co-develop a strong proposal.*
+*Please contact us **3–6 months** before a deadline so we can co-develop a strong proposal.*  
 
 ---
 
