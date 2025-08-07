@@ -16,7 +16,7 @@ While a Bye-Fellow at Christ’s College, Cambridge, Stan served as a judge for 
 
 <figure>
   <img src="/assets/images/public engagement/20240227_three_minute_thesis.jpg" class="public-engagement-photo" alt="Hands">
-  <figcaption>Judging the Christ’s College (Cambridge) 3-Minute Thesis final.</figcaption>
+  <figcaption>Judging the Christ’s College (Cambridge) 3-Minute Thesis final. (2024)</figcaption>
 </figure>
 
 ---
@@ -26,7 +26,7 @@ During the pandemic Stan took part in **Talking Together**, a phone-based progra
 
 <figure>
   <img src="/assets/images/public engagement/20221118_talking_together.jpeg" class="public-engagement-photo" alt="Chalky">
-  <figcaption>Reaching audiences by phone when in-person events weren’t possible.</figcaption>
+  <figcaption>Reaching audiences by phone when in-person events weren’t possible. (2022)</figcaption>
 </figure>
 
 ---
@@ -38,7 +38,7 @@ Stan has performed sets, emceed comedy nights, and trained performers in Cambrid
 
 <figure>
   <img src="/assets/images/public engagement/20161017_science_comedy.jpeg" class="public-engagement-photo" alt="Haha">
-  <figcaption>Public engagement is no laughing matter.</figcaption>
+  <figcaption>Public engagement is no laughing matter. (2016)</figcaption>
 </figure>
 
 ---
@@ -48,7 +48,7 @@ At the Cambridge Stem Cell Institute we ran **Game Jams** that brought local gam
 
 <figure>
   <img src="/assets/images/public engagement/20170203_game_lab.jpg" class="public-engagement-photo" alt="Prof Smith">
-  <figcaption>Developers and scientists co-creating gameplay from stem-cell biology.</figcaption>
+  <figcaption>Developers and scientists co-creating gameplay from stem-cell biology. (2017)</figcaption>
 </figure>
 
 ---
@@ -58,7 +58,7 @@ Stan was lucky to arrive in the UK in the very first year of **Pint of Science**
 
 <figure>
   <img src="/assets/images/public engagement/20130516_pint_of_science.jpg" class="public-engagement-photo" alt="Cheers">
-  <figcaption>Talking science in the pub: accessible, informal, and fun.</figcaption>
+  <figcaption>Talking science in the pub: accessible, informal, and fun. (2013)</figcaption>
 </figure>
 
 ---
@@ -69,5 +69,5 @@ Pieces were shown alongside the events and then in a dedicated exhibition.
 
 <figure>
   <img src="/assets/images/public engagement/20150521_creative_reactions.jpg" class="public-engagement-photo" alt="ART!">
-  <figcaption>Art meets science: an exhibition of works inspired by research talks.</figcaption>
+  <figcaption>Art meets science: an exhibition of works inspired by research talks. (2015)</figcaption>
 </figure>
