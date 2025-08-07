@@ -2,9 +2,35 @@
 layout: default          <!-- still inherits Minima’s default -->
 ---
 
-{% comment %} add your extra stylesheet {% endcomment %}
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+---
+layout: default
+---
 
-<div class="wrapper">
-  {{ content }}
-</div>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+
+    <!-- ✅ Link to your custom stylesheet -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+    {{ site.head }}
+  </head>
+  <body>
+
+    <main class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrapper">
+        &copy; {{ site.time | date: "%Y" }} {{ site.title }}
+      </div>
+    </footer>
+  </body>
+</html>
+
