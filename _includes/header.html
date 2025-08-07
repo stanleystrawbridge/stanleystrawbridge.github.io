@@ -1,18 +1,19 @@
 <header class="site-header">
   <div class="wrapper flex-header">
+    <!-- Logo on the left -->
     <a class="site-logo" href="{{ '/' | relative_url }}">
-      <img src="{{ '/assets/images/logo/the_strawbrigde_lab_logo_20250807.svg' | relative_url }}" 
-           alt="The Strawbridge Lab logo" class="logo-img" />
+      <img src="{{ '/assets/images/logo/the_strawbrigde_lab_logo_20250807.svg' | relative_url }}"
+           alt="The Strawbridge Lab logo" class="logo-img">
     </a>
 
+    <!-- Navigation on the right -->
     <nav class="site-nav">
       <ul class="nav-list">
-        {% assign default_paths = site.pages | map: "path" %}
-        {% assign page_paths = site.header_pages | default: default_paths %}
-        {% for path in page_paths %}
-          {% assign page = site.pages | where: "path", path | first %}
-          {% if page.title %}
-            <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+        {% assign default_paths = site.header_pages %}
+        {% for path in default_paths %}
+          {% assign p = site.pages | where: "path", path | first %}
+          {% if p.title %}
+            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
