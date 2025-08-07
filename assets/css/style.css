@@ -50,3 +50,7 @@ table.photo-table td {
   margin-bottom: 2rem;  
   padding-left: 1.4rem; 
 }
+
+.site-title {
+  display: none;   /* hide the big blue title link */
+}
