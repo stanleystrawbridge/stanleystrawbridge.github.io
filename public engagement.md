@@ -13,7 +13,7 @@ Below are a few highlights.
 ---
 
 ### 3-Minute Thesis
-While a Bye-Fellow at Christ’s College, Cambridge, Stan served as a judge for the MCR-run 3-Minute Thesis competition.
+While a Bye-Fellow at Christ’s College, Cambridge, Stan served as a judge for the MCR-run 3-Minute Thesis competition, where students learn to hone their science communicaiton skills.
 
 <figure>
   <img src="/assets/images/public engagement/20240227_three_minute_thesis.jpg" class="public-engagement-photo" alt="Hands">
@@ -56,10 +56,11 @@ At the Cambridge Stem Cell Institute we ran **Game Jams** that brought local gam
 
 ### Pint of Science
 Stan was lucky to arrive in the UK in the very first year of **Pint of Science** and have been involved as a participant and supporter ever since for the first three years.
+Talking science in the pub: accessible, informal, and fun. 
 
 <figure>
   <img src="/assets/images/public engagement/20130516_pint_of_science.jpg" class="public-engagement-photo" alt="Cheers">
-  <figcaption>Talking science in the pub: accessible, informal, and fun. (2013)</figcaption>
+  <figcaption> I wonder it we have found it yet! (2013)</figcaption>
 </figure>
 
 ---
