@@ -1,16 +1,10 @@
----
-layout: default
----
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ page.title }} | {{ site.title }}</title>
-
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
     {{ site.head }}
   </head>
   <body>
@@ -22,19 +16,16 @@ layout: default
           <img src="{{ '/assets/images/logo/the_strawbrigde_lab_logo_20250807.svg' | relative_url }}" 
                alt="The Strawbridge Lab logo" class="logo-img" />
         </a>
-
         {%- include nav.html -%}
       </div>
     </header>
 
-    <!-- Main content -->
+    <!-- Page content -->
     <main class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+      {{ content }}
     </main>
 
-    <!-- Optional: Footer -->
+    <!-- Footer -->
     {%- include footer.html -%}
 
   </body>
