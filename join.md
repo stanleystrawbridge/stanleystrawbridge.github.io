@@ -21,7 +21,7 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 
 1. a short **statement of research interests** (< 1 page)  
 2. your **CV** (PDF)  
-3. which **area** and **route** below you’re considering
+3. which **route** you are considering (see below)
 
 ---
 
