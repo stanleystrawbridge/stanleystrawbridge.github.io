@@ -1,12 +1,18 @@
+.flex-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .footer-top {
   padding: 0.6rem 0;
-  font-size: 1.1rem;      /* larger text */
+  font-size: 1.1rem;    
   font-weight: 600;
 }
 
 .footer-bottom {
   padding: 0.4rem 0;
-  font-size: 0.85rem;     /* smaller text */
+  font-size: 0.85rem;     
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -17,7 +23,7 @@
   font-weight: 600;
 }
 
-.footer-icons a:not(:first-child) {   /* gap between icons */
+.footer-icons a:not(:first-child) {   
   margin-left: 0.8rem;
 }
 
@@ -41,6 +47,12 @@
   border-radius: 8px;
   display: block;
   margin: 0 auto;
+}
+
+.site-logo img.logo-img {
+  height: 36px;       
+  width: auto;
+  vertical-align: middle;
 }
 
 figcaption {
