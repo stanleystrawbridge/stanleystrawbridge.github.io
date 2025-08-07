@@ -34,7 +34,7 @@ figcaption {
 }
 
 .logo-img {
-  height: 150px;
+  height: 200px;
   width: auto;
   vertical-align: middle;
 }
@@ -106,6 +106,7 @@ figcaption {
   border-radius: 8px;
   object-fit: contain;
 }
+
 .people-photo {
   height: 100px;
   object-fit: cover;
