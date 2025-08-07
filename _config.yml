@@ -1,13 +1,11 @@
-# _config.yml
 title: The Strawbridge Lab
 description: Quantifying human development
-baseurl: ""                             
+baseurl: ""
 url: "https://stanleystrawbridge.github.io"
-     
-theme: minima
-     
-plugins: [ jekyll-feed ]
-markdown: kramdown                     
+
+theme: minima    
+plugins: [jekyll-feed]
+markdown: kramdown
 
 header_pages:
   - index.md
