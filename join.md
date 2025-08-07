@@ -4,9 +4,11 @@ title: "Join"
 permalink: /join/
 ---
 
-# Joining the Strawbridge Lab
+# Join
 
 ---
+
+## Joining the Strawbridge Lab
 
 We welcome **motivated, curious researchers** at every career stage who enjoy working across disciplines.  
 

@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 ---
 
-# Meet the Lab
+# People
 
 ## Current Members
 
