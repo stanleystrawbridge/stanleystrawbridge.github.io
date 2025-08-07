@@ -1,61 +1,72 @@
 ---
 layout: default
 title: "Public Engagement"
-permalink: /public engagement/
+permalink: /public-engagement/
 ---
 
-I am a big propoent of public engagment.
-If you are interest in engaging the public with science, and you don't know how or what is possible, please contact me!
-Below are a few highlights from over the years.
+Public engagement is a core part of our lab’s work.  
+If you’d like to collaborate on an activity or you are curious about what is possible, please **[get in touch](mailto:s.strawbridge@sheffield.ac.uk)**.  
+Below are a few highlights.
 
+---
 
-3 Minute Thesis
-
-While a Bye-fellow at Christ's College, Cambridge, I acted as the judge for the annual 3-minute thesis run my the MCR. 
+### 3-Minute Thesis
+While a Bye-Fellow at Christ’s College, Cambridge, Stan served as a judge for the MCR-run 3-Minute Thesis competition.
 
 <figure>
   <img src="/assets/images/news/20240227_three_minute_thesis.jpg" class="public-engagement-photo" alt="Hands">
-  <figcaption>Speaking to the Post Grads at Christ's College Cambridge</figcaption>
+  <figcaption>Judging the Christ’s College (Cambridge) 3-Minute Thesis final.</figcaption>
 </figure>
 
+---
 
-Talking Together
-
-The pandemic presented challenges to direct engagement. Luckily a program called Talking together had been running which allowed interest individuals to directly speak with researchers over the phone.
+### Talking Together
+During the pandemic Stan took part in **Talking Together**, a phone-based programme that connected researchers with seldom-heard communities for informal conversations about science.
 
 <figure>
   <img src="/assets/images/news/20221118_talking_together.jpeg" class="public-engagement-photo" alt="Chalky">
-  <figcaption>Engaging with difficult to reach groups over the phone</figcaption>
+  <figcaption>Reaching audiences by phone when in-person events weren’t possible.</figcaption>
 </figure>
 
-Game Lab
+---
 
-The Cambridge Stem Cell Institute ran Game Jams which invited game developers from the area to interact with researchs to develop games inspired by their work!
+### Game Lab
+At the Cambridge Stem Cell Institute we ran **Game Jams** that brought local game developers together with researchers to prototype games inspired by current science.
 
 <figure>
   <img src="/assets/images/news/20170203_game_lab.jpg" class="public-engagement-photo" alt="Prof Smith">
-  <figcaption>Aspiring and veteran Game Designers finding inspiration in stem cell biology</figcaption>
+  <figcaption>Developers and scientists co-creating gameplay from stem-cell biology.</figcaption>
 </figure>
 
+---
 
-Science Comedy
+### Science Comedy
+Science inspired comedy is a great way to show that scientist are just normal people. 
+Or to confirm the publics suspicisions that we are as delightfully odd as they think we are!
+Stan has performed sets, emceed comedy nights, and trained performers in Cambridge and London.
 
 <figure>
   <img src="/assets/images/news/20161017_science_comedy.jpeg" class="public-engagement-photo" alt="Haha">
   <figcaption>Public engagement is no laughing matter.</figcaption>
 </figure>
 
-Pint of Science
+---
+
+### Pint of Science
+Stan was lucky to arrive in the UK in the very first year of **Pint of Science** and have been involved as a participant and supporter ever since for the first three years.
 
 <figure>
-  <img src="/assets/images/news/20130516_pint_of_science.jpg" class="public-engagement-photo" alt="Cheers!">
-  <figcaption>Public engagement is no laughing matter.</figcaption>
+  <img src="/assets/images/news/20130516_pint_of_science.jpg" class="public-engagement-photo" alt="Cheers">
+  <figcaption>Talking science in the pub: accessible, informal, and fun.</figcaption>
 </figure>
 
+---
 
-Creative Reacitons
+### Creative Reactions
+By the festival’s third year we helped found **Creative Reactions**, pairing local artists with speakers to create artwork inspired by their talks. 
+Pieces were shown alongside the events and then in a dedicated exhibition.
 
 <figure>
   <img src="/assets/images/news/20150521_creative_reactions.jpg" class="public-engagement-photo" alt="ART!">
-  <figcaption>Public engagement is no laughing matter.</figcaption>
+  <figcaption>Art meets science: an exhibition of works inspired by research talks.</figcaption>
 </figure>
