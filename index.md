@@ -11,9 +11,9 @@ About
 
 <script async
         src="https://cdn.bsky.app/embed.js"
-        data-actor="<your-handle>"
-        data-theme="light"          <!-- or “dark” -->
-        data-limit="10"             <!-- how many posts to show -->
+        data-actor="stanleystrawbridge.bsky.social‬"
+        data-theme="dark"
+        data-limit="10"
         data-container="#bsky-feed">
 </script>
 
