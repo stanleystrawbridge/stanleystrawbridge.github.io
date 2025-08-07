@@ -12,8 +12,8 @@ permalink: /join/
 
 We welcome motivated and curious researchers at every career stage. 
 Our lab seeks individuals across the disciplinary spectrum.
-Whether your strengths lie in the theoretical, computational, or emperical approaches.
-You don’t need prior interdisciplinary experience.
+Whether your strengths lie in theoretical, computational, or emperical approaches.
+You do not need prior interdisciplinary experience.
 What matters is a willingness to engage across disciplines and grow within a collaborative environment.
 
 
