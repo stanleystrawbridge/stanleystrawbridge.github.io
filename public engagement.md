@@ -60,7 +60,7 @@ Talking science in the pub: accessible, informal, and fun.
 
 <figure>
   <img src="/assets/images/public engagement/20130516_pint_of_science.jpg" class="public-engagement-photo" alt="Cheers">
-  <figcaption> I wonder it we have found it yet! (2013)</figcaption>
+  <figcaption> The search for AI, I wonder it we have found it yet? (2013)</figcaption>
 </figure>
 
 ---
