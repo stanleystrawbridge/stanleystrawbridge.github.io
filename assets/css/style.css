@@ -1,9 +1,7 @@
-/* ───── Footer layout ─────────────────────────────── */
-
 .footer-top,
 .footer-bottom {
-  padding: 0.4rem 0;
-  font-size: 5rem;
+  padding: 0.4rem;
+  font-size: 0.9rem;
 }
 
 /* Two-column bar: copyright left, icons right */
