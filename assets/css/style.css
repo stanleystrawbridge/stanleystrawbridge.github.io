@@ -24,7 +24,7 @@
 
 /* Uniform icon sizing */
 .footer-icon {
-  height: 2px;          /* same height for all */
+  height: 5px;          /* same height for all */
   width: auto;           /* keep aspect ratio */
   vertical-align: middle;
 }
