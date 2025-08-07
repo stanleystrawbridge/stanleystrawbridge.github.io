@@ -45,9 +45,10 @@ Have a different idea? Tell us!
 We supervise projects via:
 * **Masters courses in Biosciences** - <https://sheffield.ac.uk/biosciences/postgraduate/masters/>  
 * **MSc Reproductive & Developmental Medicine**  <https://sheffield.ac.uk/postgraduate/taught/courses/2025/reproductive-and-developmental-medicine-msc/>
-* **Marshall Scholarship** * – <https://www.marshallscholarship.org/> 
+* **Marshall Scholarship** <sup>*<sup/> – <https://www.marshallscholarship.org/> 
 
-*Please contact us **3–6 months** before a deadline so we can co-develop a strong proposal.*
+<sup>*<sup/>*Please contact us **3–6 months** before a deadline so we can co-develop a strong proposal.*
+
 ---
 
 ### PhD Studentships
