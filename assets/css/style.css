@@ -1,37 +1,32 @@
-.footer-top,
-.footer-bottom {
-  padding: 0.4rem;
-  font-size: 0.9rem;
+.footer-top {
+  padding: 0.6rem 0;
+  font-size: 1.1rem;      /* larger text */
+  font-weight: 600;
 }
 
-/* Two-column bar: copyright left, icons right */
 .footer-bottom {
+  padding: 0.4rem 0;
+  font-size: 0.85rem;     /* smaller text */
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-/* Social-icon links */
 .footer-icons a {
   text-decoration: none;
   font-weight: 600;
 }
 
-/* Add gap in front of every icon except the first */
-.footer-icons a:not(:first-child) {
+.footer-icons a:not(:first-child) {   /* gap between icons */
   margin-left: 0.8rem;
 }
 
-/* Uniform icon sizing */
-.footer-icon {
-  height: 5px;          /* same height for all */
-  width: auto;           /* keep aspect ratio */
-  vertical-align: middle;
-}
+.footer-icons a:hover { text-decoration: underline; }
 
-/* Subtle hover effect */
-.footer-icons a:hover {
-  text-decoration: underline;
+.footer-icon {
+  height: 20px;
+  width: auto;
+  vertical-align: middle;
 }
 
 .news-photo {
