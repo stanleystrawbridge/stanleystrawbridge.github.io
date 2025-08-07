@@ -98,11 +98,14 @@ figcaption {
 ---------------------------------------------------------- */
 
 .news-photo {
-  height: 250px;
+  max-width: 100%;
+  max-height: 250px;
+  height: auto;
+  width: auto;
   padding: 10px;
   border-radius: 8px;
+  object-fit: contain;
 }
-
 .people-photo {
   height: 100px;
   object-fit: cover;
