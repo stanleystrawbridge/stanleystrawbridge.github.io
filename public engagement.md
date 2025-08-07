@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Public Engagement"
-permalink: /public-engagement/
+permalink: /public%20engagement/
 ---
 
 Public engagement is a core part of our lab’s work.  
