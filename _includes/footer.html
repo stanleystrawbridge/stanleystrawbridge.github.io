@@ -1,13 +1,25 @@
 <footer class="site-footer">
-  <div class="wrapper footer-flex">
-    <span class="footer-left">
+  <!-- line 1 -->
+  <div class="wrapper footer-top">
+    Quantifying&nbsp;Human&nbsp;Development
+  </div>
+
+  <!-- line 2 -->
+  <div class="wrapper footer-bottom">
+    <span>
       © {{ site.time | date: "%Y" }} The Strawbridge Lab
     </span>
 
-    <span class="footer-right">
-      <a href="https://bsky.app/profile/stanleystrawbridge.bsky.social" aria-label="Bluesky">🌤️</a>
-      <a href="https://www.linkedin.com/in/stanleystrawbridge"          aria-label="LinkedIn">in</a>
-      <a href="https://twitter.com/StanStrawbridge"                     aria-label="Twitter">🐦</a>
-    </span>
+	<span class="footer-icons">
+	  <a href="https://bsky.app/profile/stanleystrawbridge.bsky.social" aria-label="Bluesky">
+		<img src="{{ '/assets/images/footer/bluesky.svg'  | relative_url }}" class="footer-icon" alt="Bluesky logo">
+	  </a>
+	  <a href="https://www.linkedin.com/in/stanleystrawbridge" aria-label="LinkedIn">
+		<img src="{{ '/assets/images/footer/LinkedIn.png' | relative_url }}" class="footer-icon" alt="LinkedIn logo">
+	  </a>
+	  <a href="https://twitter.com/StanStrawbridge" aria-label="X (Twitter)">
+		<img src="{{ '/assets/images/footer/X.png'        | relative_url }}" class="footer-icon" alt="X logo">
+	  </a>
+	</span>
   </div>
 </footer>

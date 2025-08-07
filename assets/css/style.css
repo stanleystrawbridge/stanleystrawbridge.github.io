@@ -1,20 +1,23 @@
-.footer-flex {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.footer-top,
+.footer-bottom {
   padding: 0.4rem 0;
   font-size: 0.9rem;
 }
 
-.footer-right a {
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-icons a {
   margin-left: 0.8rem;
   text-decoration: none;
   font-weight: 600;
 }
 
-.footer-right a:hover {
-  text-decoration: underline;
-}
+.footer-icons a:hover { text-decoration: underline; }
+
 
 .news-photo {
   height: 250px;
