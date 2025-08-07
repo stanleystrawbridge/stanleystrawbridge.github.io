@@ -4,7 +4,7 @@ title: "Join"
 permalink: /join/
 ---
 
-# Join the Strawbridge Lab
+# Joining the Strawbridge Lab
 
 We welcome **motivated, curious researchers** at every career stage who enjoy working across disciplines.  
 If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbridge@sheffield.ac.uk)** with 

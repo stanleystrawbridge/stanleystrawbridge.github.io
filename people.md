@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 ---
 
-# The Strawbridge Lab
+# Meet the Lab
 
 ## Current Members
 
