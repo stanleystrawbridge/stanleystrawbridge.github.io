@@ -6,6 +6,9 @@ permalink: /join/
 
 # Joining the Strawbridge Lab
 
+---
+
+
 We welcome **motivated, curious researchers** at every career stage who enjoy working across disciplines.  
 
 If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbridge@sheffield.ac.uk)** with 
@@ -13,7 +16,6 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 1. a short statement of research interests (< 1 page)  
 2. your CV (PDF)  
 3. which route below you’re considering  
-
 
 ---
 
@@ -30,9 +32,9 @@ We develop **quantitative, computational, and imaging approaches** to understand
 Have another idea? Let’s talk!
 
 ---
-
-
-## Routes into the Lab
+  
+  
+## Routes into the Lab  
 
 ---
 
@@ -60,6 +62,7 @@ Projects can be hosted through :
 
 ---
 
+
 ### PhD Studentships
 
 Most funded projects are advertised via **[FindAPhD](https://www.findaphd.com/)** and on social media (Bluesky `@stanleystrawbridge.bsky.social`, X `@StanStrawbridge`).  
@@ -75,6 +78,7 @@ Self-funded or externally-funded applicants: please email first.
 > **Clinicians:** see the [UKRI Pre-Doctoral Clinical Research Training Fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/).
 
 ---
+
 
 ### Postdoctoral Fellowships
 
@@ -96,6 +100,7 @@ Below are common schemes we host/support&hairsp;—&hairsp;others welcome!
 *Email us **3 – 6 months** before applying so we can craft a competitive proposal.*
 
 ---
+
 
 ## What We Offer
 
