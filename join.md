@@ -88,7 +88,7 @@ Below are common schemes we host/support&hairsp;—&hairsp;others welcome!
 
 | Fellowship | Typical deadline |
 | :--- | :--- |
-| [BBSRC Discovery / Future Leader Fellowships](https://www.ukri.org/what-we-do/developing-people-and-skills/bbsrc/fellowships/) | variable |
+| [BBSRC Discovery](https://www.ukri.org/what-we-do/developing-people-and-skills/bbsrc/fellowships/) | variable |
 | [EMBO Postdoctoral Fellowship](https://www.embo.org/funding/fellowships/postdoctoral-fellowship/) | Jan & Jul |
 | [Ernest Rutherford Fellowship](https://www.ukri.org/what-we-do/developing-people-and-skills/stfc/fellowships/ernest-rutherford-fellowships/) | Oct |
 | [HFSP Long-Term Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships) | May (LoI) |
