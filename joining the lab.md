@@ -34,9 +34,9 @@ Have a different idea? Tell us!
 
 | Scheme | Typical timeline | Link |
 |--------|------------------|------|
-| Sheffield Undergraduate Research Experience (**SURE**) | apply Jan → summer | <https://www.sheffield.ac.uk/undergraduate/research-experience> |
+| Sheffield Undergraduate Research Experience (**SURE**) | apply Autum → February | <https://sheffield.ac.uk/sure/> |
 | L4 Final-Year Projects (Biomedical Sci & allied degrees) | choose in autumn | (internal portal) |
-| NIH Post-baccalaureate Program | 1 yr in US before MSc/PhD <br>*currently paused* | <https://www.training.nih.gov/postbac_irta> |
+|Gurdon/CoB Summer Studentships | apply Autum → March 31 |<https://bsdb.org/awards/gurdon-studentships-for-summer-vacation-work//>
 
 ---
 
@@ -45,8 +45,9 @@ Have a different idea? Tell us!
 We supervise projects via:
 * **Masters courses in Biosciences** - <https://sheffield.ac.uk/biosciences/postgraduate/masters/>  
 * **MSc Reproductive & Developmental Medicine**  <https://sheffield.ac.uk/postgraduate/taught/courses/2025/reproductive-and-developmental-medicine-msc/>
-* **Marshall Scholarship** – <https://www.marshallscholarship.org/>
+* **Marshall Scholarship** * – <https://www.marshallscholarship.org/> 
 
+*Please contact us **3–6 months** before a deadline so we can co-develop a strong proposal.*
 ---
 
 ### PhD Studentships
