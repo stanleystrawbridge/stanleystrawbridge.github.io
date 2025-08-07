@@ -12,10 +12,6 @@
   margin: 0 auto;
 }
 
-.site-title {
-  display: none;   /* hide the big blue title link */
-}
-
 figcaption {
   font-size: 0.9em;
   color: #555;
