@@ -55,6 +55,11 @@
   vertical-align: middle;
 }
 
+.site-title img.logo-img {
+  height: 2rem;
+  vertical-align: middle;
+}
+
 figcaption {
   font-size: 0.9em;
   color: #555;
