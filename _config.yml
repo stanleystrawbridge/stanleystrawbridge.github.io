@@ -5,7 +5,7 @@ baseurl: ""
 url: "https://stanleystrawbridge.github.io"
 
 theme: minima                         
-plugins: [ jekyll-feed ]               
+plugins: [ jekyll-feed ]
 markdown: kramdown                     
 
 header_pages:
