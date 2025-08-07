@@ -1,8 +1,4 @@
 ---
-layout: default          <!-- still inherits Minima’s default -->
----
-
----
 layout: default
 ---
 
@@ -19,10 +15,6 @@ layout: default
     {{ site.head }}
   </head>
   <body>
-    <header>
-      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-    </header>
-
     <main class="page-content">
       <div class="wrapper">
         {{ content }}
@@ -34,7 +26,7 @@ layout: default
         &copy; {{ site.time | date: "%Y" }} {{ site.title }}
       </div>
     </footer>
-	
+
   </body>
 </html>
 
