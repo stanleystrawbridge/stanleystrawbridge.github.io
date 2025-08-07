@@ -1,9 +1,8 @@
 .flex-header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-between;
 }
-
 .footer-top {
   padding: 0.6rem 0;
   font-size: 1.1rem;    
@@ -49,10 +48,37 @@
   margin: 0 auto;
 }
 
-.site-logo img.logo-img {
-  height: 50px;       
-  width: auto;
+.site-header {
+  border-bottom: 1px solid #e8e8e8;
+  padding: 1rem 0;
+  background: white;
+}
+
+.site-logo .logo-img {
+  height: 100px;
   vertical-align: middle;
+}
+
+.site-nav .nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.site-nav .nav-list li {
+  display: inline;
+}
+
+.site-nav .nav-list a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.site-nav .nav-list a:hover {
+  text-decoration: underline;
 }
 
 .site-title img.logo-img {
