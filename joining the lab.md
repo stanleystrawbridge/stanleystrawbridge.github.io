@@ -7,6 +7,7 @@ permalink: /join/
 # Joining the Strawbridge Lab
 
 We welcome **motivated, curious researchers** at every career stage who enjoy working across disciplines.  
+
 If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbridge@sheffield.ac.uk)** with 
 
 1. a short statement of research interests (< 1 page)  
@@ -35,7 +36,7 @@ Have another idea? Let’s talk!
 | Scheme | Typical timeline |
 | :--- | :--- |
 | [Sheffield Undergraduate Research Experience (SURE)](https://www.sheffield.ac.uk/sure) | apply **Autumn → February** |
-| [Gurdon / Company of Biologists Summer Studentship](https://bsdb.org/awards/gurdon-studentships-for-summer-vacation-work/) | apply **Autumn → 31 March** |
+| [Gurdon / Company of Biologists Summer Studentship](https://bsdb.org/awards/gurdon-studentships-for-summer-vacation-work/) | apply **Autumn → March** |
 | L4 Final-Year Research Projects (Biomedical Sci & allied degrees) | choose in autumn (internal portal) |
 
 ---
