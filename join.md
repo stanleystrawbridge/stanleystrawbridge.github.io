@@ -10,19 +10,25 @@ permalink: /join/
 
 ## Joining the Strawbridge Lab
 
-We welcome **motivated, curious researchers** at every career stage who enjoy working across disciplines.  
+We welcome motivated and curious researchers at every career stage. 
+Our lab seeks individuals across the disciplinary spectrum.
+Whether your strengths lie in the theoretical, computational, or emperical approaches.
+You don’t need prior interdisciplinary experience.
+What matters is a willingness to engage across disciplines and grow within a collaborative environment.
+
 
 If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbridge@sheffield.ac.uk)** with 
 
-1. a short statement of research interests (< 1 page)  
-2. your CV (PDF)  
-3. which route below you’re considering  
+1. a short **statement of research interests** (< 1 page)  
+2. your **CV** (PDF)  
+3. which **area** and **route** below you’re considering
 
 ---
 
-## Research Themes
+## Research Areas
 
-We develop **quantitative, computational, and imaging approaches** to understand early human development and when it goes wrong:
+We develop and deploy **quantitative, computational, and imaging approaches** to understand early human development and when it goes wrong.
+This includes, but is not limited to:
 
 - **Cell-population dynamics** – lineage allocation & pattern formation  
 - **Morphogen gradients** – imaging + modelling in dense tissues  
