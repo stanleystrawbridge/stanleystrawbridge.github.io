@@ -31,16 +31,6 @@ During the pandemic Stan took part in **Talking Together**, a phone-based progra
 
 ---
 
-### Game Lab
-At the Cambridge Stem Cell Institute we ran **Game Jams** that brought local game developers together with researchers to prototype games inspired by current science.
-
-<figure>
-  <img src="/assets/images/public engagement/20170203_game_lab.jpg" class="public-engagement-photo" alt="Prof Smith">
-  <figcaption>Developers and scientists co-creating gameplay from stem-cell biology.</figcaption>
-</figure>
-
----
-
 ### Science Comedy
 Science inspired comedy is a great way to show that scientist are just normal people.
 Or to confirm the publics suspicisions that we are as delightfully odd as they think we are!
@@ -49,6 +39,16 @@ Stan has performed sets, emceed comedy nights, and trained performers in Cambrid
 <figure>
   <img src="/assets/images/public engagement/20161017_science_comedy.jpeg" class="public-engagement-photo" alt="Haha">
   <figcaption>Public engagement is no laughing matter.</figcaption>
+</figure>
+
+---
+
+### Game Lab
+At the Cambridge Stem Cell Institute we ran **Game Jams** that brought local game developers together with researchers to prototype games inspired by current science.
+
+<figure>
+  <img src="/assets/images/public engagement/20170203_game_lab.jpg" class="public-engagement-photo" alt="Prof Smith">
+  <figcaption>Developers and scientists co-creating gameplay from stem-cell biology.</figcaption>
 </figure>
 
 ---
