@@ -46,21 +46,21 @@ Contact him at s.strawbridge@sheffield.ac.uk.
   
 ### Education
 - **2014 – 2019**  
-  PhD in Biochemistry   
+  PhD Biochemistry   
   Cambridge Stem Cell Institute, University of Cambridge, UK  
   Supervisors: Austin Smith, Graziano Martello, Hillel Kugler  
   Microsoft Research PhD Programme
 - **2012 – 2013**  
-  MSc in Mathematical Modelling and Scientific Computing,  
+  MSc Mathematical Modelling and Scientific Computing,  
   Mathematical Institute, University of Oxford, UK  
   Supervisors: Helen Byrne, Sarah Waters, Christopher Bell
 - **2007 – 2011**  
-  BS in Biochemistry  
+  BS Biochemistry  
   Davis College of Agriculture, Natural Resources and Design, West Virginia University, US  
   Supervisor: Jonathan Boyd  
   Department of Homeland Security Scholar, Phi Kappa Phi, *Summa Cum Laude*
 - **2007 – 2011**  
-  BS in Mathematics  
+  BS Mathematics  
   Eberly College of Arts and Sciences, West Virginia University, US  
   Supervisor: Charles Jaffe  
   Department of Homeland Security Scholar, Phi Beta Kappa, *Summa Cum Laude*
