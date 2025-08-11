@@ -97,7 +97,7 @@ figcaption {
    IMAGES USED IN TABLES
 ---------------------------------------------------------- */
 
-.news-photo {
+.home-photo {
   max-width: 100%;
   max-height: 250px;
   height: auto;
@@ -115,7 +115,6 @@ figcaption {
   margin: 0 auto;
 }
 
-
 .public-engagement-photo {
   max-width: 100%;
   max-height: 400px;
@@ -125,6 +124,20 @@ figcaption {
   border-radius: 8px;
   object-fit: contain;
 }
+
+.news-photo {
+  max-width: 100%;
+  max-height: 250px;
+  height: auto;
+  width: auto;
+  padding: 10px;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+
+
+
 
 
 /* ----------------------------------------------------------
@@ -139,26 +152,6 @@ table.people-table th:first-child {
   max-width: 150px;
 }
 
-/* ----------------------------------------------------------
-   HOME PAGE PEOPLE PHOTO (left-aligned, 400px height)
-   ---------------------------------------------------------- */
-.home-photo {
-  float: left;
-  height: 200px;
-  width: auto;
-  margin: 0 1rem 1rem 0;
-  object-fit: cover;
-}
-
-@media (max-width: 768px) {
-  .home-photo {
-    float: left;
-    display: block;
-    margin: 0 auto 1rem auto;
-    height: auto;
-    max-width: 100%;
-  }
-}
 
 /* ----------------------------------------------------------
    PUBLICATIONS PAGE

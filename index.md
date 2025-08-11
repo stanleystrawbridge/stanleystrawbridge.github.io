@@ -7,7 +7,7 @@ permalink: /
 ## Bio
 
 <figure>
-  <img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo home-photo" />
+  <img src="/assets/images/people/stanley_strawbridge.jpg" class="home-photo" />
 </figure>
 
 Stanley Strawbridge is a stem cell and developmental biologist with a dual background in biochemistry and mathematics.
