@@ -29,15 +29,17 @@ permalink: /
   <img src="/assets/images/people/stanley_strawbridge.jpg" class="home-photo">
 </figure>
 
-Stanley Strawbridge is a stem cell and developmental biologist with a dual background in biochemistry and mathematics. 
-His research spans quantitative embryology anc cell biology that links molecular scale cell-fate decisions to developmental outcomes,  and the development of computational tools that bring clarity to complex embryonic biological systems.
-By leveraging advanced imaging, sequencing, mathematical modelling, and applied computational techniques, his group aims to integrate molecular and embryonic scales to understand when and why embryos fail to develop or implant, with the ultimate goal of improving reproductive outcomes.
+Stanley Strawbridge is a stem cell and developmental biologist with a dual background in biochemistry and mathematics.
 He trained in stem cell biology (PhD with Austin Smith), developmental biology (PDRA with Jennifer Nichols), and super-resolution imaging (Sir Henry Wellcome Fellow with Srinjan Basu) at the Cambridge Stem Cell Institute.
 He also gained expertise in mathematical and computational biology during his PhD (with Hillel Kugler; Microsoft Research UK and Bar-Ilan University), postdoctoral work (with Alexander Fletcher, University of Sheffield), and his Sir Henry Wellcome Fellowship (with David Holcman, ENS Paris).
 He is now a Group Leader and Early Career Research Fellow in the Physics of Life and Quantitative Biology at the Centre for Stem Cell Biology within the School of Biosciences at the University of Sheffield.
+He investigates how molecular gradients guide cell-fate decisions within the embryo, examines how those decisions shape developmental outcomes, and develops computational tools that bring clarity to these complex biological systems.
+Building on these foundations, his group combines advanced imaging, sequencing, mathematical modelling, and computational analysis to integrate molecular and embryonic scales and identify when and why embryos fail to develop or implant.
+The ultimate aim is to improve outcomes in both natural and assisted conception.
 
 He is always enthusiastic about collaboration—whether empirical, computational, or theoretical.
-Contact him at s.strawbridge@sheffield.ac.uk.
+Contact him at s.strawbridge@sheffield.ac.uk.  
+
 ---
 
 ## Brief CV
