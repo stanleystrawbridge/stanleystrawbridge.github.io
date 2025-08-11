@@ -18,12 +18,11 @@ figcaption {
 }
 
 .home-figure {
-  display: block;         /* disable flex for this figure */
-  text-align: left;       /* text starts at left edge */
-  margin: 1.25rem auto;
+  display: block !important;   /* disable flex for this figure */
+  text-align: left;            /* align to left edge */
+  margin: 1.25rem 0;
   padding: 0;
 }
-
 
 /* ----------------------------------------------------------
    HEADER  (logo + horizontal nav)
@@ -156,11 +155,6 @@ figcaption {
   object-fit: contain;
 }
 
-
-
-
-
-
 /* ----------------------------------------------------------
    TABLE HELPERS
 ---------------------------------------------------------- */
@@ -172,7 +166,6 @@ table.people-table th:first-child {
   width: 130px;
   max-width: 150px;
 }
-
 
 /* ----------------------------------------------------------
    PUBLICATIONS PAGE

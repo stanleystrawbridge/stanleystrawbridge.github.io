@@ -81,7 +81,7 @@ Contact him at s.strawbridge@sheffield.ac.uk.
   Plum Island Animal Disease Center, USDA
 
 ### Memberships
-- Member, Institute of Mathematics and its Applications (2025–present)  
-- Member, Royal Society of Biology (2024–present)  
-- Member, British Society for Developmental Biology (2018–present)
-- Associate Fellow, Higher Education Academy (2024–present)
+- 2025 – Member, Institute of Mathematics and its Applications
+- 2024 – Member, Royal Society of Biology
+- 2024 – Associate Fellow, Higher Education Academy
+- 2018 – Member, British Society for Developmental Biology
