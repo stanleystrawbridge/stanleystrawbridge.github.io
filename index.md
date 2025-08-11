@@ -29,18 +29,15 @@ permalink: /
   <img src="/assets/images/people/stanley_strawbridge.jpg" class="home-photo">
 </figure>
 
-Stanley Strawbridge is a stem cell and developmental biologist with a dual background in biochemistry and mathematics.
-His research investigates how stem cells make fate decisions, how signalling gradients are established in embryos, and the transcription factor networks that govern cell states.
-He studies developmental programs in both the mouse and human systems, leveraging the tools of advanced imaging, sequencing, applied mathematics, and machine learning.
-
+Stanley Strawbridge is a stem cell and developmental biologist with a dual background in biochemistry and mathematics. 
+His research spans quantitative embryology anc cell biology that links molecular scale cell-fate decisions to developmental outcomes,  and the development of computational tools that bring clarity to complex embryonic biological systems.
+By leveraging advanced imaging, sequencing, mathematical modelling, and applied computational techniques, his group aims to integrate molecular and embryonic scales to understand when and why embryos fail to develop or implant, with the ultimate goal of improving reproductive outcomes.
 He trained in stem cell biology (PhD with Austin Smith), developmental biology (PDRA with Jennifer Nichols), and super-resolution imaging (Sir Henry Wellcome Fellow with Srinjan Basu) at the Cambridge Stem Cell Institute.
 He also gained expertise in mathematical and computational biology during his PhD (with Hillel Kugler; Microsoft Research UK and Bar-Ilan University), postdoctoral work (with Alexander Fletcher, University of Sheffield), and his Sir Henry Wellcome Fellowship (with David Holcman, ENS Paris).
 He is now a Group Leader and Early Career Research Fellow in the Physics of Life and Quantitative Biology at the Centre for Stem Cell Biology within the School of Biosciences at the University of Sheffield.
-His group uses quantitative methodologies to integrate molecular and embryonic scales to identifying key points at which embryos fail to develop or implant successfully, with the aim of improving reproductive outcomes.
 
 He is always enthusiastic about collaboration—whether empirical, computational, or theoretical.
 Contact him at s.strawbridge@sheffield.ac.uk.
-
 ---
 
 ## Brief CV
