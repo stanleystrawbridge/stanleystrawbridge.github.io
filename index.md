@@ -57,11 +57,11 @@ Contact him at s.strawbridge@sheffield.ac.uk.
   </div>
   <div class="cv-row">
     <div class="cv-year">2022 – 2025</div>
-    <div class="cv-details"><strong>Sir Henry Wellcome Postdoctoral Fellow</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br><strong>Sponsors:</strong> Srinjan Basu, Alexander G. Fletcher, David Holcman, Jennifer Nichols</div>
+    <div class="cv-details"><strong>Sir Henry Wellcome Postdoctoral Fellow</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>Sponsors: Srinjan Basu, Alexander G. Fletcher, David Holcman, Jennifer Nichols</div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2018 – 2022</div>
-    <div class="cv-details"><strong>Postdoctoral Research Associate</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br><strong>Supervisors:</strong> Jennifer Nichols and Srinjan Basu</div>
+    <div class="cv-details"><strong>Postdoctoral Research Associate</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>Supervisors: Jennifer Nichols and Srinjan Basu</div>
   </div>
 </div>
 
@@ -69,19 +69,19 @@ Contact him at s.strawbridge@sheffield.ac.uk.
 <div class="cv-section">
   <div class="cv-row">
     <div class="cv-year">2014 – 2019</div>
-    <div class="cv-details"><strong>PhD Biochemistry</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br><strong>Supervisors:</strong> Austin Smith, Graziano Martello, Hillel Kugler<br>Microsoft Research PhD Programme</div>
+    <div class="cv-details"><strong>PhD Biochemistry</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>Supervisors: Austin Smith, Graziano Martello, Hillel Kugler<br>Microsoft Research PhD Programme</div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2012 – 2013</div>
-    <div class="cv-details"><strong>MSc Mathematical Modelling and Scientific Computing</strong><br>Mathematical Institute, University of Oxford, UK<br><strong>Supervisors:</strong> Helen Byrne, Sarah Waters, Christopher Bell</div>
+    <div class="cv-details"><strong>MSc Mathematical Modelling and Scientific Computing</strong><br>Mathematical Institute, University of Oxford, UK<br>Supervisors: Helen Byrne, Sarah Waters, Christopher Bell</div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2007 – 2011</div>
-    <div class="cv-details"><strong>BS Biochemistry</strong><br>Davis College of Agriculture, Natural Resources and Design, West Virginia University, US<br><strong>Supervisor:</strong> Jonathan Boyd<br>Department of Homeland Security Scholar, Phi Kappa Phi, <em>Summa Cum Laude</em></div>
+    <div class="cv-details"><strong>BS Biochemistry</strong><br>Davis College of Agriculture, Natural Resources and Design, West Virginia University, US<br>Supervisor: Jonathan Boyd<br>Department of Homeland Security Scholar, Phi Kappa Phi, <em>Summa Cum Laude</em></div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2007 – 2011</div>
-    <div class="cv-details"><strong>BS Mathematics</strong><br>Eberly College of Arts and Sciences, West Virginia University, US<br><strong>Supervisor:</strong> Charles Jaffe<br>Department of Homeland Security Scholar, Phi Beta Kappa, <em>Summa Cum Laude</em></div>
+    <div class="cv-details"><strong>BS Mathematics</strong><br>Eberly College of Arts and Sciences, West Virginia University, US<br>Supervisor: Charles Jaffe<br>Department of Homeland Security Scholar, Phi Beta Kappa, <em>Summa Cum Laude</em></div>
   </div>
 </div>
 
