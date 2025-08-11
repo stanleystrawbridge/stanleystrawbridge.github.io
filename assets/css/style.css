@@ -17,6 +17,14 @@ figcaption {
   color: #555;
 }
 
+.home-figure {
+  display: block;         /* disable flex for this figure */
+  text-align: left;       /* text starts at left edge */
+  margin: 1.25rem auto;
+  padding: 0;
+}
+
+
 /* ----------------------------------------------------------
    HEADER  (logo + horizontal nav)
 ---------------------------------------------------------- */
@@ -99,9 +107,9 @@ figcaption {
 
 .home-photo {
   float: left;
-  height: 250px;
+  height: 300px;          /* fixed desktop height */
   width: auto;
-  margin: 0 1rem 1rem 0;
+  margin: 0 1rem 1rem 0;  /* space to right and below */
   object-fit: cover;
   border-radius: 8px;
 }
