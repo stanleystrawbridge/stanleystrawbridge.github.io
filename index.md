@@ -45,7 +45,7 @@ Contact him at s.strawbridge@sheffield.ac.uk.
 
 ## Brief CV
 
-### Academic Positions
+### **Academic Positions**
 <div class="cv-section">
   <div class="cv-row">
     <div class="cv-year">2025 – Present</div>
@@ -55,6 +55,10 @@ Contact him at s.strawbridge@sheffield.ac.uk.
     <div class="cv-year">2025 – 2029</div>
     <div class="cv-details"><strong>Early Career Research Fellow, <em>Physics of Life and Quantitative Biology</em></strong><br>Centre for Stem Cell Biology, School of Biosciences, University of Sheffield, UK</div>
   </div>
+</div>
+
+### **Training & Education**
+<div class="cv-section">
   <div class="cv-row">
     <div class="cv-year">2022 – 2025</div>
     <div class="cv-details"><strong>Sir Henry Wellcome Postdoctoral Fellow</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>Sponsors: Srinjan Basu, Alexander G. Fletcher, David Holcman, Jennifer Nichols</div>
@@ -63,10 +67,6 @@ Contact him at s.strawbridge@sheffield.ac.uk.
     <div class="cv-year">2018 – 2022</div>
     <div class="cv-details"><strong>Postdoctoral Research Associate</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>Supervisors: Jennifer Nichols and Srinjan Basu</div>
   </div>
-</div>
-
-### Education
-<div class="cv-section">
   <div class="cv-row">
     <div class="cv-year">2014 – 2019</div>
     <div class="cv-details"><strong>PhD Biochemistry</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>Supervisors: Austin Smith, Graziano Martello, Hillel Kugler<br>Microsoft Research PhD Programme</div>
@@ -85,7 +85,7 @@ Contact him at s.strawbridge@sheffield.ac.uk.
   </div>
 </div>
 
-### Other Appointments
+### **Other Appointments**
 <div class="cv-section">
   <div class="cv-row">
     <div class="cv-year">2022 – 2025</div>
@@ -105,7 +105,7 @@ Contact him at s.strawbridge@sheffield.ac.uk.
   </div>
 </div>
 
-### Memberships
+### **Memberships**
 <div class="cv-section">
   <div class="cv-row">
     <div class="cv-year">2025</div>
