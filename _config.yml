@@ -1,7 +1,8 @@
 title: The Strawbridge Lab
 description: Quantifying human development
-url: https://strawbridgelab.com
 baseurl: ""
+url: https://strawbridgelab.com
+
 
 theme: minima    
 plugins: [jekyll-feed]
