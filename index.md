@@ -6,7 +6,7 @@ permalink: /
 
 <style>
 /* Two-column CV layout */
-.cv-section{display:flex;flex-direction:column;gap:0.9rem;margin:0.5rem 0 1.5rem}
+.cv-section{display:flex;flex-direction:column;gap:0;margin:0.5rem 0 1.5rem}
 .cv-row{display:flex;flex-wrap:wrap;column-gap:1rem;row-gap:0.25rem}
 .cv-year{flex:0 0 140px;font-weight:700;white-space:nowrap}
 .cv-details{flex:1 1 420px}
