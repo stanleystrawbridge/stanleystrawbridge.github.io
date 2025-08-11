@@ -5,6 +5,7 @@ permalink: /people/
 ---
 
 # **People**
+---
 
 ## Current Members
 
