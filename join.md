@@ -27,12 +27,12 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 
 ## Research Areas
 
-We develop and deploy **quantitative, computational, and imaging approaches** to understand early human development and when it goes wrong.
+We develop and deploy quantitative, computational, and imaging approaches to understand early human development, when it goes wrong, and why.
 This includes, but is not limited to:
 
 - **Cell-population dynamics** – lineage allocation & pattern formation  
 - **Morphogen gradients** – imaging + modelling in dense tissues  
-- **Aneuploidy** – consequences for lineage potential  
+- **Aneuploidy** – consequences for lineage potential and mosacism  
 - **Open-source tools** – algorithms for image- and omics-data  
 
 Have another idea? Let’s talk!
@@ -64,21 +64,30 @@ Projects can be hosted through :
 <sup>★</sup> Contact us **3 – 6 months** before a deadline so we can build a strong proposal together.
 
 ---
-
 ### PhD Studentships
 
-Most funded projects are advertised via **[FindAPhD](https://www.findaphd.com/)** and on social media (Bluesky `@stanleystrawbridge.bsky.social`, X `@StanStrawbridge`).  
+#### Current funded topics
 
-**Clinicians:** see the [UKRI Pre-Doctoral Clinical Research Training Fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/).
+Funded projects are advertised via **[FindAPhD](https://www.findaphd.com/)**, on social media (Bluesky: `@stanleystrawbridge.bsky.social`, X/Twitter: `@StanStrawbridge`), and listed here when available.
 
-Self-funded or externally-funded applicants: please email first.
+| Theme | Example skill set |
+| :--- | :--- |
+| **No funded studentships currently available** | |
+
+---
 
 #### Current self-funded topics
 
 | Theme | Example skill set |
 | :--- | :--- |
-| Modelling pre-implantation lineage kinetics | image analysis, segmentation, agent-based / continuum modelling |
-| Human implantation platform (blastoids + endometrial assembloids) | stem-cell culture, 3-D imaging, quantitative analysis |
+| Mathematical modelling of human pre-implantation lineage kinetics | image analysis, segmentation, agent-based or continuum modelling |
+| Engineering an *in vitro* human implantation platform (blastoids + endometrial assembloids) | stem-cell culture, 3D imaging, quantitative analysis |
+
+---
+
+For enquiries, please get in touch.  
+
+**Clinicians:** see the [UKRI Pre-Doctoral Clinical Research Training Fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/).
 
 ---
 
@@ -105,9 +114,8 @@ Below are common schemes we host/support&hairsp;—&hairsp;others welcome!
 
 ## What We Offer
 
-* Friendly, collaborative lab culture  
-* Advanced live-imaging & single-cell platforms  
-* Daily exchange between modellers & experimentalists  
-* Sheffield: affordable city, Peak District 15 min away  
+- **The Lab:** Friendly, collaborative, and supportive environment for interdisciplinary research.
+- **University of Sheffield:** Top 100 university worldwide, home to the Centre for Stem Cell Biology, with world-class facilities.
+- **City of Sheffield:** One of Europe’s top 100 cities, on the edge of the Peak District, with an affordable cost of living.
 
 **Questions?** Just [email](mailto:s.strawbridge@sheffield.ac.uk) – we’re happy to chat!
