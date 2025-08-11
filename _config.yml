@@ -9,7 +9,7 @@ markdown: kramdown
 
 header_pages:
   - index.md
-  - research.md
+  #- research.md
   - people.md
   - publications.md
   - public engagement.md
