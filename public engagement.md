@@ -4,6 +4,8 @@ title: "Public Engagement"
 permalink: /public%20engagement/
 ---
 
+# **Public Engagement**
+
 Public engagement is an important, and fun, part of our lab’s work.  
 
 If you’d like to collaborate on an activity or you are curious about what is possible, please **[get in touch](mailto:s.strawbridge@sheffield.ac.uk)**.

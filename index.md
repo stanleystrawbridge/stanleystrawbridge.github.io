@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Home"
+title: "About"
 permalink: /
 ---
 
-## Bio
+## **About**
 
 <figure>
   <img src="/assets/images/people/stanley_strawbridge.jpg" class="home-photo" />

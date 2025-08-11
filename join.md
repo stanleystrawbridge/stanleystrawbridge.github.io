@@ -4,7 +4,7 @@ title: "Join"
 permalink: /join/
 ---
 
-# Join
+# **Join**
 
 ---
 
