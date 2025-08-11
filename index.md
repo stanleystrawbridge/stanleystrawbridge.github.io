@@ -64,7 +64,7 @@ Contact him at s.strawbridge@sheffield.ac.uk.
     <div class="cv-details"><strong>Sir Henry Wellcome Postdoctoral Fellow</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>Sponsors: Srinjan Basu, Alexander G. Fletcher, David Holcman, Jennifer Nichols</div>
   </div>
   <div class="cv-row">
-    <div class="cv-year">2018 – 2022</div>
+    <div class="cv-year">2019 – 2022</div>
     <div class="cv-details"><strong>Postdoctoral Research Associate</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>Supervisors: Jennifer Nichols and Srinjan Basu</div>
   </div>
   <div class="cv-row">
