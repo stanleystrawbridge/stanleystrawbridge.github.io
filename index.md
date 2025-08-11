@@ -6,7 +6,9 @@ permalink: /
 
 ## Bio
 
-<figure> <img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" /> </figure>
+<figure>
+  <img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo home-photo" />
+</figure>
 
 Stanley Strawbridge is a stem cell and developmental biologist with a dual background in biochemistry and mathematics.
 His research investigates how stem cells make fate decisions, how signalling gradients are established in embryos, and the transcription factor networks that govern cell states.
@@ -42,18 +44,18 @@ Contact him at s.strawbridge@sheffield.ac.uk.
   
 ### Education
 - **2014 – 2018**  
-  PhD in Biochemistry, Microsoft Research PhD Programme,  
+  PhD Biochemistry, Microsoft Research PhD Programme,  
   Cambridge Stem Cell Institute, University of Cambridge, UK  
   Supervisors: Austin Smith, Graziano Martello, Hillel Kugler
 - **2012 – 2013**  
-  MSc in Mathematical Modelling and Scientific Computing,  
+  MSc Mathematical Modelling and Scientific Computing,  
   Mathematical Institute, University of Oxford, UK  
   Supervisors: Helen Byrne, Sarah Waters, Christopher Bell
 - **2007 – 2011**  
-  BS in Biochemistry,  
+  BS Biochemistry, Department of Homeland Secutiry Scholar, Phi Kappa Phi, Summa Cum Laude,
   Davis College of Agriculture, Natural Resources and Design, West Virginia University, US
 - **2007 – 2011**  
-  BS in Mathematics,  
+  BS Mathematics, Department of Homeland Secutiry Scholar, Phi Beta Kappa, Summa Cum Laude,
   Eberly College of Arts and Sciences, West Virginia University, US
 
 ### Other Appointments
@@ -72,10 +74,7 @@ Contact him at s.strawbridge@sheffield.ac.uk.
   Plum Island Animal Disease Center, USDA
 
 ### Memberships
-**Professional Societies**  
 - Member, Institute of Mathematics and its Applications (2025–present)  
 - Member, Royal Society of Biology (2024–present)  
 - Member, British Society for Developmental Biology (2018–present)
-
-**Professional Recognition**  
 - Associate Fellow, Higher Education Academy (2024–present)

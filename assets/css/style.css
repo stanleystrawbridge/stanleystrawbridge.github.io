@@ -140,6 +140,27 @@ table.people-table th:first-child {
 }
 
 /* ----------------------------------------------------------
+   HOME PAGE PEOPLE PHOTO (left-aligned, 400px height)
+   ---------------------------------------------------------- */
+.home-photo {
+  float: left;
+  height: 400px;
+  width: auto;
+  margin: 0 1rem 1rem 0;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .home-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem auto;
+    height: auto;
+    max-width: 100%;
+  }
+}
+
+/* ----------------------------------------------------------
    PUBLICATIONS PAGE
 ---------------------------------------------------------- */
 
