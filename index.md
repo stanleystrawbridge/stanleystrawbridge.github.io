@@ -31,7 +31,8 @@ permalink: /
 
 [Stanley Strawbridge](https://journals.biologists.com/dev/article/152/12/dev205019/368376/The-people-behind-the-papers-Stanley-Strawbridge) is a stem cell and developmental biologist with a dual background in biochemistry and mathematics.
 He trained in stem cell biology (PhD with Austin Smith), developmental biology (PDRA with Jennifer Nichols), and super-resolution imaging (Sir Henry Wellcome Fellow with Srinjan Basu) at the Cambridge Stem Cell Institute.
-He also gained expertise in mathematical and computational biology during his PhD (with Hillel Kugler; Microsoft Research UK and Bar-Ilan University), postdoctoral work (with Alexander Fletcher, University of Sheffield), and his Sir Henry Wellcome Fellowship (with David Holcman, ENS Paris).
+He also gained expertise in mathematical and computational biology during his PhD (with Hillel Kugler; Microsoft Research UK and Bar-Ilan University), postdoctoral work (with Alexander Fletcher, University of Sheffield), and his Sir Henry Wellcome Fellowship (with David Holcman, ENS Paris).  
+
 He is now a Group Leader and Early Career Research Fellow in the Physics of Life and Quantitative Biology at the Centre for Stem Cell Biology within the School of Biosciences at the University of Sheffield.
 He investigates how molecular gradients guide cell-fate decisions within the embryo, examines how those decisions shape developmental outcomes, and develops computational tools that bring clarity to these complex biological systems.
 Building on these foundations, his group combines advanced imaging, sequencing, mathematical modelling, and computational analysis to integrate molecular and embryonic scales.
