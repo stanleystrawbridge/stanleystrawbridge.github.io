@@ -93,7 +93,7 @@ For enquiries, please get in touch.
 
 ### Postdoctoral Fellowships
 
-Below are common schemes we host/support&hairsp;—&hairsp;others welcome!
+Below are common schemes we host/support;others welcome!
 
 | Fellowship | Typical deadline |
 | :--- | :--- |
