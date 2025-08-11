@@ -31,26 +31,26 @@ Contact him at s.strawbridge@sheffield.ac.uk.
 ### Academic Positions
 | Years           | Details |
 |-----------------|---------|
-| **2025 – Present** | Group Leader, Centre for Stem Cell Biology, School of Biosciences, University of Sheffield, UK |
-| **2025 – 2029** | Early Career Research Fellow, *Physics of Life and Quantitative Biology*, Centre for Stem Cell Biology, School of Biosciences, University of Sheffield, UK |
-| **2022 – 2025** | Sir Henry Wellcome Postdoctoral Fellow, Cambridge Stem Cell Institute, University of Cambridge, UK<br>**Sponsors:** Srinjan Basu, Alexander G. Fletcher, David Holcman, Jennifer Nichols |
-| **2018 – 2022** | Postdoctoral Research Associate, Cambridge Stem Cell Institute, University of Cambridge, UK<br>**Supervisors:** Jennifer Nichols and Srinjan Basu |
+| **2025 – Present** | **Group** Leader<br> Centre for Stem Cell Biology, School of Biosciences, University of Sheffield, UK |
+| **2025 – 2029** | **Early Career Research Fellow, *Physics of Life and Quantitative Biology* **<br>Centre for Stem Cell Biology<br>School of Biosciences, University of Sheffield, UK |
+| **2022 – 2025** | **Sir Henry Wellcome Postdoctoral Fellow**<br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>**Sponsors:** Srinjan Basu, Alexander G. Fletcher, David Holcman, Jennifer Nichols |
+| **2018 – 2022** | **Postdoctoral Research Associate**<br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>**Supervisors:** Jennifer Nichols and Srinjan Basu |
 
 ### Education
 | Years           | Details |
 |-----------------|---------|
-| **2014 – 2019** | PhD Biochemistry, Cambridge Stem Cell Institute, University of Cambridge, UK<br>**Supervisors:** Austin Smith, Graziano Martello, Hillel Kugler<br>Microsoft Research PhD Programme |
-| **2012 – 2013** | MSc Mathematical Modelling and Scientific Computing, Mathematical Institute, University of Oxford, UK<br>**Supervisors:** Helen Byrne, Sarah Waters, Christopher Bell |
-| **2007 – 2011** | BS Biochemistry, Davis College of Agriculture, Natural Resources and Design, West Virginia University, US<br>**Supervisor:** Jonathan Boyd<br>Department of Homeland Security Scholar, Phi Kappa Phi, *Summa Cum Laude* |
-| **2007 – 2011** | BS Mathematics, Eberly College of Arts and Sciences, West Virginia University, US<br>**Supervisor:** Charles Jaffe<br>Department of Homeland Security Scholar, Phi Beta Kappa, *Summa Cum Laude* |
+| **2014 – 2019** | **PhD Biochemistry**<br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>**Supervisors:** Austin Smith, Graziano Martello, Hillel Kugler<br>Microsoft Research PhD Programme |
+| **2012 – 2013** | **MSc Mathematical Modelling and Scientific Computing**<br> Mathematical Institute, University of Oxford, UK<br>**Supervisors:** Helen Byrne, Sarah Waters, Christopher Bell |
+| **2007 – 2011** | **BS Biochemistry**<br>Davis College of Agriculture, Natural Resources and Design, West Virginia University, US<br>**Supervisor:** Jonathan Boyd<br>Department of Homeland Security Scholar, Phi Kappa Phi, *Summa Cum Laude* |
+| **2007 – 2011** | **BS Mathematics**<br>Eberly College of Arts and Sciences, West Virginia University, US<br>**Supervisor:** Charles Jaffe<br>Department of Homeland Security Scholar, Phi Beta Kappa, *Summa Cum Laude* |
 
 ### Other Appointments
 | Years           | Details |
 |-----------------|---------|
-| **2022 – 2025** | Bye-Fellow, Christ’s College, University of Cambridge<br>Supervisor in Second-Year Undergraduate Biochemistry and Molecular Biology |
-| **2022 – 2024** | Tutor in Genetics, Institute of Continuing Education, University of Cambridge |
-| **2011 – 2012** | Research Assistant, Analytical Toxicology, U.S. Army Medical Research Institute of Chemical Defense, USDOD<br>(Summer Intern: 2006, 2007, 2008) |
-| **2010**        | Summer Intern, Animal Research Services, Plum Island Animal Disease Center, USDA |
+| **2022 – 2025** | **Bye-Fellow**<br>Christ’s College, University of Cambridge<br>Supervisor in Second-Year Undergraduate Biochemistry and Molecular Biology |
+| **2022 – 2024** | **Tutor**<br>Institute of Continuing Education, University of Cambridge<br>Undergraduate Diploma in Genetics |
+| **2011 – 2012** | **Research Assistant**<br>Analytical Toxicology, U.S. Army Medical Research Institute of Chemical Defense, USDOD<br>(Summer Intern: 2006, 2007, 2008) |
+| **2010**        | **Summer Intern**<br>Animal Research Services, Plum Island Animal Disease Center, USDA |
 
 ### Memberships
 | Year Joined | Details |
