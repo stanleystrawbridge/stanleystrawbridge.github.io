@@ -144,7 +144,7 @@ table.people-table th:first-child {
    ---------------------------------------------------------- */
 .home-photo {
   float: left;
-  height: 400px;
+  height: 200px;
   width: auto;
   margin: 0 1rem 1rem 0;
   object-fit: cover;
@@ -152,7 +152,7 @@ table.people-table th:first-child {
 
 @media (max-width: 768px) {
   .home-photo {
-    float: none;
+    float: left;
     display: block;
     margin: 0 auto 1rem auto;
     height: auto;
