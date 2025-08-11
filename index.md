@@ -36,7 +36,7 @@ He also gained expertise in mathematical and computational biology during his Ph
 He is now a Group Leader and Early Career Research Fellow in the Physics of Life and Quantitative Biology at the Centre for Stem Cell Biology within the School of Biosciences at the University of Sheffield.
 He investigates how molecular gradients guide cell-fate decisions within the embryo, examines how those decisions shape developmental outcomes, and develops computational tools that bring clarity to these complex biological systems.
 Building on these foundations, his group combines advanced imaging, sequencing, mathematical modelling, and computational analysis to integrate molecular and embryonic scales.
-The ultimate goal is to identify when and why embryos fail to develop or implant with the aim to improve reproductive outcomes for both natural and assisted conception.  
+The ultimate aim is to improve reproductive outcomes for both natural and assisted conceptiongoal by identifying when and why embryos fail to develop or implant.  
 
 He is always enthusiastic about collaboration—whether empirical, computational, or theoretical.
 Contact him at s.strawbridge@sheffield.ac.uk.  
