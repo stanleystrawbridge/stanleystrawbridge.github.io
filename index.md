@@ -6,25 +6,32 @@ permalink: /
 
 ## Bio
 
-Stanley Strawbridge is a stem cell and developmental biologist with a dual background in biochemistry and mathematics.  
-His research explores how stem cells make decisions, how signalling gradients are established in embryos, and the transcription factor networks that govern cell states.  
-He studies developmental programs in both mouse and human systems, leveraging methods from advanced imaging, sequencing, applied mathematics, and machine learning.
+<figure> <img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" /> </figure>
 
-He trained in stem cell biology (PhD, Austin Smith), developmental biology (PDRA, Jennifer Nichols), super-resolution imaging (Sir Henry Wellcome Fellow, Srinjan Basu), and mathematical biology (Sir Henry Wellcome Fellow, Alexander Fletcher).  
-He joined the Centre for Stem Cell Biology at the University of Sheffield as a Group Leader and Early Career Research Fellow in Physics of Life and Quantitative Biology.  
-His research group aims to integrate molecular and embryonic scales to identify critical points at which embryos fail to develop or implant successfully, with the goal of improving reproductive outcomes.
+Stanley Strawbridge is a stem cell and developmental biologist with a dual background in biochemistry and mathematics.
+His research investigates how stem cells make fate decisions, how signalling gradients are established in embryos, and the transcription factor networks that govern cell states.
+He studies developmental programs in both the mouse and human systems, leveraging the tools of advanced imaging, sequencing, applied mathematics, and machine learning.
 
-He is always enthusiastic about collaboration—whether empirical, computational, or theoretical.  
-Please feel free to contact him at [s.strawbridge@sheffield.ac.uk](mailto:s.strawbridge@sheffield.ac.uk).
+He trained in stem cell biology (PhD, Austin Smith), developmental biology (PDRA, Jennifer Nichols), and super-resolution imaging (Sir Henry Wellcome Fellow, Srinjan Basu) at the Cambridge Stem Cell Institute.
+He also pursued training in mathematical and computational biology during his PhD (Hillel Kugler; Microsoft Researck UK, Bar Ilan University), post-doc (Alexander Fletcher, University of Sheffield) and his Henry Wellcome Fellowship (David Holcman, ENS Paris).
+He is now a Group Leader and Early Career Research Fellow in Physics of Life and Quantitative Biology at the Centre for Stem Cell Biology withing the School of Biosciences at the University of Sheffield.
+His group uses quantitative methodologies to integrate molecular and embryonic scales to identifying key points at which embryos fail to develop or implant successfully, with the aim of improving reproductive outcomes.
+
+He is always enthusiastic about collaboration—whether empirical, computational, or theoretical.
+Contact him at s.strawbridge@sheffield.ac.uk.
 
 ---
 
 ## Brief CV
 
 - **2025 – Present**  
-  Group Leader and Early Career Research Fellow, *Physics of Life and Quantitative Biology*,  
-  School of Biosciences, University of Sheffield, UK
+  Group Leader
+  Centre for Stem Cell Biology, School of Biosciences, University of Sheffield, UK
 
+- **2025 – 2029**  
+  Early Career Research Fellow, *Physics of Life and Quantitative Biology*,  
+  Centre for Stem Cell Biology, School of Biosciences, University of Sheffield, UK
+  
 - **2022 – 2025**  
   Sir Henry Wellcome Postdoctoral Fellow,  
   Cambridge Stem Cell Institute, University of Cambridge, UK  
