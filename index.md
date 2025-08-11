@@ -43,21 +43,26 @@ Contact him at s.strawbridge@sheffield.ac.uk.
   Supervisors: Jennifer Nichols and Srinjan Basu
   
 ### Education
-- **2014 – 2018**  
-  PhD Biochemistry, Microsoft Research PhD Programme,  
+- **2014 – 2019**  
+  PhD in Biochemistry   
   Cambridge Stem Cell Institute, University of Cambridge, UK  
-  Supervisors: Austin Smith, Graziano Martello, Hillel Kugler
+  Supervisors: Austin Smith, Graziano Martello, Hillel Kugler  
+  Microsoft Research PhD Programme
 - **2012 – 2013**  
-  MSc Mathematical Modelling and Scientific Computing,  
+  MSc in Mathematical Modelling and Scientific Computing,  
   Mathematical Institute, University of Oxford, UK  
   Supervisors: Helen Byrne, Sarah Waters, Christopher Bell
 - **2007 – 2011**  
-  BS Biochemistry, Department of Homeland Secutiry Scholar, Phi Kappa Phi, Summa Cum Laude,
-  Davis College of Agriculture, Natural Resources and Design, West Virginia University, US
+  BS in Biochemistry  
+  Davis College of Agriculture, Natural Resources and Design, West Virginia University, US  
+  Supervisor: Jonathan Boyd  
+  Department of Homeland Security Scholar, Phi Kappa Phi, *Summa Cum Laude*
 - **2007 – 2011**  
-  BS Mathematics, Department of Homeland Secutiry Scholar, Phi Beta Kappa, Summa Cum Laude,
-  Eberly College of Arts and Sciences, West Virginia University, US
-
+  BS in Mathematics  
+  Eberly College of Arts and Sciences, West Virginia University, US  
+  Supervisor: Charles Jaffe  
+  Department of Homeland Security Scholar, Phi Beta Kappa, *Summa Cum Laude*
+  
 ### Other Appointments
 - **2022 – 2025**  
   Bye-Fellow, Christ’s College, University of Cambridge  
