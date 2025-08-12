@@ -320,7 +320,7 @@ Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), vis
 
 <br> 
 
-## <p style="text-align: center;"><strong>—2024—</strong></p>
+<h2 style="text-align: center;"><strong>—2024—</strong></h2>
 
 ---
 
