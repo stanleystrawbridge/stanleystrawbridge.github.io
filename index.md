@@ -25,6 +25,8 @@ permalink: /
 
 ---
 
+<br>
+
 ## Bio
 
 ---
@@ -46,6 +48,8 @@ He is always enthusiastic about collaboration—whether empirical, computational
 Contact him at s.strawbridge@sheffield.ac.uk.  
 
 ---
+
+<br>
 
 ## Brief CV
 

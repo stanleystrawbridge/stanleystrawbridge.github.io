@@ -8,6 +8,8 @@ permalink: /people/
 
 ---
 
+<br>
+
 ## Current Members
 
 ---
@@ -93,6 +95,8 @@ permalink: /people/
 </table>
 
 ---
+
+<br>
 
 ## Collaborators
 

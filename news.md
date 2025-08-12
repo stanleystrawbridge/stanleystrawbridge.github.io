@@ -8,10 +8,13 @@ permalink: /news/
 
 ---
 
-## **--2025--**
+<br>
+
+## <p style="text-align: center;"><strong>—2025—</strong></p>
 
 ---
 
+<br>
 
 ### 5 August 2025  
 Thank you, **Cherie**, for all your hard work this summer! Wishing you the very best of luck with your final year.
@@ -315,9 +318,13 @@ Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), vis
 
 ---
 
-## **--2024--**
+<br> 
+
+## <p style="text-align: center;"><strong>—2024—</strong></p>
 
 ---
+
+<br> 
 
 ### 16 December 2024 
 Excursion up Win Hill with the **Placzek Lab** et al. Thank you Marysia and Andy for hosting!

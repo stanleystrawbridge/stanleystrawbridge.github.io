@@ -8,6 +8,8 @@ permalink: /research/
 
 ---
 
+<br>
+
 ## Plain language
 
 ---
@@ -24,6 +26,8 @@ We then use computer models to test and refine our ideas.
 Our goal is to uncover the rules of early human development so we can better understand fertility, miscarriage, and the origins of certain diseases.  
 
 ---
+
+<br>
 
 ## Keywords
 

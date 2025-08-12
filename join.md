@@ -8,6 +8,8 @@ permalink: /join/
 
 ---
 
+<br> 
+
 ## Joining the Strawbridge Lab
 
 We welcome motivated and curious researchers at every career stage. 
@@ -25,6 +27,8 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 
 ---
 
+<br> 
+
 ## What We Offer
 
 - **The Lab:** Friendly, collaborative, and supportive environment for interdisciplinary research.
@@ -33,9 +37,13 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 
 ---
   
+<br> 
+
 ## Routes into the Lab  
 
 ---
+
+<br> 
 
 ### **Undergraduate**
 
@@ -47,7 +55,9 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 
 ---
 
-### **Master’s Research**
+<br> 
+
+### **Master’s**
 
 Projects can be hosted through :
 
@@ -59,7 +69,9 @@ Projects can be hosted through :
 
 ---
 
-### **PhD Studentships**
+<br> 
+
+### **PhD**
 
 #### *Current funded topics*
 
@@ -83,7 +95,9 @@ For enquiries, please get in touch.
 
 ---
 
-### **Postdoctoral Fellowships**
+<br> 
+
+### **Postdoctoral**
 
 Below are common schemes we host/support;others welcome!
 
@@ -102,4 +116,4 @@ Below are common schemes we host/support;others welcome!
 
 *Email us **3 – 6 months** before applying so we can craft a competitive proposal.*
 
----
+

@@ -12,8 +12,10 @@ permalink: /publications/
   
 <sup>†</sup> First/Co-first author(s), <sup>*</sup> Corresponding/Co-corresponding author(s)
 
----<br>
-  
+---
+
+<br>
+
 ## Articles
 
 ---
@@ -52,6 +54,8 @@ permalink: /publications/
 
 ---
 
+<br>
+
 ## Book Chapters
 
 ---
@@ -69,6 +73,8 @@ permalink: /publications/
 </ol>
 
 ---
+
+<br>
 
 ## Preprints
 
@@ -92,6 +98,8 @@ permalink: /publications/
 </ol>
 
 ---
+
+<br>
 
 ## Dissertations
 

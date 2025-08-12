@@ -8,6 +8,8 @@ permalink: /public%20engagement/
 
 ---
 
+<br>
+
 Public engagement is an important, and fun, part of our lab’s work.  
 
 If you’d like to collaborate on an activity or you are curious about what is possible, please **[get in touch](mailto:s.strawbridge@sheffield.ac.uk)**.
@@ -15,6 +17,8 @@ If you’d like to collaborate on an activity or you are curious about what is p
 Below are a few highlights.
 
 ---
+
+<br>
 
 ### 3-Minute Thesis
 While a Bye-Fellow at Christ’s College, Cambridge, Stan served as a judge for the MCR-run 3-Minute Thesis competition, where students learn to hone their science communicaiton skills.
@@ -26,6 +30,8 @@ While a Bye-Fellow at Christ’s College, Cambridge, Stan served as a judge for 
 
 ---
 
+<br>
+
 ### Talking Together
 During the pandemic Stan took part in **Talking Together**, a phone-based programme that connected researchers with seldom-heard communities for informal conversations about science.
 
@@ -35,6 +41,8 @@ During the pandemic Stan took part in **Talking Together**, a phone-based progra
 </figure>
 
 ---
+
+<br>
 
 ### Science Comedy
 Science inspired comedy is a great way to show that scientist are just normal people.
@@ -48,6 +56,8 @@ Stan has performed sets, emceed comedy nights, and trained performers in Cambrid
 
 ---
 
+<br>
+
 ### Game Lab
 At the Cambridge Stem Cell Institute we ran **Game Jams** that brought local game developers together with researchers to prototype games inspired by current science.
 
@@ -57,6 +67,8 @@ At the Cambridge Stem Cell Institute we ran **Game Jams** that brought local gam
 </figure>
 
 ---
+
+<br>
 
 ### Pint of Science
 Stan was lucky to arrive in the UK in the very first year of **Pint of Science** and have been involved as a participant and supporter ever since for the first three years.
@@ -68,6 +80,8 @@ Talking science in the pub: accessible, informal, and fun.
 </figure>
 
 ---
+
+<br>
 
 ### Creative Reactions
 By the festival’s third year we helped found **Creative Reactions**, pairing local artists with speakers to create artwork inspired by their talks. 
