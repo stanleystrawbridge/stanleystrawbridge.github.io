@@ -4,8 +4,45 @@ title: "Research"
 permalink: /research/
 ---
 
+---
+
+## Research Areas
+
+We develop and deploy quantitative, computational, and imaging approaches to understand early human development, when it goes wrong, and why.
+This includes, but is not limited to:
+
+- **Cell-population dynamics** – lineage allocation & pattern formation  
+- **Morphogen gradients** – imaging + modelling in dense tissues  
+- **Aneuploidy** – consequences for lineage potential and mosacism  
+- **Open-source tools** – algorithms for image- and omics-data  
+
+Have another idea? Let’s talk!
+
+
 # **Research**
 ---
+
+## Plain Language
+---
+
+## A bit deeper
+---
+
+## For the bold
+---
+
+
+Embryology
+
+Stem Cells
+
+Mathematical modelling
+
+Computational tools
+
+Single molecule localizaiton microscopy
+
+
 
 Quantitative embryology that links fate decisions to developmental outcomes
 You investigate how stem cells decide their fate—such as when donor cells outcompete host cells in early mouse embryos via physical crowding and FGF4 signalling —revealing the dynamic interplay between spatial mechanics and molecular signals during early development.

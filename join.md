@@ -24,20 +24,6 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 3. which **route** you are considering (see below)
 
 ---
-
-## Research Areas
-
-We develop and deploy quantitative, computational, and imaging approaches to understand early human development, when it goes wrong, and why.
-This includes, but is not limited to:
-
-- **Cell-population dynamics** – lineage allocation & pattern formation  
-- **Morphogen gradients** – imaging + modelling in dense tissues  
-- **Aneuploidy** – consequences for lineage potential and mosacism  
-- **Open-source tools** – algorithms for image- and omics-data  
-
-Have another idea? Let’s talk!
-
----
   
 ## Routes into the Lab  
 
