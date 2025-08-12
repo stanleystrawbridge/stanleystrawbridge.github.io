@@ -70,7 +70,6 @@ Funded projects are advertised via **[FindAPhD](https://www.findaphd.com/)**, on
 | **No funded studentships currently available** | |
 
 
-
 #### *Current self-funded topics*
 
 | Theme | Example skill set |
