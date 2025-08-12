@@ -5,6 +5,7 @@ permalink: /public%20engagement/
 ---
 
 # **Public Engagement**
+
 ---
 
 Public engagement is an important, and fun, part of our lab’s work.  

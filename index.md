@@ -22,9 +22,13 @@ permalink: /
 </style>
 
 # **About**
+
 ---
 
 ## Bio
+
+---
+
 <figure class="home-figure">
   <img src="/assets/images/people/stanley_strawbridge.jpg" class="home-photo">
 </figure>
@@ -44,6 +48,8 @@ Contact him at s.strawbridge@sheffield.ac.uk.
 ---
 
 ## Brief CV
+
+---
 
 ### **Academic Positions**
 <div class="cv-section">
@@ -85,7 +91,7 @@ Contact him at s.strawbridge@sheffield.ac.uk.
   </div>
 </div>
 
-### **Other Appointments**
+### **Other Positions**
 <div class="cv-section">
   <div class="cv-row">
     <div class="cv-year">2022 – 2025</div>

@@ -5,9 +5,12 @@ permalink: /people/
 ---
 
 # **People**
+
 ---
 
 ## Current Members
+
+---
 
 <style>
 .people-table td:first-child,
@@ -92,6 +95,8 @@ permalink: /people/
 ---
 
 ## Collaborators
+
+---
 
 ### University of Sheffield
 

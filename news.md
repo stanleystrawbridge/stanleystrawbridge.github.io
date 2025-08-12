@@ -5,7 +5,13 @@ permalink: /news/
 ---
 
 # **News**
+
 ---
+
+## **--2025--**
+
+---
+
 
 ### 5 August 2025  
 Thank you, **Cherie**, for all your hard work this summer! Wishing you the very best of luck with your final year.
@@ -306,6 +312,12 @@ Welcome to **Vivki Metzis** (MRC LMS), visiting to give the **DRN Seminar** in S
 
 ### 15 January 2025 
 Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), visiting to give the **DRN Seminar** in Sheffield.
+
+---
+
+## **--2024--**
+
+---
 
 ### 16 December 2024 
 Excursion up Win Hill with the **Placzek Lab** et al. Thank you Marysia and Andy for hosting!

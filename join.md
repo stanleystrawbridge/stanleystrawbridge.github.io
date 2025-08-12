@@ -24,12 +24,20 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 3. which **route** you are considering (see below)
 
 ---
+
+## **What We Offer**
+
+- **The Lab:** Friendly, collaborative, and supportive environment for interdisciplinary research.
+- **University of Sheffield:** Top 100 university worldwide, home to the Centre for Stem Cell Biology, with world-class facilities.
+- **City of Sheffield:** One of Europe’s top 100 cities, on the edge of the Peak District, with an affordable cost of living.
+
+---
   
 ## Routes into the Lab  
 
 ---
 
-### Undergraduate
+### **Undergraduate**
 
 | Scheme | Typical timeline |
 | :--- | :--- |
@@ -39,7 +47,7 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 
 ---
 
-### Master’s Research
+### **Master’s Research**
 
 Projects can be hosted through :
 
@@ -50,9 +58,10 @@ Projects can be hosted through :
 <sup>★</sup> Contact us **3 – 6 months** before a deadline so we can build a strong proposal together.
 
 ---
-### PhD Studentships
 
-#### Current funded topics
+### **PhD Studentships**
+
+#### *Current funded topics*
 
 Funded projects are advertised via **[FindAPhD](https://www.findaphd.com/)**, on social media (Bluesky: `@stanleystrawbridge.bsky.social`, X/Twitter: `@StanStrawbridge`), and listed here when available.
 
@@ -60,24 +69,22 @@ Funded projects are advertised via **[FindAPhD](https://www.findaphd.com/)**, on
 | :--- | :--- |
 | **No funded studentships currently available** | |
 
----
 
-#### Current self-funded topics
+
+#### *Current self-funded topics*
 
 | Theme | Example skill set |
 | :--- | :--- |
 | Mathematical modelling of human pre-implantation lineage kinetics | image analysis, segmentation, agent-based or continuum modelling |
 | Engineering an *in vitro* human implantation platform (blastoids + endometrial assembloids) | stem-cell culture, 3D imaging, quantitative analysis |
 
----
+**Clinicians:** see the [UKRI Pre-Doctoral Clinical Research Training Fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/).
 
 For enquiries, please get in touch.  
 
-**Clinicians:** see the [UKRI Pre-Doctoral Clinical Research Training Fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/).
-
 ---
 
-### Postdoctoral Fellowships
+### **Postdoctoral Fellowships**
 
 Below are common schemes we host/support;others welcome!
 
@@ -97,11 +104,3 @@ Below are common schemes we host/support;others welcome!
 *Email us **3 – 6 months** before applying so we can craft a competitive proposal.*
 
 ---
-
-## What We Offer
-
-- **The Lab:** Friendly, collaborative, and supportive environment for interdisciplinary research.
-- **University of Sheffield:** Top 100 university worldwide, home to the Centre for Stem Cell Biology, with world-class facilities.
-- **City of Sheffield:** One of Europe’s top 100 cities, on the edge of the Peak District, with an affordable cost of living.
-
-**Questions?** Just [email](mailto:s.strawbridge@sheffield.ac.uk) – we’re happy to chat!

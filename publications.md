@@ -4,14 +4,18 @@ title: "Publications"
 permalink: /publications/
 ---
 
-
-
 # **Publications**
+
 ---
 
 <sup>†</sup> First/Co-first author(s), <sup>*</sup> Corresponding/Co-corresponding author(s)
 
+---
+
 ## Articles
+
+---
+
 <ol reversed>
   <li><strong>Strawbridge, S.E.<sup>†*</sup></strong>, Schrattel, A.K., Humphreys, P., Jones, K.A., Artus, J., Hadjantonakis, A.K., Fletcher, A.G.<sup>*</sup>, Nichols, J.<sup>*</sup> (2025).  
       <em>Donor embryonic stem cells displace host cells of 8-cell-stage chimeras to the extra-embryonic lineages by spatial crowding and FGF4 signalling.</em>  
@@ -47,6 +51,9 @@ permalink: /publications/
 ---
 
 ## Book Chapters
+
+---
+
 <ol reversed>
   <li>Steindel, M.<sup>†</sup>, Orsine de Almeida, I., <strong>Strawbridge, S.</strong>, Chernova, V., Holcman, D., Ponjavic, A.<sup>*</sup>, Basu, S.<sup>*</sup> (2022).  
       <em>Studying the dynamics of chromatin-binding proteins in mammalian cells using single-molecule localization microscopy.</em>  
@@ -62,6 +69,9 @@ permalink: /publications/
 ---
 
 ## Preprints
+
+---
+
 <ol reversed>
   <li><strong>Strawbridge, S.E.<sup>†*</sup></strong>, Bates, L.E.<sup>†</sup>, Ross, C., Jones, K.A., Azami, T., Lohoff, T., Paramor, M., Murray, V., Cidral, A.L., Clarke, J., Rostovskaya, M., Guo, G., Nichols, J.<sup>*</sup> (2025).  
       <em>A new resource of clonal pluripotent human stem cell lines exhibiting inter- and intra-embryo consistency and variability.</em>  
@@ -82,6 +92,9 @@ permalink: /publications/
 ---
 
 ## Dissertations
+
+---
+
 <ol reversed>
   <li><strong>Strawbridge, S.E.</strong> (2019).  
       <em>Understanding the Dynamics of Embryonic Stem Cell Differentiation.</em>  
