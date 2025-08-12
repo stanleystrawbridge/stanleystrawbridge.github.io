@@ -10,7 +10,7 @@ permalink: /news/
 
 <br>
 
-<h2 style="text-align: center;">—2025—</h2>
+<h2 style="text-align: center;"><strong>—2025—</strong></h2>
 
 ---
 

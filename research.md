@@ -29,10 +29,16 @@ Our goal is to uncover the rules of early human development so we can better und
 
 <br>
 
+## Technical Overview
+
+---
+
+<br>
+
 ## Keywords
 
 ---
 
-Embryology · Stem Cells · Mathematical Modelling · Computational Tools · Advanced Imaging
+Embryology · Stem Cells · Mathematical Modelling · Machine Learning · Advanced Imaging
 
 <p class="mt-6">Interested in collaborating? Email <a href="mailto:s.strawbridge@sheffield.ac.uk">s.strawbridge@sheffield.ac.uk</a>.</p>
