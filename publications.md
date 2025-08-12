@@ -6,12 +6,11 @@ permalink: /publications/
 
 # **Publications**
 
----
+---<br>
   
 <sup>†</sup> First/Co-first author(s), <sup>*</sup> Corresponding/Co-corresponding author(s)
 
----
-
+---<br>
   
 ## Articles
 
