@@ -10,7 +10,7 @@ permalink: /news/
 
 <br>
 
-<h2 style="text-align: center;"><strong>—2025—</strong></h2>
+<h2 style="text-align: center;"><strong>— 2025 —</strong></h2>
 
 ---
 
@@ -320,7 +320,7 @@ Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), vis
 
 <br> 
 
-<h2 style="text-align: center;"><strong>—2024—</strong></h2>
+<h2 style="text-align: center;"><strong>— 2024 —</strong></h2>
 
 ---
 
