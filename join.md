@@ -25,7 +25,7 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 
 ---
 
-## **What We Offer**
+## What We Offer
 
 - **The Lab:** Friendly, collaborative, and supportive environment for interdisciplinary research.
 - **University of Sheffield:** Top 100 university worldwide, home to the Centre for Stem Cell Biology, with world-class facilities.
