@@ -152,7 +152,7 @@ permalink: /publications/
   
   <li><strong>Schrattle, A.K.</strong> (2019).  
       <em>Investigating specification and regulation of the extraembryonic lineages during early mouse development.</em>  
-      BSc Engineering, IMC Fachhochschule Krems.
+      BSc Engineering, IMC University of Applied Sciences Krems.
   </li>
   
   <li><strong>Strawbridge, S.E.</strong> (2019).  
