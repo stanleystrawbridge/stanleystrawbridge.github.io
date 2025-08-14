@@ -110,7 +110,6 @@ figcaption {
   width: auto;
   margin: 0 1rem 1rem 0;  /* space to right and below */
   object-fit: cover;
-  border-radius: 8px;
 }
 
 @media (max-width: 768px) {
