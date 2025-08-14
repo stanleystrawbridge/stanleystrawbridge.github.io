@@ -159,21 +159,38 @@ figcaption {
    TABLE HELPERS
 ---------------------------------------------------------- */
 
-table.photo-table td        { vertical-align: top; }
+table.photo-table td {
+  vertical-align: top;
+}
 
-table.people-table td:first-child,
-table.people-table th:first-child {
+/* People table layout */
+.page-content .people-table,
+.post-content .people-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* First column (photos) */
+.page-content table.people-table td:first-child,
+.page-content table.people-table th:first-child,
+.post-content table.people-table td:first-child,
+.post-content table.people-table th:first-child {
   width: 130px;
+  min-width: 130px;
+  max-width: 150px;
 }
 
-/* Center all table content for people tables */
-.people-table td,
-.people-table th {
-  text-align: center;
-  vertical-align: middle;
+/* Center all cells */
+.page-content .people-table td,
+.page-content .people-table th,
+.post-content .people-table td,
+.post-content .people-table th {
+  text-align: center !important;
+  vertical-align: middle !important;
+  padding: 8px;
 }
 
-/* Keep flag icons nicely proportioned and centered */
+/* Flags */
 .flag-icon {
   width: 75%;
   height: auto;
@@ -181,6 +198,11 @@ table.people-table th:first-child {
   vertical-align: middle;
   margin: 5px;
 }
+
+.flag-icon + .flag-icon {
+  margin-left: 6px; /* space between multiple flags */
+}
+
 
 /* ----------------------------------------------------------
    PUBLICATIONS PAGE
