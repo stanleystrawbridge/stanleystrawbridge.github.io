@@ -298,7 +298,7 @@ permalink: /people/
       <td>
         <img src="/assets/images/flags/AT.png" class="flag-icon" />
       </td>
-      <td>IMC Fachhochschule Krems</td>
+      <td>IMC University of Applied Sciences Krems</td>
       <td>Visiting Student, BSc Engineering</td>
       <td>2018-2019</td>
 	  <td>PhD University of Heidelberg</td>
