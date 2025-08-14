@@ -116,6 +116,8 @@ permalink: /people/
 
 ---
 
+<br>
+
 ### University of Sheffield
 
 | Name                      | Affiliation                                               |
@@ -136,8 +138,13 @@ permalink: /people/
 | **David Holcman**   | École Normale Supérieure (ENS), Paris   |
 | **Jennifer Nichols**| University of Edinburgh                 |
 
+<br>
 
 ## Past Members
+---
+
+<br>
+
 <table class="people-table">
   <thead>
     <tr>
@@ -152,73 +159,7 @@ permalink: /people/
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" /></td>
-      <td><strong>Stanley E. Strawbridge</strong></td>
-      <td>
-        <img src="/assets/images/flags/US.png" class="flag-icon" />
-        <img src="/assets/images/flags/UK.png" class="flag-icon" />
-      </td>
-      <td>University of Sheffield</td>
-      <td>Principal Investigator</td>
-      <td>—</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" /></td>
-      <td><strong>Yuze Cao</strong></td>
-      <td>
-	    <img src="/assets/images/flags/CN.png" class="flag-icon" />
-	  </td>
-      <td>ENS Paris</td>
-      <td>PhD Student, Biophysics</td>
-      <td>2024</td>
-      <td>Primary supervisors: David Holcman, Srinjan Basu</td>
-    </tr>
-    <tr>
-      <td><img src="/assets/images/people/cherie_cheung.jpg" class="people-photo" /></td>
-      <td><strong>Cherie Cheung</strong></td>
-      <td>
-		<img src="/assets/images/flags/UK.png" class="flag-icon" />
-	  </td>
-      <td>University of Sheffield</td>
-      <td>BA Student, Biomedical Sciences</td>
-      <td>2025</td>
-      <td>Sheffield Undergraduate Research Experience (SURE) Student</td>
-    </tr>
-    <tr>
-      <td><img src="/assets/images/people/harriet_english.jpg" class="people-photo" /></td>
-      <td><strong>Harriet L. English</strong></td>
-      <td>
-		<img src="/assets/images/flags/UK.png" class="flag-icon" />
-	  </td>
-      <td>University of Sheffield</td>
-      <td>MSc Student, Reproductive & Developmental Medicine</td>
-      <td>2025</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" /></td>
-      <td><strong>Samuel Guttridge</strong></td>
-      <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
-      <td>University of Sheffield</td>
-      <td>PhD Student, Reproductive Medicine</td>
-      <td>2025</td>
-      <td>Primary supervisor: Emma Lucas</td>
-    </tr>
-    <tr>
-      <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="people-photo" /></td>
-      <td><strong>Samuel J. Higgins-Aguilar</strong></td>
-      <td>
-        <img src="/assets/images/flags/ES.png" class="flag-icon" />
-        <img src="/assets/images/flags/UK.png" class="flag-icon" />
-      </td>
-      <td>University of Sheffield</td>
-      <td>MSc Student, Reproductive & Developmental Medicine</td>
-      <td>2025</td>
-      <td></td>
-    </tr>
-
+    
     <tr>
       <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" /></td>
       <td><strong>Yuze Cao</strong></td>
@@ -229,7 +170,7 @@ permalink: /people/
       <td>MPhil Biological Science (Stem Cells)</td>
       <td>2022-2023</td>
 	  <td>PhD Biophysics, ENS Paris</td>
-      <td>Primary supervisor: Srinjan Basu. 	  
+      <td>Primary supervisor: Srinjan Basu.</td> 	  
     </tr>
 
     <tr>
@@ -242,7 +183,7 @@ permalink: /people/
       <td>MPhil Biological Science (Stem Cells)</td>
       <td>2022-2023</td>
 	  <td>PhD Biophysics, ENS Paris</td>
-      <td>Primary supervisor: Srinjan Basu. 	  
+      <td>Primary supervisor: Srinjan Basu.</td> 	  
     </tr>
 	
     <tr>
@@ -255,7 +196,7 @@ permalink: /people/
       <td>MPhil Biological Science (Stem Cells)</td>
       <td>2021-2022</td>
 	  <td>PhD Computational Biophysics, UCL</td>
-      <td>Primary supervisor: Srinjan Basu. 	  
+      <td>Primary supervisor: Srinjan Basu.</td> 	  
     </tr>
 	
     <tr>
@@ -268,7 +209,7 @@ permalink: /people/
       <td>MSc Systems Biology</td>
       <td>2020-2021</td>
 	  <td>PhD Cell Biology and Biophysics, EMBL Heidelberg</td>
-      <td>Primary supervisor: Srinjan Basu. 	  
+      <td>Primary supervisor: Srinjan Basu.</td> 	  
     </tr>
 	
     <tr>
@@ -281,7 +222,7 @@ permalink: /people/
       <td>MSc Systems Biology</td>
       <td>2019-2020</td>
 	  <td>PhD Systems Biology, University of Columbia</td>
-      <td>Primary supervisor: Srinjan Basu. 	  
+      <td>Primary supervisor: Srinjan Basu.</td> 	  
     </tr>
 	
     <tr>
@@ -294,7 +235,7 @@ permalink: /people/
       <td>Visiting Student, MSc Biotechonlology</td>
       <td>2019-2020</td>
 	  <td>Pharma</td>
-      <td>Primary supervisor: Jennifer Nichols. 	  
+      <td>Primary supervisor: Jennifer Nichols.</td> 	  
     </tr>	
 
     <tr>
@@ -307,7 +248,7 @@ permalink: /people/
       <td>Visiting Student, BSc Engineering</td>
       <td>2018-2019</td>
 	  <td>PhD University of Heidelberg</td>
-      <td>Primary supervisor: Jennifer Nichols. 	  
+      <td>Primary supervisor: Jennifer Nichols.</td> 	  
     </tr>
   </tbody>
 </table>
