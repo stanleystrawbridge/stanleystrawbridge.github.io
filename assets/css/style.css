@@ -120,7 +120,7 @@ figcaption {
     margin: 0 auto 1rem auto;
     height: auto;
     max-width: 100%;
-    border-radius: 0;     /* square corners for mobile too */
+    border-radius: 0;
   }
 }
 
@@ -133,6 +133,7 @@ figcaption {
   object-fit: cover;
   display: block;
   margin: 0 auto;
+  border-radius: 0;
 }
 
 .public-engagement-photo {
