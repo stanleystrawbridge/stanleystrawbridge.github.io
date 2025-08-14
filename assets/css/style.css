@@ -176,6 +176,8 @@ table.photo-table td {
   width: 130px;
   min-width: 130px;
   max-width: 150px;
+  text-align: center !important;      /* center first column */
+  vertical-align: middle !important;  /* middle align first column */
 }
 
 /* Center all cells */
@@ -186,6 +188,17 @@ table.photo-table td {
   text-align: center !important;
   vertical-align: middle !important;
   padding: 8px;
+}
+
+/* Profile photos in people table */
+.page-content .people-table .people-photo,
+.post-content .people-table .people-photo {
+  height: 100px;
+  width: 80px;              /* fixed width for uniformity */
+  object-fit: cover;
+  border-radius: 8px;
+  display: inline-block !important;
+  margin: 0 auto !important;
 }
 
 /* Flags */
@@ -200,6 +213,7 @@ table.photo-table td {
 .flag-icon + .flag-icon {
   margin-left: 6px; /* space between multiple flags */
 }
+
 
 
 /* ----------------------------------------------------------
