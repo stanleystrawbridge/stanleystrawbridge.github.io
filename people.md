@@ -234,7 +234,7 @@ permalink: /people/
         <img src="/assets/images/flags/UK.png" class="flag-icon" />
       </td>
       <td>University of Cambridge</td>
-      <td>MPhil Biological Science (Stem Cell Biology)</td>
+      <td>MPhil Biological Sciences (Stem Cell Biology)</td>
       <td>2021-2022</td>
 	  <td>PhD Computational Biophysics, UCL</td>
       <td>Primary supervisor: Srinjan Basu.</td> 	  
