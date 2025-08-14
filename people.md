@@ -158,18 +158,46 @@ permalink: /people/
       <th>Notes</th>
     </tr>
   </thead>
+  
   <tbody>
     
-    <tr>
-      <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" /></td>
-      <td><strong>Yuze Cao</strong></td>
+	<tr>
+      <td><img src="/assets/images/people/khalid_guma'a.jpeg" class="people-photo" /></td>
+      <td><strong>Khalid Guma'a</strong></td>
       <td>
-        <img src="/assets/images/flags/UK.jpeg" class="flag-icon" />
+        <img src="/assets/images/flags/UK.png" class="flag-icon" />
+		<img src="/assets/images/flags/SD.png" class="flag-icon" />
       </td>
       <td>University of Cambridge</td>
-      <td>MPhil Biological Science (Stem Cells)</td>
-      <td>2022-2023</td>
-	  <td>PhD Biophysics, ENS Paris</td>
+      <td>MPhil Biochemistry</td>
+      <td>2023-2024</td>
+	  <td>Finance</td>
+      <td>Primary supervisor: Srinjan Basu.</td> 	  
+    </tr>
+	
+    <tr>
+      <td><img src="/assets/images/people/aimee_preston.jpeg" class="people-photo" /></td>
+      <td><strong>Aimee Preston</strong></td>
+      <td>
+        <img src="/assets/images/flags/UK.png" class="flag-icon" />
+      </td>
+      <td>University of Cambridge</td>
+      <td>MSc Systems Biology</td>
+      <td>2023-2024</td>
+	  <td>Consulting</td>
+      <td>Primary supervisor: Srinjan Basu.</td> 	  
+    </tr>
+	
+    <tr>
+      <td><img src="/assets/images/people/kathryn_bowers.jpeg" class="people-photo" /></td>
+      <td><strong>Kathryn Bowers</strong></td>
+      <td>
+        <img src="/assets/images/flags/UK.png" class="flag-icon" />
+      </td>
+      <td>University of Cambridge</td>
+      <td>MPhil Computational Biology</td>
+      <td>2023</td>
+	  <td>PhD Biostatistics, University of Cambridge</td>
       <td>Primary supervisor: Srinjan Basu.</td> 	  
     </tr>
 
@@ -177,7 +205,7 @@ permalink: /people/
       <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" /></td>
       <td><strong>Yuze Cao</strong></td>
       <td>
-        <img src="/assets/images/flags/CN.jpeg" class="flag-icon" />
+        <img src="/assets/images/flags/CN.png" class="flag-icon" />
       </td>
       <td>University of Cambridge</td>
       <td>MPhil Biological Science (Stem Cells)</td>
@@ -190,7 +218,7 @@ permalink: /people/
       <td><img src="/assets/images/people/sebastian_berger.jpeg" class="people-photo" /></td>
       <td><strong>Sebastian Berger</strong></td>
       <td>
-        <img src="/assets/images/flags/UK.jpeg" class="flag-icon" />
+        <img src="/assets/images/flags/UK.png" class="flag-icon" />
       </td>
       <td>University of Cambridge</td>
       <td>MPhil Biological Science (Stem Cells)</td>
