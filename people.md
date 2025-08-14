@@ -214,6 +214,19 @@ permalink: /people/
       <td>Primary supervisor: Srinjan Basu.</td> 	  
     </tr>
 	
+	<tr>
+      <td><img src="/assets/images/people/jenny_zhang.jpeg" class="people-photo" /></td>
+      <td><strong>Jenny Zhang</strong></td>
+      <td>
+        <img src="/assets/images/flags/UK.png" class="flag-icon" />
+      </td>
+      <td>University of Cambridge</td>
+      <td>Intercalated BA Natural Sciences</td>
+      <td>2022-2023</td>
+	  <td>MB/BChir, University of Cambridge</td>
+      <td>Primary supervisor: Srinjan Basu. Co-supervisor: Gökçe Agsu.</td> 	  
+    </tr>
+	
     <tr>
       <td><img src="/assets/images/people/sebastian_berger.jpeg" class="people-photo" /></td>
       <td><strong>Sebastian Berger</strong></td>
@@ -237,6 +250,19 @@ permalink: /people/
       <td>MSc Systems Biology</td>
       <td>2020-2021</td>
 	  <td>PhD Cell Biology and Biophysics, EMBL Heidelberg</td>
+      <td>Primary supervisor: Srinjan Basu.</td> 	  
+    </tr>
+	
+	<tr>
+      <td><img src="/assets/images/people/patrick_rericha.jpeg" class="people-photo" /></td>
+      <td><strong>Patrick Rericha</strong></td>
+      <td>
+        <img src="/assets/images/flags/AT.png" class="flag-icon" />
+      </td>
+      <td>University of Cambridge</td>
+      <td>MRes Rotation Student</td>
+      <td>2020</td>
+	  <td>PhD Stem Cell Biology & Medicine, University of Cambridge</td>
       <td>Primary supervisor: Srinjan Basu.</td> 	  
     </tr>
 	
