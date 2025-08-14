@@ -26,7 +26,7 @@ permalink: /people/
 		height: 2.5%;
 		width: auto;
 		vertical-align: middle;
-		border: 1px
+		margin: 5px
 	}
 </style>
 
