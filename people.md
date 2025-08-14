@@ -224,7 +224,7 @@ permalink: /people/
       <td>Intercalated BA Natural Sciences</td>
       <td>2022-2023</td>
 	  <td>MB/BChir, University of Cambridge</td>
-      <td>Primary supervisor: Srinjan Basu. Co-supervisor: Gökçe Agsu.</td> 	  
+      <td>Primary supervisor: Srinjan Basu.<br>Co-supervisor: Gökçe Agsu.</td> 	  
     </tr>
 	
     <tr>
@@ -285,8 +285,8 @@ permalink: /people/
       <td>
         <img src="/assets/images/flags/BR.png" class="flag-icon" />
       </td>
-      <td>University of Sao Palo</td>
-      <td>Visiting Student, MSc Biotechonlology</td>
+      <td>University<br>of<br>São Paulo</td>
+      <td>Visiting Student, MSc Biotechnology</td>
       <td>2019-2020</td>
 	  <td>Pharma</td>
       <td>Primary supervisor: Jennifer Nichols.</td> 	  
@@ -294,14 +294,14 @@ permalink: /people/
 
     <tr>
       <td><img src="/assets/images/people/anna_katharina_schrattel.jpeg" class="people-photo" /></td>
-      <td><strong>Anna Katherina Schrattle</strong></td>
+      <td><strong>Anna Katharina Schrattle</strong></td>
       <td>
         <img src="/assets/images/flags/AT.png" class="flag-icon" />
       </td>
       <td>IMC University of Applied Sciences Krems</td>
       <td>Visiting Student, BSc Engineering</td>
       <td>2018-2019</td>
-	  <td>PhD University of Heidelberg</td>
+	  <td>PhD, University of Heidelberg</td>
       <td>Primary supervisor: Jennifer Nichols.</td> 	  
     </tr>
   </tbody>
