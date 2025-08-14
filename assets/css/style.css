@@ -167,6 +167,22 @@ table.people-table th:first-child {
   max-width: 150px;
 }
 
+/* Center all table content for people tables */
+.people-table td,
+.people-table th {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Keep flag icons nicely proportioned and centered */
+.flag-icon {
+  width: 75%;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 5px;
+}
+
 /* ----------------------------------------------------------
    PUBLICATIONS PAGE
 ---------------------------------------------------------- */
