@@ -106,6 +106,16 @@ permalink: /publications/
 ---
 
 <ol reversed>
+<!--
+  <li><strong>English, H.L.</strong> (2025).  
+      <em>.</em>  
+      MSc Reproductive and Developmental Medicine, University of Sheffield.
+  </li>
+  <li><strong>Higgins-Aguilar, S.J.</strong> (2025).  
+      <em>Investigating Early Pregnancy Loss Using Human Pluripotent Stem Cells to Model Placental Tissues.</em>  
+      MSc Reproductive and Developmental Medicine, University of Sheffield.
+  </li>
+-->
   <li><strong>Strawbridge, S.E.</strong> (2019).  
       <em>Understanding the Dynamics of Embryonic Stem Cell Differentiation.</em>  
       PhD Biochemistry, University of Cambridge.
