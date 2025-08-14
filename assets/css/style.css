@@ -164,7 +164,6 @@ table.photo-table td        { vertical-align: top; }
 table.people-table td:first-child,
 table.people-table th:first-child {
   width: 130px;
-  max-width: 150px;
 }
 
 /* Center all table content for people tables */
