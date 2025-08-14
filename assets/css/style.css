@@ -130,7 +130,6 @@ figcaption {
 .people-photo {
   height: 100px;
   object-fit: cover;
-  border-radius: 8px;
   display: block;
   margin: 0 auto;
 }
