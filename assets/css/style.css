@@ -110,6 +110,7 @@ figcaption {
   width: auto;
   margin: 0 1rem 1rem 0;  /* space to right and below */
   object-fit: cover;
+  border-radius: 0;       /* square corners */
 }
 
 @media (max-width: 768px) {
@@ -119,6 +120,7 @@ figcaption {
     margin: 0 auto 1rem auto;
     height: auto;
     max-width: 100%;
+    border-radius: 0;     /* square corners for mobile too */
   }
 }
 
@@ -196,7 +198,7 @@ table.photo-table td {
   height: 100px;
   width: 80px;              /* fixed width for uniformity */
   object-fit: cover;
-  border-radius: 8px;
+  border-radius: 0px;
   display: inline-block !important;
   margin: 0 auto !important;
 }
