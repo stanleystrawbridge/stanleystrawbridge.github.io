@@ -21,7 +21,7 @@ Below are a few highlights.
 <br>
 
 ### 3-Minute Thesis
-While a Bye-Fellow at Christ’s College, Cambridge, Stan served as a judge for the MCR-run 3-Minute Thesis competition, where students learn to hone their science communicaiton skills.
+While a Bye-Fellow at Christ’s College, Cambridge, Stan served as a judge for a 3-Minute Thesis competition, where students learn to hone their science communicaiton skills.
 
 <figure>
   <img src="/assets/images/public engagement/20240227_three_minute_thesis.jpg" class="public-engagement-photo" alt="Hands">
@@ -33,7 +33,7 @@ While a Bye-Fellow at Christ’s College, Cambridge, Stan served as a judge for 
 <br>
 
 ### Talking Together
-During the pandemic Stan took part in **Talking Together**, a phone-based programme that connected researchers with seldom-heard communities for informal conversations about science.
+During the pandemic, Stan took part in **Talking Together**, a phone-based programme that connected researchers with seldom-heard communities for informal conversations about science.
 
 <figure>
   <img src="/assets/images/public engagement/20221118_talking_together.jpeg" class="public-engagement-photo" alt="Chalky">
@@ -45,8 +45,8 @@ During the pandemic Stan took part in **Talking Together**, a phone-based progra
 <br>
 
 ### Science Comedy
-Science inspired comedy is a great way to show that scientist are just normal people.
-Or to confirm the publics suspicisions that we are as delightfully odd as they think we are!
+Science-inspired comedy is a great way to show that scientist are just normal people.
+Or to confirm the public's suspicions that we are as delightfully odd as they think we are!
 Stan has performed sets, emceed comedy nights, and trained performers in Cambridge and London.
 
 <figure>
@@ -71,7 +71,7 @@ At the Cambridge Stem Cell Institute we ran **Game Jams** that brought local gam
 <br>
 
 ### Pint of Science
-Stan was lucky to arrive in the UK in the very first year of **Pint of Science** and have been involved as a participant and supporter ever since for the first three years.
+Stan was lucky to arrive in the Oxford in the very first year of **Pint of Science** and was an organizer and supporter ever since.
 Talking science in the pub: accessible, informal, and fun. 
 
 <figure>
@@ -84,7 +84,7 @@ Talking science in the pub: accessible, informal, and fun.
 <br>
 
 ### Creative Reactions
-By the festival’s third year we helped found **Creative Reactions**, pairing local artists with speakers to create artwork inspired by their talks. 
+By the festival’s third year we founded **Creative Reactions**, pairing local artists with speakers to create artwork inspired by their talks. 
 Pieces were shown alongside the events and then in a dedicated exhibition.
 
 <figure>
