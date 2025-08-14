@@ -220,21 +220,70 @@ permalink: /people/
     </tr>
 
     <tr>
-      <td><img src="/assets/images/people/anna_katharina_schrattel.jpeg" class="people-photo" /></td>
+      <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" /></td>
+      <td><strong>Yuze Cao</strong></td>
+      <td>
+        <img src="/assets/images/flags/UK.jpeg" class="flag-icon" />
+      </td>
+      <td>University of Cambridge</td>
+      <td>MPhil Biological Science (Stem Cells)</td>
+      <td>2022-2023</td>
+	  <td>PhD Biophysics, ENS Paris</td>
+      <td>Primary supervisor: Srinjan Basu. 	  
+    </tr>
+
+    <tr>
+      <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" /></td>
+      <td><strong>Yuze Cao</strong></td>
+      <td>
+        <img src="/assets/images/flags/CN.jpeg" class="flag-icon" />
+      </td>
+      <td>University of Cambridge</td>
+      <td>MPhil Biological Science (Stem Cells)</td>
+      <td>2022-2023</td>
+	  <td>PhD Biophysics, ENS Paris</td>
+      <td>Primary supervisor: Srinjan Basu. 	  
+    </tr>
+	
+    <tr>
+      <td><img src="/assets/images/people/sebastian_berger.jpeg" class="people-photo" /></td>
+      <td><strong>Sebastian Berger</strong></td>
+      <td>
+        <img src="/assets/images/flags/UK.jpeg" class="flag-icon" />
+      </td>
+      <td>University of Cambridge</td>
+      <td>MPhil Biological Science (Stem Cells)</td>
+      <td>2021-2022</td>
+	  <td>PhD Computational Biophysics, UCL</td>
+      <td>Primary supervisor: Srinjan Basu. 	  
+    </tr>
+	
+    <tr>
+      <td><img src="/assets/images/people/valentyna_chernova.jpeg" class="people-photo" /></td>
+      <td><strong>Valentyna Chernova</strong></td>
+      <td>
+        <img src="/assets/images/flags/UA.jpeg" class="flag-icon" />
+      </td>
+      <td>University of Cambridge</td>
+      <td>MSc Systems Biology</td>
+      <td>2020-2021</td>
+	  <td>PhD Cell Biology and Biophysics, EMBL Heidelberg</td>
+      <td>Primary supervisor: Srinjan Basu. 	  
+    </tr>
+	
+    <tr>
+      <td><img src="/assets/images/people/gergo_nikolenyi.jpg" class="people-photo" /></td>
       <td><strong>Gergő Nikolényi</strong></td>
       <td>
         <img src="/assets/images/flags/HU.png" class="flag-icon" />
       </td>
       <td>University of Cambridge</td>
       <td>MSc Systems Biology</td>
-      <td>2019</td>
-	  <td>PhD University of Columbia</td>
-      <td>Primary Supervisor Srinjan Basu. 	  
+      <td>2019-2020</td>
+	  <td>PhD Systems Biology, University of Columbia</td>
+      <td>Primary supervisor: Srinjan Basu. 	  
     </tr>
 	
-
-
-
     <tr>
       <td><img src="/assets/images/people/ana_cidral.jpeg" class="people-photo" /></td>
       <td><strong>Ana Luíza Cidral</strong></td>
@@ -242,10 +291,10 @@ permalink: /people/
         <img src="/assets/images/flags/BR.png" class="flag-icon" />
       </td>
       <td>University of Sao Palo</td>
-      <td>Visitor, MSc Biotechonlology</td>
-      <td>2019</td>
+      <td>Visiting Student, MSc Biotechonlology</td>
+      <td>2019-2020</td>
 	  <td>Pharma</td>
-      <td>Primary Supervisor Jennifer Nichols. 	  
+      <td>Primary supervisor: Jennifer Nichols. 	  
     </tr>	
 
     <tr>
@@ -255,10 +304,10 @@ permalink: /people/
         <img src="/assets/images/flags/AT.png" class="flag-icon" />
       </td>
       <td>IMC Fachhochschule Krems</td>
-      <td>BSc Engineering</td>
-      <td>2019</td>
-	  <td>PhD University of heidelberg</td>
-      <td>Primary Supervisor Jennifer Nichols. 	  
+      <td>Visiting Student, BSc Engineering</td>
+      <td>2018-2019</td>
+	  <td>PhD University of Heidelberg</td>
+      <td>Primary supervisor: Jennifer Nichols. 	  
     </tr>
   </tbody>
 </table>
