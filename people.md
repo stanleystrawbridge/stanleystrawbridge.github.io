@@ -23,7 +23,7 @@ permalink: /people/
 	}
 
 	.flag-icon {		
-		width: 50%;
+		width: 75%;
 		height: auto;
 		vertical-align: middle;
 		margin: 5px
