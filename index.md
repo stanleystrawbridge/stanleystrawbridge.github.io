@@ -55,7 +55,7 @@ Contact him at s.strawbridge@sheffield.ac.uk.
 
 ---
 
-### **Academic Positions**
+### **Academic Appointments**
 <div class="cv-section">
   <div class="cv-row">
     <div class="cv-year">2025 – Present</div>
@@ -95,7 +95,7 @@ Contact him at s.strawbridge@sheffield.ac.uk.
   </div>
 </div>
 
-### **Other Positions**
+### **Other Appointments**
 <div class="cv-section">
   <div class="cv-row">
     <div class="cv-year">2022 – 2025</div>
