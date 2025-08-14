@@ -127,7 +127,7 @@ permalink: /publications/
   </li>
   <li><strong>Bowers, K.</strong> (2023).  
       <em>A data-driven nuclear scale coarse-grained spatiotemporal model of transcription factor kinetics within pluripotent cells.</em>  
-      MPhil Computaitonal Biology, University of Cambridge.
+      MPhil Computational Biology, University of Cambridge.
   </li>
   
   <li><strong>Yuze, C.</strong> (2023).  
@@ -141,7 +141,7 @@ permalink: /publications/
   </li>
   
   <li><strong>Chernova, V.</strong> (2021).  
-      <em>Multi-scale cluster identification in singlemolecule localization microscopy data using persistent homology.</em>  
+      <em>Multi-scale cluster identification in single molecule localization microscopy data using persistent homology.</em>  
       MSc Systems Biology, University of Cambridge.
   </li> 
     
@@ -171,7 +171,7 @@ permalink: /publications/
   </li>
 
   <li><strong>Strawbridge, S.E.</strong> (2011).  
-      <em>Examination of a hamiltonian kepler problem with classical and special relativistic mechanics.</em>  
+      <em>Examination of a Hamiltonian Kepler problem with classical and special relativistic mechanics.</em>  
       BS Mathematics, West Virginia University.
   </li>
 </ol>
