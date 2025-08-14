@@ -89,7 +89,7 @@ Funded projects are advertised via **[FindAPhD](https://www.findaphd.com/)**, on
 | Mathematical modelling of human pre-implantation lineage kinetics | image analysis, segmentation, agent-based or continuum modelling |
 | Engineering an *in vitro* human implantation platform (blastoids + endometrial assembloids) | stem-cell culture, 3D imaging, quantitative analysis |
 
-**Clinicians:** see the [UKRI Pre-Doctoral Clinical Research Training Fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/) or indiviual charities. 
+**Clinicians:** see the [UKRI Pre-Doctoral Clinical Research Training Fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/) or individual charities. 
 
 ---
 
