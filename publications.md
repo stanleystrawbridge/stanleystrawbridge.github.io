@@ -137,7 +137,7 @@ permalink: /publications/
   
   <li><strong>Berger, S.</strong> (2022).  
       <em>Establishing a nuclear scale coarse-grained model of transcription factor condensate formation within a physiological context.</em>  
-      MPhil Systems Biology, University of Cambridge.
+      MPhil Biological Sciences (Stem Cell Biology), University of Cambridge.
   </li>
   
   <li><strong>Chernova, V.</strong> (2021).  
