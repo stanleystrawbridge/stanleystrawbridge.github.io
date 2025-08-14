@@ -31,9 +31,9 @@ If you’re interested, email **[s.strawbridge@sheffield.ac.uk](mailto:s.strawbr
 
 ## What We Offer
 
-- **The Lab:** Friendly, collaborative, and supportive environment for interdisciplinary research.
+- **The Lab:** Friendly and supportive environment for interdisciplinary research. Opportunities for national and international collaborations.
 - **University of Sheffield:** Top 100 university worldwide, home to the Centre for Stem Cell Biology, with world-class facilities.
-- **City of Sheffield:** One of Europe’s top 100 cities, on the edge of the Peak District, with an affordable cost of living.
+- **City of Sheffield:** One of Europe’s top 100 cities on the edge of the beautiful Peak District.
 
 ---
   
@@ -89,9 +89,7 @@ Funded projects are advertised via **[FindAPhD](https://www.findaphd.com/)**, on
 | Mathematical modelling of human pre-implantation lineage kinetics | image analysis, segmentation, agent-based or continuum modelling |
 | Engineering an *in vitro* human implantation platform (blastoids + endometrial assembloids) | stem-cell culture, 3D imaging, quantitative analysis |
 
-**Clinicians:** see the [UKRI Pre-Doctoral Clinical Research Training Fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/).
-
-For enquiries, please get in touch.  
+**Clinicians:** see the [UKRI Pre-Doctoral Clinical Research Training Fellowship](https://www.ukri.org/opportunity/pre-doctoral-clinical-research-training-fellowship/) or indiviual charities. 
 
 ---
 
@@ -106,8 +104,8 @@ Below are common schemes we host/support;others welcome!
 | [BBSRC Discovery](https://www.ukri.org/what-we-do/developing-people-and-skills/bbsrc/fellowships/) | variable |
 | [EMBO Postdoctoral Fellowship](https://www.embo.org/funding/fellowships/postdoctoral-fellowship/) | Jan & Jul |
 | [Ernest Rutherford Fellowship](https://www.ukri.org/what-we-do/developing-people-and-skills/stfc/fellowships/ernest-rutherford-fellowships/) | Oct |
-| [HFSP Long-Term Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships) | May (LoI) |
-| [HFSP Cross-Disciplinary Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships) | May (LoI) |
+| [HFSP Long-Term Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships) | May (Letter of Intent) |
+| [HFSP Cross-Disciplinary Fellowship](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships) | May (Letter of Intent) |
 | [Marie Skłodowska-Curie PF](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) | Sep |
 | [Marshall Sherfield Fellowship](https://www.marshallscholarship.org/postgraduates/marshall-sherfield/) | Dec |
 | [Newton International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) | Mar |
