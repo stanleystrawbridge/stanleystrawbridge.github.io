@@ -116,23 +116,62 @@ permalink: /publications/
       MSc Reproductive and Developmental Medicine, University of Sheffield.
   </li>
 -->
+
+  <li><strong>Guma'a, K.</strong> (2024).  
+      <em>Spatiotemporal analysis of NANOG chromatin-binding dynamics in mouse embryonic stem cells.</em>  
+      MPhil Biochemistry, University of Cambridge.
+  </li>
+  <li><strong>Preston, A.</strong> (2024).  
+      <em>Investigating effects of nanoscale transport mechanisms on the formation of the FGF4 morphogen gradient during early mouse development.</em>  
+      MSc Systems Biology, University of Cambridge.
+  </li>
+  <li><strong>Bowers, K.</strong> (2023).  
+      <em>A data-driven nuclear scale coarse-grained spatiotemporal model of transcription factor kinetics within pluripotent cells.</em>  
+      MPhil Computaitonal Biology, University of Cambridge.
+  </li>
+  
+  <li><strong>Yuze, C.</strong> (2023).  
+      <em>Transcription factor condensate formation under homotypic interactions is concentration and valency-dependent.</em>  
+      MSc Systems Biology, University of Cambridge.
+  </li>
+  
+  <li><strong>Berger, S.</strong> (2022).  
+      <em>Establishing a nuclear scale coarse-grained model of transcription factor condensate formation within a physiological context.</em>  
+      MPhil Systems Biology, University of Cambridge.
+  </li>
+  
+  <li><strong>Chernova, V.</strong> (2021).  
+      <em>Multi-scale cluster identification in singlemolecule localization microscopy data using persistent homology.</em>  
+      MSc Systems Biology, University of Cambridge.
+  </li> 
+    
+  <li><strong>Nikolényi, G.</strong> (2020).  
+      <em>An analytical framework for quantifying spatial clustering of transcription factors from three-dimensional super-resolution microscopy data.</em>  
+      MSc Systems Biology, University of Cambridge.
+  </li>
+  
+  <li><strong>Schrattle, A.K.</strong> (2019).  
+      <em>Investigating specification and regulation of the extraembryonic lineages during early mouse development.</em>  
+      BSc Engineering, IMC Fachhochschule Krems.
+  </li>
+  
   <li><strong>Strawbridge, S.E.</strong> (2019).  
-      <em>Understanding the Dynamics of Embryonic Stem Cell Differentiation.</em>  
+      <em>Understanding the dynamics of embryonic stem cell differentiation.</em>  
       PhD Biochemistry, University of Cambridge.
   </li>
-
+  
   <li><strong>Strawbridge, S.E.</strong> (2013).  
-      <em>The Effects of Fluid Flow on Cell Aggregation: A Hybrid Approach to Modeling Chemotaxis.</em>  
+      <em>The effects of fluid flow on cell aggregation: a hybrid approach to modeling chemotaxis.</em>  
       MSc Mathematical Modelling & Scientific Computing, University of Oxford.
   </li>
 
   <li><strong>Strawbridge, S.E.</strong> (2011).  
-      <em>Dissecting the Relationship between SOD and GSH in HepG2 Cells.</em>  
+      <em>Dissecting the relationship between SOD and GSH in HepG2 cells.</em>  
       BS Biochemistry, West Virginia University.
   </li>
 
   <li><strong>Strawbridge, S.E.</strong> (2011).  
-      <em>Examination of a Hamiltonian Kepler Problem with Classical and Special Relativistic Mechanics.</em>  
+      <em>Examination of a hamiltonian kepler problem with classical and special relativistic mechanics.</em>  
       BS Mathematics, West Virginia University.
   </li>
 </ol>
