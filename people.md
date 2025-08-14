@@ -14,22 +14,6 @@ permalink: /people/
 
 ---
 
-<style>
-	.people-table td:first-child,
-	.people-table th:first-child {
-		width: 130px;
-		min-width: 130px;
-		max-width: 150px;
-	}
-
-	.flag-icon {		
-		width: 75%;
-		height: auto;
-		vertical-align: middle;
-		margin: 5px
-	}
-</style>
-
 <table class="people-table">
   <thead>
     <tr>
