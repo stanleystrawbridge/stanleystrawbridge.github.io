@@ -32,7 +32,7 @@ Thank you for all your energy and dedication this summer, **Gina**! Wishing you 
 
 ### 11 July 2025  
 **Bateson Centre Symposium**, University of Sheffield, UK  
-Stan introduces his to the Bateson Centre for Disease Mechanisms by giving a talk. 
+Stan introduces his lab to the Bateson Centre for Disease Mechanisms by giving a talk. 
 
 ### 10 July 2025  
 **Northern(ish) England Developmental Biology Meeting**, University of Sheffield, UK  
@@ -135,7 +135,7 @@ Welcome to **Lawrence Bates** (Jennifer Nichols Lab, University of Edinburgh), v
     <td>
       <figure>
         <img src="/assets/images/news/20250514_larry-1.JPG" class="news-photo" alt="cafe">
-        <figcaption>Lawrence and Stan at Coffe Revs</figcaption>
+        <figcaption>Lawrence and Stan at Coffee Revs</figcaption>
       </figure>
     </td>
     <td>
@@ -168,7 +168,7 @@ Lab Excursion to Mam Tor with our visitor **Lawrence Bates**!
 </table>
 
 ### 7 May 2025  
-Welcome to **Rober Insall** (UCL), visiting to give the **Materials & Biological Physics** seminar in Sheffield.
+Welcome to **Robert Insall** (UCL), visiting to give the **Materials & Biological Physics** seminar in Sheffield.
 
 ### 24–27 March 2025  
 **Biologists @ 100**, Liverpool, UK  
@@ -277,7 +277,7 @@ Stan gave a talk hosted by the Division of Developmental Biology & Medicine. Tha
   <td>
     <figure>
       <img src="/assets/images/news/20250217_manchester-1.jpg" class="news-photo" alt="Helical">
-      <figcaption>Infographicical!</figcaption>
+      <figcaption>Infographical!</figcaption>
     </figure>
   </td>
   <td>
@@ -311,7 +311,7 @@ They will be investigating the implications of aneuploidies on extraembryonic li
 </table>
 
 ### 2 February 2025 
-Welcome to **Vivki Metzis** (MRC LMS), visiting to give the **DRN Seminar** in Sheffield.
+Welcome to **Vicki Metzis** (MRC LMS), visiting to give the **DRN Seminar** in Sheffield.
 
 ### 15 January 2025 
 Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), visiting to give the **DRN Seminar** in Sheffield.
@@ -341,7 +341,7 @@ Stan gave a talk at a Physics of Life (PoL) Joint Project Meeting in Sheffield t
 Welcome to **Marta Shahbazi** (MRC LMB), visiting to give the **DRN Seminar** in Sheffield.
 
 ### September 2024
-**The Strawbridge Lab** is established in name and begins transition From the Univeristy of Cambridge to the Univeristy of Sheffield!
+**The Strawbridge Lab** is established in name and begins transition from the University of Cambridge to the University of Sheffield!
 
 Thank you Cambridge for a fantastic 11 years. Endless thanks to the Smith, Nichols, and Basu Labs.
 
