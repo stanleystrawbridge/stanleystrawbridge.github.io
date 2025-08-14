@@ -15,12 +15,18 @@ permalink: /people/
 ---
 
 <style>
-.people-table td:first-child,
-.people-table th:first-child {
-  width: 130px;
-  min-width: 130px;
-  max-width: 150px;
-}
+	.people-table td:first-child,
+	.people-table th:first-child {
+		width: 130px;
+		min-width: 130px;
+		max-width: 150px;
+	}
+
+	.flag-icon {		
+		height: 5%;
+		width: auto;
+		vertical-align: middle;
+	}
 </style>
 
 <table class="people-table">
@@ -28,6 +34,7 @@ permalink: /people/
     <tr>
       <th></th>
       <th>Name</th>
+      <th>Nationality</th>
       <th>Affiliation</th>
       <th>Role</th>
       <th>Year</th>
@@ -38,6 +45,10 @@ permalink: /people/
     <tr>
       <td><img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" /></td>
       <td><strong>Stanley E. Strawbridge</strong></td>
+      <td>
+        <img src="/assets/images/flags/US.png" class="flag-icon" />
+        <img src="/assets/images/flags/UK.png" class="flag-icon" />
+      </td>
       <td>University of Sheffield</td>
       <td>Principal Investigator</td>
       <td>—</td>
@@ -46,6 +57,7 @@ permalink: /people/
     <tr>
       <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" /></td>
       <td><strong>Yuze Cao</strong></td>
+      <td><img src="/assets/images/flags/CN.png" class="flag-icon" /></td>
       <td>ENS Paris</td>
       <td>PhD Student, Biophysics</td>
       <td>2024</td>
@@ -54,6 +66,7 @@ permalink: /people/
     <tr>
       <td><img src="/assets/images/people/cherie_cheung.jpg" class="people-photo" /></td>
       <td><strong>Cherie Cheung</strong></td>
+      <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
       <td>University of Sheffield</td>
       <td>BA Student, Biomedical Sciences</td>
       <td>2025</td>
@@ -62,6 +75,7 @@ permalink: /people/
     <tr>
       <td><img src="/assets/images/people/harriet_english.jpg" class="people-photo" /></td>
       <td><strong>Harriet L. English</strong></td>
+      <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
       <td>University of Sheffield</td>
       <td>MSc Student, Reproductive & Developmental Medicine</td>
       <td>2025</td>
@@ -70,6 +84,7 @@ permalink: /people/
     <tr>
       <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" /></td>
       <td><strong>Samuel Guttridge</strong></td>
+      <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
       <td>University of Sheffield</td>
       <td>PhD Student, Reproductive Medicine</td>
       <td>2025</td>
@@ -78,14 +93,22 @@ permalink: /people/
     <tr>
       <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="people-photo" /></td>
       <td><strong>Samuel J. Higgins-Aguilar</strong></td>
+      <td>
+        <img src="/assets/images/flags/ES.png" class="flag-icon" />
+        <img src="/assets/images/flags/UK.png" class="flag-icon" />
+      </td>
       <td>University of Sheffield</td>
       <td>MSc Student, Reproductive & Developmental Medicine</td>
       <td>2025</td>
       <td></td>
     </tr>
-	<tr>
+    <tr>
       <td><img src="/assets/images/people/gina_penetra.jpg" class="people-photo" /></td>
       <td><strong>Gina Penetra</strong></td>
+      <td>
+        <img src="/assets/images/flags/UK.png" class="flag-icon" />
+        <img src="/assets/images/flags/PT.png" class="flag-icon" />
+      </td>
       <td>University of Sheffield</td>
       <td>BA Student, Biomedical Sciences</td>
       <td>2025</td>
@@ -93,6 +116,7 @@ permalink: /people/
     </tr>
   </tbody>
 </table>
+
 
 ---
 
