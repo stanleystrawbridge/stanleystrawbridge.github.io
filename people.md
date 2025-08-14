@@ -208,7 +208,7 @@ permalink: /people/
         <img src="/assets/images/flags/CN.png" class="flag-icon" />
       </td>
       <td>University of Cambridge</td>
-      <td>MPhil Biological Science (Stem Cells)</td>
+      <td>MSc Systems Biology</td>
       <td>2022-2023</td>
 	  <td>PhD Biophysics, ENS Paris</td>
       <td>Primary supervisor: Srinjan Basu.</td> 	  
@@ -234,7 +234,7 @@ permalink: /people/
         <img src="/assets/images/flags/UK.png" class="flag-icon" />
       </td>
       <td>University of Cambridge</td>
-      <td>MPhil Biological Science (Stem Cells)</td>
+      <td>MPhil Biological Science (Stem Cell Biology)</td>
       <td>2021-2022</td>
 	  <td>PhD Computational Biophysics, UCL</td>
       <td>Primary supervisor: Srinjan Basu.</td> 	  
