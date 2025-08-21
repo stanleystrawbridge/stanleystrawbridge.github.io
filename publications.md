@@ -106,17 +106,14 @@ permalink: /publications/
 ---
 
 <ol reversed>
-<!--
   <li><strong>English, H.L.</strong> (2025).  
-      <em>.</em>  
+      <em>Decoding Early Human Development: A Pipeline for Exploring How Genetic Variation Shapes Lineage Allocation.</em>  
       MSc Reproductive and Developmental Medicine, University of Sheffield.
   </li>
   <li><strong>Higgins-Aguilar, S.J.</strong> (2025).  
       <em>Investigating Early Pregnancy Loss Using Human Pluripotent Stem Cells to Model Placental Tissues.</em>  
       MSc Reproductive and Developmental Medicine, University of Sheffield.
   </li>
--->
-
   <li><strong>Guma'a, K.</strong> (2024).  
       <em>Spatiotemporal analysis of NANOG chromatin-binding dynamics in mouse embryonic stem cells.</em>  
       MPhil Biochemistry, University of Cambridge.
