@@ -15,8 +15,10 @@ permalink: /people/
 ---
 
 <table class="people-table">
+  
   <thead>
-    <tr>
+  
+	<tr>
       <th></th>
       <th>Name</th>
       <th>Nationality</th>
@@ -25,8 +27,11 @@ permalink: /people/
       <th>Year</th>
       <th>Notes</th>
     </tr>
+	
   </thead>
+  
   <tbody>
+  
     <tr>
       <td><img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" /></td>
       <td><strong>Stanley E. Strawbridge</strong></td>
@@ -39,6 +44,7 @@ permalink: /people/
       <td>—</td>
       <td></td>
     </tr>
+	
     <tr>
       <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" /></td>
       <td><strong>Yuze Cao</strong></td>
@@ -50,6 +56,7 @@ permalink: /people/
       <td>2024</td>
       <td>Primary supervisors: David Holcman, Srinjan Basu</td>
     </tr>
+	
     <tr>
       <td><img src="/assets/images/people/cherie_cheung.jpg" class="people-photo" /></td>
       <td><strong>Cherie Cheung</strong></td>
@@ -61,17 +68,7 @@ permalink: /people/
       <td>2025</td>
       <td>Sheffield Undergraduate Research Experience (SURE) Student</td>
     </tr>
-    <tr>
-      <td><img src="/assets/images/people/harriet_english.jpg" class="people-photo" /></td>
-      <td><strong>Harriet L. English</strong></td>
-      <td>
-		<img src="/assets/images/flags/UK.png" class="flag-icon" />
-	  </td>
-      <td>University of Sheffield</td>
-      <td>MSc Student, Reproductive & Developmental Medicine</td>
-      <td>2025</td>
-      <td></td>
-    </tr>
+  
     <tr>
       <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" /></td>
       <td><strong>Samuel Guttridge</strong></td>
@@ -80,7 +77,8 @@ permalink: /people/
       <td>PhD Student, Reproductive Medicine</td>
       <td>2025</td>
       <td>Primary supervisor: Emma Lucas</td>
-    </tr>    
+    </tr> 
+	
     <tr>
       <td><img src="/assets/images/people/gina_penetra.jpg" class="people-photo" /></td>
       <td><strong>Gina Penetra</strong></td>
@@ -93,7 +91,9 @@ permalink: /people/
       <td>2025</td>
       <td>Co-supervised with Paul J. Gokhale; SURE Student</td>
     </tr>
+	
   </tbody>
+  
 </table>
 
 
@@ -150,6 +150,19 @@ permalink: /people/
   
   <tbody>
   
+   <tr>
+      <td><img src="/assets/images/people/harriet_english.jpg" class="people-photo" /></td>
+      <td><strong>Harriet L. English</strong></td>
+      <td>
+		<img src="/assets/images/flags/UK.png" class="flag-icon" />
+	  </td>
+      <td>University of Sheffield</td>
+      <td>MSc Student, Reproductive & Developmental Medicine</td>
+      <td>2025</td>
+	  <td></td>
+      <td></td>
+    </tr>
+	
     <tr>
       <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="people-photo" /></td>
       <td><strong>Samuel J. Higgins-Aguilar</strong></td>
