@@ -98,6 +98,7 @@ permalink: /people/
       <td><strong>Gina Penetra</strong></td>
       <td>
         <img src="/assets/images/flags/UK.png" class="flag-icon" />
+		<img src="/assets/images/flags/PT.png" class="flag-icon" />
       </td>
       <td>University of Sheffield</td>
       <td>BA Student, Biomedical Sciences</td>
