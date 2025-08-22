@@ -349,7 +349,7 @@ permalink: /people/
         <img src="/assets/images/flags/AT.png" class="flag-icon" />
       </td>
       <td>
-		<img src="/assets/images/university logos/imc.png" class="flag-icon" />
+		<img src="/assets/images/university logos/imc.jpg" class="flag-icon" />
 	  </td>
       <td>Visiting Student, BSc Engineering</td>
       <td>2018-2019</td>
