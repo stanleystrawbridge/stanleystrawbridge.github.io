@@ -80,19 +80,7 @@ permalink: /people/
       <td>PhD Student, Reproductive Medicine</td>
       <td>2025</td>
       <td>Primary supervisor: Emma Lucas</td>
-    </tr>
-    <tr>
-      <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="people-photo" /></td>
-      <td><strong>Samuel J. Higgins-Aguilar</strong></td>
-      <td>
-        <img src="/assets/images/flags/ES.png" class="flag-icon" />
-        <img src="/assets/images/flags/UK.png" class="flag-icon" />
-      </td>
-      <td>University of Sheffield</td>
-      <td>MSc Student, Reproductive & Developmental Medicine</td>
-      <td>2025</td>
-      <td></td>
-    </tr>
+    </tr>    
     <tr>
       <td><img src="/assets/images/people/gina_penetra.jpg" class="people-photo" /></td>
       <td><strong>Gina Penetra</strong></td>
@@ -161,7 +149,21 @@ permalink: /people/
   </thead>
   
   <tbody>
-    
+  
+    <tr>
+      <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="people-photo" /></td>
+      <td><strong>Samuel J. Higgins-Aguilar</strong></td>
+      <td>
+        <img src="/assets/images/flags/ES.png" class="flag-icon" />
+        <img src="/assets/images/flags/UK.png" class="flag-icon" />
+      </td>
+      <td>University of Sheffield</td>
+      <td>MSc Student, Reproductive & Developmental Medicine</td>
+      <td>2025</td>
+	  <td>TFP Thames Valley Fertility</td>
+      <td></td>
+    </tr>
+	
 	<tr>
       <td><img src="/assets/images/people/khalid_guma'a.jpeg" class="people-photo" /></td>
       <td><strong>Khalid Guma'a</strong></td>
