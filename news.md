@@ -17,7 +17,7 @@ permalink: /news/
 <br>
 
 ### 26 September 2025  
-Stan attends the Bob Edwards Centenary at the University of Cambridge which examined his life, work, and legacy.
+Stan attends the **Bob Edwards Centenary** at the **University of Cambridge** which examined his life, work, and legacy.
 
 ### 12 August 2025  
 Congratulations to **Harriet** and **Sam H.-A.** on submitting their MSc theses!
