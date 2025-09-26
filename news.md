@@ -16,6 +16,9 @@ permalink: /news/
 
 <br>
 
+### 26 September 2025  
+Stan Attends the Bob Edwards Centenary at the University of Cambridge.
+
 ### 12 August 2025  
 Congratulations to **Harriet** and **Sam H.-A.** on submitting their MSc theses!
 
