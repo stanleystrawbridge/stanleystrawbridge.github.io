@@ -16,6 +16,26 @@ permalink: /news/
 
 <br>
 
+### 10 December 2025  
+**DRN Seminar**, University of Sheffield, UK  
+
+Welcome to **Oliver Bower** (Kathy Niakan Lab, Crick/Cambridge), visiting his alma mater, Sheffield, to give the **DRN Seminar**.
+
+<figure>
+  <img src="/assets/images/news/20251210_Oliver_Bower.jpg" class="news-photo" alt="blink">
+  <figcaption>Prof Emeritus Peter Andrews and Oliver</figcaption>
+</figure>
+
+### 10 December 2025  
+**DRN Seminar**, University of Sheffield, UK  
+
+Welcome to **Takuya Azami** (Jennifer Nichols Lab, University of Edinburgh), visiting Sheffield to give the **DRN Seminar**.
+
+<figure>
+  <img src="/assets/images/news/20251126_Takuya_Azami.jpg" class="news-photo" alt="cafe!">
+  <figcaption>Takuya and Stan</figcaption>
+</figure>
+
 ### 6 November 2025  
 **SURE Showcase**, University of Sheffield, UK
 
@@ -49,6 +69,24 @@ Cherie and Gina present their work at the Sheffield Undergraduate Research Exper
 **18th International Istanbul Technical University Molecular Biology and Genetics Student Congress**, Istanbul, Turkey
 
 Stan presents his labs work to engaged undergraduates of ITU. Thank you for the invatitaion to such an excellent meeting!
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20251102_ITU_Stan.jpg" class="news-photo" alt="Talktalktalk">
+	  	<figcaption>Stan Presenting</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20251102_ITU_galata.jpg" class="news-photo" alt="Galata">
+	  	<figcaption>Galata Tower</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 
 ### 23 October 2025  
 **MSc in Reproductive and Developmental Medicine**, University of Sheffield, UK
