@@ -16,6 +16,18 @@ permalink: /news/
 
 <br>
 
+### 11 December 2025  
+**Press**
+Stan was highlighted in an anniversary article published by Development and The Company of Biologists, which reflects on the organisation’s long-standing commitment to supporting early career researchers.
+The article highlights initiatives such as the Company of Biologists Travelling Fellowship, which provides funding to enable ECRs to undertake collaborative research visits and develop international networks.
+
+Read the article here: https://doi.org/10.1242/dev.205356
+
+<figure>
+  <img src="/assets/images/news/20251211_stan_and_alex.jpg" class="news-photo" alt="MATH!">
+  <figcaption>Stan and Alex Fletcher, ca. October 2018</figcaption>
+</figure>
+
 ### 10 December 2025  
 **DRN Seminar**, University of Sheffield, UK  
 
@@ -172,6 +184,18 @@ Welcome to **Sissy Wamaitha** (Amander Clark Lab, UCLA), visiting Sheffield to g
 <figure>
   <img src="/assets/images/news/20250625-sissy.jpg" class="news-photo" alt="FWC4LyFe">
   <figcaption>Sissy and Stan</figcaption>
+</figure>
+
+### 24 June 2025  
+**Press**
+
+Stan was highlighted in a People Behind the Papers interview published by Development.
+
+Read the article here: https://doi.org/10.1242/dev.205019
+
+<figure>
+  <img src="/assets/images/news/20250724_stan.jpg" class="news-photo" alt="Garden">
+  <figcaption>Stan after a trip to the Garden Centre with Fiona</figcaption>
 </figure>
 
 ### 16 June 2025  
