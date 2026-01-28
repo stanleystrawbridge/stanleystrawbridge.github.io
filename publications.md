@@ -23,17 +23,17 @@ permalink: /publications/
 
   <li>Agsu, G.G.<sup>†</sup>, Cao, Y.<sup>†</sup>, Jain, D.<sup>†</sup>, <strong>Strawbridge, S.E.<sup>†</sup></strong>, Daly, S., Zhang, Z., Wurmser, A., Bowers, K., Orsine De Almeida, I., Nikolenyi, G., Berger, S., Jonaitis, M., Guma’a, K., Pauzaite, T., Maretvadakethope, S., Bates, L., Nathan, J.A., Hendrich, B.D., Perez-Carrasco, R., Chalut, K.J., Klenerman, D., Boroviak, T.E., Lee, S.F., Holcman, D.<sup>*</sup>, Basu, S.<sup>*</sup>  
   <em>Protein-protein interactions drive differences in the spatiotemporal dynamics of transcription factors NANOG and SOX2 in naïve pluripotent cells.</em>
-  <strong>bioRxiv</strong>. [doi:10.64898/2025.12.03.691924](https://doi.org/10.64898/2025.12.03.691924).
+  <strong>bioRxiv</strong>. <a href="https://doi.org/10.64898/2025.12.03.691924">doi:10.64898/2025.12.03.691924</a>.
 </li>
   
   <li><strong>Strawbridge, S.E.<sup>†*</sup></strong>, Bates, L.E.<sup>†</sup>, Ross, C., Jones, K.A., Azami, T., Lohoff, T., Paramor, M., Murray, V., Cidral, A.L., Clarke, J., Rostovskaya, M., Guo, G., Nichols, J.<sup>*</sup> (2025).  
       <em>A new resource of clonal pluripotent human stem cell lines exhibiting inter- and intra-embryo consistency and variability.</em>  
-      <strong>bioRxiv</strong>. [doi:10.1101/2025.06.02.657331](https://doi.org/10.1101/2025.06.02.657331).
+      <strong>bioRxiv</strong>. <a href="https://doi.org/10.1101/2025.06.02.657331">doi:10.1101/2025.06.02.657331</a>.
   </li>
 
   <li>Steindel, M.<sup>†</sup>, Davis, O.<sup>†</sup>, Neumann, K., Pirvan, L., Agsu, G., Kranz, A., Adhya, D., Morf, J., Yang, S., Zhang, Z., Fu, J., Barile, M., Wurmser, A., <strong>Strawbridge, S.</strong>, Mohorianu, I., Madapura, P., Huntly, B., Göttgens, B., Holcman, D., Samarajiwa, S., Klenerman, D., Anastassiadis, K., Stewart, A.F.<sup>*</sup>, Basu, S.<sup>*</sup> (2025).  
       <em>A non-catalytic role for MLL2 in controlling chromatin organisation and mobility during the priming of pluripotent cells for differentiation.</em>  
-      <strong>bioRxiv</strong>. [doi:10.1101/2025.02.21.639010](https://doi.org/10.1101/2025.02.21.639010).
+      <strong>bioRxiv</strong>. <a href="https://doi.org/10.1101/2025.02.21.639010">doi:10.1101/2025.02.21.639010</a>.
   </li>
 </ol>
 
