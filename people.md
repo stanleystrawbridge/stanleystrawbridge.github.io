@@ -102,11 +102,12 @@ permalink: /people/
 
 ### External
 
-| Name                | Affiliation                             |
-|---------------------|-----------------------------------------|
-| **Srinjan Basu**    | Imperial College London                 |
-| **David Holcman**   | École Normale Supérieure (ENS), Paris   |
-| **Jennifer Nichols**| University of Edinburgh                 |
+| Name                | Affiliation                             			|
+|---------------------|-----------------------------------------------------|
+| **Srinjan Basu**    | Imperial College London                 			|
+| **David Holcman**   | École Normale Supérieure, Paris   					|
+| **Nick Monk**       | African Institute for Mathematical Sciences, Ghana  |
+| **Jennifer Nichols**| University of Edinburgh                 			|
 
 <br>
 
