@@ -49,7 +49,7 @@ permalink: /people/
       <td><img src="/assets/images/people/millicent_a_opoku.jpg" class="people-photo" /></td>
       <td><strong>Millicent A. Opoku</strong></td>
       <td><img src="/assets/images/flags/GH.png" class="flag-icon" /></td>
-	  <td> African Institute for Mathematical Sciences Research and Innovation Center (AIMS-RIC), Rwanda and University of Cape Coast (Ghana)</td>
+	  <td> AIMS-RIC, Rwanda; University of Cape Coast</td>
       <td>PhD Student,  Mathematics (Mathematical Biology)</td>
       <td>2026-present</td>
       <td>Primary supervisor: Nick Monk</td>
