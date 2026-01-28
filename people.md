@@ -61,9 +61,7 @@ permalink: /people/
       <td>
 	    <img src="/assets/images/flags/CN.png" class="flag-icon" />
 	  </td>
-      <td>
-		<img src="/assets/images/university logos/ens.png" class="flag-icon" />
-	  </td>
+      <td> École Normale Supérieure, Paris </td>
       <td>PhD Student, Biophysics</td>
       <td>2024</td>
       <td>Primary supervisors: David Holcman, Srinjan Basu</td>
@@ -192,9 +190,7 @@ permalink: /people/
 	        <img src="/assets/images/flags/UK.png" class="flag-icon" />
 			<img src="/assets/images/flags/SD.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/cambridge.png" class="flag-icon" />
-		  </td>
+	      <td> Univeristy of Cambridge </td>
 	      <td>MPhil Biochemistry</td>
 	      <td>2023-2024</td>
 		  <td>Finance</td>
@@ -207,9 +203,7 @@ permalink: /people/
 	      <td>
 	        <img src="/assets/images/flags/UK.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/cambridge.png" class="flag-icon" />
-		  </td>
+	      <td> Univeristy of Cambridge </td>
 	      <td>MSc Systems Biology</td>
 	      <td>2023-2024</td>
 		  <td>Consulting</td>
@@ -222,9 +216,7 @@ permalink: /people/
 	      <td>
 	        <img src="/assets/images/flags/UK.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/cambridge.png" class="flag-icon" />
-		  </td>
+	      <td> Univeristy of Cambridge </td>
 	      <td>MPhil Computational Biology</td>
 	      <td>2023</td>
 		  <td>PhD Biostatistics, University of Cambridge</td>
@@ -237,9 +229,7 @@ permalink: /people/
 	      <td>
 	        <img src="/assets/images/flags/CN.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/cambridge.png" class="flag-icon" />
-		  </td>
+	      <td> Univeristy of Cambridge </td>
 	      <td>MSc Systems Biology</td>
 	      <td>2022-2023</td>
 		  <td>PhD Biophysics, ENS Paris</td>
@@ -252,9 +242,7 @@ permalink: /people/
 	      <td>
 	        <img src="/assets/images/flags/UK.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/cambridge.png" class="flag-icon" />
-		  </td>
+	      <td> Univeristy of Cambridge </td>
 	      <td>Intercalated BA Natural Sciences</td>
 	      <td>2022-2023</td>
 		  <td>MB/BChir, University of Cambridge</td>
@@ -267,9 +255,7 @@ permalink: /people/
 	      <td>
 	        <img src="/assets/images/flags/UK.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/cambridge.png" class="flag-icon" />
-		  </td>
+	      <td> Univeristy of Cambridge </td>
 	      <td>MPhil Biological Sciences (Stem Cell Biology)</td>
 	      <td>2021-2022</td>
 		  <td>PhD Computational Biophysics, UCL</td>
@@ -282,9 +268,7 @@ permalink: /people/
 	      <td>
 	        <img src="/assets/images/flags/UA.jpeg" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/cambridge.png" class="flag-icon" />
-		  </td>
+	      <td> Univeristy of Cambridge </td>
 	      <td>MSc Systems Biology</td>
 	      <td>2020-2021</td>
 		  <td>PhD Cell Biology and Biophysics, EMBL Heidelberg</td>
@@ -297,9 +281,7 @@ permalink: /people/
 	      <td>
 	        <img src="/assets/images/flags/AT.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/cambridge.png" class="flag-icon" />
-		  </td>
+	      <td> Univeristy of Cambridge </td>
 	      <td>MRes Rotation Student</td>
 	      <td>2020</td>
 		  <td>PhD Stem Cell Biology & Medicine, University of Cambridge</td>
@@ -312,9 +294,7 @@ permalink: /people/
 	      <td>
 	        <img src="/assets/images/flags/HU.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/cambridge.png" class="flag-icon" />
-		  </td>
+	      <td> Univeristy of Cambridge </td>
 	      <td>MSc Systems Biology</td>
 	      <td>2019-2020</td>
 		  <td>PhD Systems Biology, University of Columbia</td>
@@ -327,9 +307,7 @@ permalink: /people/
 	      <td>
 	        <img src="/assets/images/flags/BR.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/sao_paulo.png" class="flag-icon" />
-		  </td>
+	      <td>Universidade de São Paulo</td>
 	      <td>Visiting Student, MSc Biotechnology</td>
 	      <td>2019-2020</td>
 		  <td>Pharma</td>
@@ -342,9 +320,7 @@ permalink: /people/
 	      <td>
 	        <img src="/assets/images/flags/AT.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/imc.jpg" class="flag-icon" />
-		  </td>
+	      <td>IMC Krems</td>
 	      <td>Visiting Student, BSc Engineering</td>
 	      <td>2018-2019</td>
 		  <td>PhD, University of Heidelberg</td>
