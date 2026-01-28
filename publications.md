@@ -13,6 +13,28 @@ permalink: /publications/
 <sup>†</sup> First/Co-first author(s), <sup>*</sup> Corresponding/Co-corresponding author(s)
 
 ---
+<br>
+
+## Preprints
+
+---
+
+<ol reversed>
+
+  
+  
+  <li><strong>Strawbridge, S.E.<sup>†*</sup></strong>, Bates, L.E.<sup>†</sup>, Ross, C., Jones, K.A., Azami, T., Lohoff, T., Paramor, M., Murray, V., Cidral, A.L., Clarke, J., Rostovskaya, M., Guo, G., Nichols, J.<sup>*</sup> (2025).  
+      <em>A new resource of clonal pluripotent human stem cell lines exhibiting inter- and intra-embryo consistency and variability.</em>  
+      <strong>bioRxiv</strong>. https://doi.org/10.1101/2025.06.02.657331.
+  </li>
+
+  <li>Steindel, M.<sup>†</sup>, Davis, O.<sup>†</sup>, Neumann, K., Pirvan, L., Agsu, G., Kranz, A., Adhya, D., Morf, J., Yang, S., Zhang, Z., Fu, J., Barile, M., Wurmser, A., <strong>Strawbridge, S.</strong>, Mohorianu, I., Madapura, P., Huntly, B., Göttgens, B., Holcman, D., Samarajiwa, S., Klenerman, D., Anastassiadis, K., Stewart, A.F.<sup>*</sup>, Basu, S.<sup>*</sup> (2025).  
+      <em>A non-catalytic role for MLL2 in controlling chromatin organisation and mobility during the priming of pluripotent cells for differentiation.</em>  
+      <strong>bioRxiv</strong>. https://doi.org/10.1101/2025.02.21.639010
+  </li>
+</ol>
+
+---
 
 <br>
 
@@ -21,6 +43,11 @@ permalink: /publications/
 ---
 
 <ol reversed>
+  <li><strong>Strawbridge, S.E.<sup>†</sup></strong>, Corridori, C.<sup>†</sup>, Blanchard, G.B., Smith, A.<sup>*</sup>, Kugler, H.<sup>*</sup>, Martello, G.<sup>*</sup> (2026).  
+      <em>Exit from naive pluripotency proceeds with variable latency but without asymmetric division to generate population heterogeneity</em>  
+      <strong>Stem Cell Reports, 21 (3) </strong>.
+  </li>
+  
   <li><strong>Strawbridge, S.E.<sup>†*</sup></strong>, Schrattel, A.K., Humphreys, P., Jones, K.A., Artus, J., Hadjantonakis, A.K., Fletcher, A.G.<sup>*</sup>, Nichols, J.<sup>*</sup> (2025).  
       <em>Donor embryonic stem cells displace host cells of 8-cell-stage chimeras to the extra-embryonic lineages by spatial crowding and FGF4 signalling.</em>  
       <strong>Development</strong>, 152 (12), dev204518.
@@ -69,31 +96,6 @@ permalink: /publications/
   <li><strong>Strawbridge, S.E.<sup>†</sup></strong>, Clarke, J., Guo, G., Nichols, J.<sup>*</sup> (2021).  
       <em>Deriving human naïve embryonic stem cell lines from donated supernumerary embryos using physical distancing and signal inhibition.</em>  
       In <strong>Human Naïve Pluripotent Stem Cells</strong>, pp. 1-12. Springer US.
-  </li>
-</ol>
-
----
-
-<br>
-
-## Preprints
-
----
-
-<ol reversed>
-  <li><strong>Strawbridge, S.E.<sup>†*</sup></strong>, Bates, L.E.<sup>†</sup>, Ross, C., Jones, K.A., Azami, T., Lohoff, T., Paramor, M., Murray, V., Cidral, A.L., Clarke, J., Rostovskaya, M., Guo, G., Nichols, J.<sup>*</sup> (2025).  
-      <em>A new resource of clonal pluripotent human stem cell lines exhibiting inter- and intra-embryo consistency and variability.</em>  
-      <strong>bioRxiv</strong>.
-  </li>
-
-  <li>Steindel, M.<sup>†</sup>, Davis, O.<sup>†</sup>, Neumann, K., Pirvan, L., Agsu, G., Kranz, A., Adhya, D., Morf, J., Yang, S., Zhang, Z., Fu, J., Barile, M., Wurmser, A., <strong>Strawbridge, S.</strong>, Mohorianu, I., Madapura, P., Huntly, B., Göttgens, B., Holcman, D., Samarajiwa, S., Klenerman, D., Anastassiadis, K., Stewart, A.F.<sup>*</sup>, Basu, S.<sup>*</sup> (2025).  
-      <em>A non-catalytic role for MLL2 in controlling chromatin organisation and mobility during the priming of pluripotent cells for differentiation.</em>  
-      <strong>bioRxiv</strong>.
-  </li>
-
-  <li><strong>Strawbridge, S.E.<sup>†</sup></strong>, Blanchard, G.B., Smith, A.<sup>*</sup>, Kugler, H.<sup>*</sup>, Martello, G.<sup>*</sup> (2020).  
-      <em>Embryonic stem cells commit to differentiation by symmetric divisions following a variable lag period.</em>  
-      <strong>bioRxiv</strong>.
   </li>
 </ol>
 
