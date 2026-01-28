@@ -39,7 +39,7 @@ permalink: /people/
         <img src="/assets/images/flags/US.png" class="flag-icon" />
         <img src="/assets/images/flags/UK.png" class="flag-icon" />
       </td>
-	  <td>	University of Sheffield	</td>
+	  <td>University of Sheffield</td>
       <td>Principal Investigator</td>
       <td>—</td>
       <td></td>
@@ -51,7 +51,7 @@ permalink: /people/
       <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
 	  <td>	University of Sheffield	</td>
       <td>PhD Student, Reproductive Medicine</td>
-      <td>2025</td>
+      <td>2025-present</td>
       <td>Primary supervisor: Emma Lucas</td>
     </tr> 
 	
@@ -63,7 +63,7 @@ permalink: /people/
 	  </td>
       <td> École Normale Supérieure, Paris </td>
       <td>PhD Student, Biophysics</td>
-      <td>2024</td>
+      <td>2024-present</td>
       <td>Primary supervisors: David Holcman, Srinjan Basu</td>
     </tr>
 	
