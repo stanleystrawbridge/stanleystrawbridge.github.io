@@ -46,6 +46,16 @@ permalink: /people/
     </tr>
 
 	<tr>
+      <td><img src="/assets/images/people/millicent_a_opoku.jpg" class="people-photo" /></td>
+      <td><strong>Millicent A. Opoku</strong></td>
+      <td><img src="/assets/images/flags/GH.png" class="flag-icon" /></td>
+	  <td> African Institute for Mathematical Sciences Research and Innovation Center (AIMS-RIC), Rwanda and University of Cape Coast (Ghana)</td>
+      <td>PhD Student,  Mathematics (Mathematical Biology)</td>
+      <td>2026-present</td>
+      <td>Primary supervisor: Nick Monk</td>
+    </tr> 
+	
+	<tr>
       <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" /></td>
       <td><strong>Samuel Guttridge</strong></td>
       <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
