@@ -39,9 +39,7 @@ permalink: /people/
         <img src="/assets/images/flags/US.png" class="flag-icon" />
         <img src="/assets/images/flags/UK.png" class="flag-icon" />
       </td>
-      <td>
-		<img src="/assets/images/university logos/sheffield.png" class="flag-icon" />
-	  </td>
+	  <td>	University of Sheffield	</td>
       <td>Principal Investigator</td>
       <td>—</td>
       <td></td>
@@ -51,9 +49,7 @@ permalink: /people/
       <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" /></td>
       <td><strong>Samuel Guttridge</strong></td>
       <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
-      <td>
-		<img src="/assets/images/university logos/sheffield.png" class="flag-icon" />
-	  </td>
+	  <td>	University of Sheffield	</td>
       <td>PhD Student, Reproductive Medicine</td>
       <td>2025</td>
       <td>Primary supervisor: Emma Lucas</td>
@@ -141,11 +137,10 @@ permalink: /people/
 	      <td>
 			<img src="/assets/images/flags/UK.png" class="flag-icon" />
 		  </td>
-	      <td>
-			<img src="/assets/images/university logos/sheffield.png" class="flag-icon" />
-		  </td>
+	      <td> University of Sheffield </td>
 	      <td>BA Student, Biomedical Sciences</td>
 	      <td>2025</td>
+		  <td></td>
 	      <td>Sheffield Undergraduate Research Experience (SURE) Student</td>
 	    </tr>
 	
@@ -156,12 +151,11 @@ permalink: /people/
 	        <img src="/assets/images/flags/UK.png" class="flag-icon" />
 			<img src="/assets/images/flags/PT.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/sheffield.png" class="flag-icon" />
-		  </td>
+		  <td>	University of Sheffield	</td>
 	      <td>BA Student, Biomedical Sciences</td>
 	      <td>2025</td>
-	      <td>Co-supervised with Paul J. Gokhale; SURE Student</td>
+		  <td></td>
+	      <td>Co-supervised with Paul J. Gokhale; SURE Student</td>		
 	    </tr>
 	
 	   <tr>
@@ -170,9 +164,7 @@ permalink: /people/
 	      <td>
 			<img src="/assets/images/flags/UK.png" class="flag-icon" />
 		  </td>
-	      <td>
-			<img src="/assets/images/university logos/sheffield.png" class="flag-icon" />
-		  </td>
+	      <td> University of Sheffield </td>
 	      <td>MSc Student, Reproductive & Developmental Medicine</td>
 	      <td>2025</td>
 		  <td></td>
@@ -186,9 +178,7 @@ permalink: /people/
 	        <img src="/assets/images/flags/ES.png" class="flag-icon" />
 	        <img src="/assets/images/flags/UK.png" class="flag-icon" />
 	      </td>
-	      <td>
-			<img src="/assets/images/university logos/sheffield.png" class="flag-icon" />
-		  </td>
+	      <td> University of Sheffield </td>
 	      <td>MSc Student, Reproductive & Developmental Medicine</td>
 	      <td>2025</td>
 		  <td>TFP Thames Valley Fertility</td>
