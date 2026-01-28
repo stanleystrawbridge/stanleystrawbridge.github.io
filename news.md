@@ -25,7 +25,7 @@ The article highlights initiatives such as the Company of Biologists Travelling 
 [Read the article here](https://doi.org/10.1242/dev.205356)
 
 <figure>
-  <img src="/assets/images/news/20251211_stan_and_alex.jpg" class="news-photo" alt="MATH!">
+  <img src="/assets/images/news/20251211_stan_and_alex.png" class="news-photo" alt="MATH!">
   <figcaption>Stan and Alex Fletcher, ca. October 2018</figcaption>
 </figure>
 
