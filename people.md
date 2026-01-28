@@ -45,7 +45,7 @@ permalink: /people/
       <td></td>
     </tr>
 
-	</tr> 
+	<tr> 
       <td><img src="/assets/images/people/aondoyima_ioratim-uba.jpg" class="people-photo" /></td>
       <td><strong>Aondoyima "Deems" Ioratim-Uba</strong></td>
       <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
