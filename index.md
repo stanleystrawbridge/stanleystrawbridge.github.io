@@ -64,15 +64,15 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
   </div>
   <div class="cv-row">
     <div class="cv-year">2025 – Present</div>
-    <div class="cv-details"><strong>Group Leader</strong>, Centre for Stem Cell Biology, School of Biosciences</div>
+    <div class="cv-details"><strong>Group Leader</strong>,<br>Centre for Stem Cell Biology, School of Biosciences</div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2025 – Present</div>
     <div class="cv-details"><strong>Early Career Research Fellow, Physics of Life and Quantitative Biology</strong>,<br>Centre for Stem Cell Biology, School of Biosciences</div>
   </div>
   <div class="cv-row">
-    <div class="cv-year">2025 – Present</div>
-    <div class="cv-details"><strong>Visiting Researcher</strong>, School of Mathematics and Statistics</div>
+    <div class="cv-year">2024 – 2025</div>
+    <div class="cv-details"><strong>Visiting Researcher</strong>,<br>School of Mathematics and Statistics</div>
   </div>
 </div>
 
