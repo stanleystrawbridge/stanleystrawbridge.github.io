@@ -59,25 +59,30 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
 ### **Academic Appointments**
 <div class="cv-section">
   <div class="cv-row">
-    <div class="cv-year">2024-Present</div>
-    <div class="cv-details"><strong>University of Sheffield, UK</strong></div>
+    <div class="cv-year">University of Sheffield, UK.</div>
+    <div class="cv-details"></div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2025 – Present</div>
-    <div class="cv-details"><strong>Group Leader</strong>,<br>Centre for Stem Cell Biology, School of Biosciences</div>
+    <div class="cv-details"><strong>Group Leader</strong>,<br>Centre for Stem Cell Biology, School of Biosciences.</div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2025 – Present</div>
-    <div class="cv-details"><strong>Early Career Research Fellow, Physics of Life and Quantitative Biology</strong>,<br>Centre for Stem Cell Biology, School of Biosciences</div>
+    <div class="cv-details"><strong>Early Career Research Fellow, Physics of Life and Quantitative Biology</strong>,<br>Centre for Stem Cell Biology, School of Biosciences.</div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2024 – 2025</div>
-    <div class="cv-details"><strong>Visiting Researcher</strong>,<br>School of Mathematics and Statistics</div>
+    <div class="cv-details"><strong>Visiting Researcher</strong>,<br>School of Mathematics and Statistics.</div>
+  </div>
+  <div class="cv-row">
+    <div class="cv-year">2024-2026</div>
+    <div class="cv-details"><strong>Imperial College London</strong><br>Visiting Research, Department of Life Sciences</div>
   </div>
 </div>
 
 
-### **Training & Education**
+
+### **Education**
 <div class="cv-section">
   <div class="cv-row">
     <div class="cv-year">2022 – 2025</div>
@@ -107,10 +112,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
 
 ### **Other Appointments**
 <div class="cv-section">
-  <div class="cv-row">
-    <div class="cv-year">2024-2026</div>
-    <div class="cv-details"><strong>Imperial College London</strong><br>Visiting Research, Department of Life Sciences</div>
-  </div>
+  
   <div class="cv-row">
     <div class="cv-year">2022 – 2025</div>
     <div class="cv-details"><strong>Bye-Fellow</strong><br>Christ’s College, University of Cambridge<br>Supervisor in Second-Year Undergraduate Biochemistry and Molecular Biology</div>
