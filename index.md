@@ -60,20 +60,29 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
 <div class="cv-section">
   
   <div class="cv-row">
-    <div class="cv-year">University of Sheffield, UK.</div>
+    <div class="cv-year">University of Sheffield, UK</div>
     <div class="cv-details"></div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2025 – Present</div>
-    <div class="cv-details"><strong>Group Leader</strong>,<br>Centre for Stem Cell Biology, School of Biosciences.</div>
+    <div class="cv-details">
+      <strong>Group Leader</strong>
+      <br>Centre for Stem Cell Biology, School of Biosciences
+    </div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2025 – Present</div>
-    <div class="cv-details"><strong>Early Career Research Fellow, Physics of Life and Quantitative Biology</strong>,<br>Centre for Stem Cell Biology, School of Biosciences.</div>
+    <div class="cv-details">
+      <strong>Early Career Research Fellow, Physics of Life and Quantitative Biology</strong>
+      <br>Centre for Stem Cell Biology, School of Biosciences
+    </div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2024 – 2025</div>
-    <div class="cv-details"><strong>Visiting Researcher</strong>,<br>Alexander Fletcher, School of Mathematics and Statistics.</div>
+    <div class="cv-details">
+      <strong>Visiting Researcher</strong>
+      <br>Alexander Fletcher, School of Mathematics and Statistics
+    </div>
   </div>
   
   <div class="cv-row">  
@@ -82,10 +91,30 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
   </div>
   <div class="cv-row">  
     <div class="cv-year">2024-2026</div>
-    <div class="cv-details"><strong>Visiting Research,</strong><br> Srinjan Basu, Department of Life Sciences.</div>
+    <div class="cv-details">
+      <strong>Visiting Researcher</strong>
+      <br> Srinjan Basu, Department of Life Sciences
+    </div>
   </div>
 
-
+  <div class="cv-row">  
+    <div class="cv-year">University of Cambridge, UK</div>
+    <div class="cv-details"></div>
+  </div>
+  <div class="cv-row">  
+    <div class="cv-year">2022-2025</div>
+    <div class="cv-details">
+      <strong>Sir Henry Wellcome Postdoctoral Fellow</strong>
+      <br>Cambridge Stem Cell Institute
+      <br>Sponsors: Srinjan Basu, Alexander G. Fletcher, David Holcman, Jennifer Nichols</div>
+  </div>
+  <div class="cv-row">  
+    <div class="cv-year">2019-2022</div>
+    <div class="cv-details">
+      <strong>Postdoctoral Research Associate,</strong>
+      <br>Cambridge Stem Cell Institute
+      <br> Supervisors: Jennifer Nichols and Srinjan Basu</div>
+  </div>
   
   <div class="cv-row">  
     <div class="cv-year">Bar-Ilan University, Israel</div>
@@ -93,7 +122,9 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
   </div>
   <div class="cv-row">  
     <div class="cv-year">2018</div>
-    <div class="cv-details"><strong>Visiting Research,</strong><br> Hillel Kugler, Alexander Kofkin Faculty of Engineering.</div>
+    <div class="cv-details">
+      <strong>Visiting Researcher</strong>
+      <br> Hillel Kugler, Alexander Kofkin Faculty of Engineering</div>
   </div>
   
 </div>
