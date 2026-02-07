@@ -99,12 +99,24 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
 ### **Other Appointments**
 <div class="cv-section">
   <div class="cv-row">
+    <div class="cv-year">2024-2026</div>
+    <div class="cv-details"><strong>Visiting Research</strong><br>Department of Life Sciences, Imperial College London</div>
+  </div>
+  <div class="cv-row">
+    <div class="cv-year">2024-2025</div>
+    <div class="cv-details"><strong>Visiting Research</strong><br>School of Mathematics and Statistics, University of Sheffield</div>
+  </div>
+  <div class="cv-row">
     <div class="cv-year">2022 – 2025</div>
     <div class="cv-details"><strong>Bye-Fellow</strong><br>Christ’s College, University of Cambridge<br>Supervisor in Second-Year Undergraduate Biochemistry and Molecular Biology</div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2022 – 2024</div>
     <div class="cv-details"><strong>Tutor</strong><br>Institute of Continuing Education, University of Cambridge<br>Undergraduate Diploma in Genetics</div>
+  </div>
+  <div class="cv-row">
+    <div class="cv-year">2018</div>
+    <div class="cv-details"><strong>Visiting Research</strong><br>The Alexsander Kofkin Faculty of Engineering, Bar-Ilan University</div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2011 – 2012</div>
