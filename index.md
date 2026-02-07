@@ -129,12 +129,6 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
       <br> Supervisors: Jennifer Nichols and Srinjan Basu</div>
   </div>
 
-
-
-
-
-
-  
   <div class="cv-row">  
     <div class="cv-year">Bar-Ilan University, Israel</div>
     <div class="cv-details"></div>
@@ -150,22 +144,64 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
 
 ### **Education**
 <div class="cv-section">
+  
+  <div class="cv-row">  
+    <div class="cv-year">University of Cambridge, UK</div>
+    <div class="cv-details"></div>
+  </div>
   <div class="cv-row">
     <div class="cv-year">2014 – 2019</div>
-    <div class="cv-details"><strong>PhD Biochemistry</strong><br>Cambridge Stem Cell Institute, University of Cambridge, UK<br>Supervisors: Austin Smith, Graziano Martello, Hillel Kugler<br>Microsoft Research PhD Programme</div>
+    <div class="cv-details">
+      <strong>PhD Biochemistry</strong>
+      <br>Cambridge Stem Cell Institute, Microsoft Research PhD Programme
+      <br>Supervisors: Austin Smith, Graziano Martello, Hillel Kugler
+    </div>
+  </div>
+
+  <div class="cv-row">  
+    <div class="cv-year">University of Oxford, UK</div>
+    <div class="cv-details"></div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2012 – 2013</div>
-    <div class="cv-details"><strong>MSc Mathematical Modelling and Scientific Computing</strong><br>Mathematical Institute, University of Oxford, UK<br>Supervisors: Helen Byrne, Sarah Waters, Christopher Bell</div>
+    <div class="cv-details">
+      <strong>MSc Mathematical Modelling and Scientific Computing</strong>
+      <br>Mathematical Institute
+      <br>Supervisors: Helen Byrne, Sarah Waters, Christopher Bell
+    </div>
+  </div>
+
+  <div class="cv-row">  
+    <div class="cv-year">West Virginia University, US</div>
+    <div class="cv-details"></div>
+  </div>  
+  <div class="cv-row">
+    <div class="cv-year">2007 – 2011</div>
+    <div class="cv-details">
+      <strong>BS Biochemistry</strong>
+      <br>Phi Kappa Phi, <em>Summa Cum Laude</em>
+      <br>Davis College of Agriculture, Natural Resources and Design
+      <br>Supervisors: Jonathan Boyd and Kenneth Blemings      
+      </div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2007 – 2011</div>
-    <div class="cv-details"><strong>BS Biochemistry</strong><br>Davis College of Agriculture, Natural Resources and Design, West Virginia University, US<br>Supervisor: Jonathan Boyd<br>Department of Homeland Security Scholar, Phi Kappa Phi, <em>Summa Cum Laude</em></div>
+    <div class="cv-details">
+      <strong>BS Mathematics</strong>
+      <br>Phi Beta Kappa, <em>Summa Cum Laude</em>
+      <br>Eberly College of Arts and Sciences      
+      <br>Supervisor: Charles Jaffe and Ian Christie
+      </div>
   </div>
-  <div class="cv-row">
-    <div class="cv-year">2007 – 2011</div>
-    <div class="cv-details"><strong>BS Mathematics</strong><br>Eberly College of Arts and Sciences, West Virginia University, US<br>Supervisor: Charles Jaffe<br>Department of Homeland Security Scholar, Phi Beta Kappa, <em>Summa Cum Laude</em></div>
+    <div class="cv-row">
+    <div class="cv-year"></div>
+    <div class="cv-details">
+      Department of Homeland Security Scholar
+      <br>Order of the Augusta
+      <br>University Honors Scholar
+      </div>
   </div>
+  
 </div>
 
 ### **Other Appointments**
