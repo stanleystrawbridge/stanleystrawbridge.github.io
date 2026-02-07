@@ -80,14 +80,18 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
     <div class="cv-year">Imperial College London, UK</div>
     <div class="cv-details"></div>
   </div>
+  <div class="cv-row">  
     <div class="cv-year">2024-2026</div>
     <div class="cv-details"><strong>Visiting Research,</strong><br> Srinjan Basu, Department of Life Sciences.</div>
   </div>
+
+
   
   <div class="cv-row">  
     <div class="cv-year">Bar-Ilan University, Israel</div>
     <div class="cv-details"></div>
   </div>
+  <div class="cv-row">  
     <div class="cv-year">2018</div>
     <div class="cv-details"><strong>Visiting Research,</strong><br> Hillel Kugler, Alexander Kofkin Faculty of Engineering.</div>
   </div>
