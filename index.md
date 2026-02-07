@@ -59,7 +59,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
 ### **Academic Appointments**
 <div class="cv-section">
   <div class="cv-row">
-    <div class="cv-year"></div>
+    <div class="cv-year">2024-Present</div>
     <div class="cv-details"><strong>University of Sheffield, UK</strong></div>
   </div>
   <div class="cv-row">
