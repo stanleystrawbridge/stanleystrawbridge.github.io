@@ -196,7 +196,7 @@ Stan was highlighted in a People Behind the Papers interview published by Develo
 
 
 <figure>
-  <img src="/assets/images/news/20250624_stan_with_plants.jpg" class="news-photo" alt="Garden">
+  <img src="/assets/images/news/20250624_stan_with_plants.jpeg" class="news-photo" alt="Garden">
   <figcaption>Stan after a trip to the Garden Centre with Fiona</figcaption>
 </figure>
 
