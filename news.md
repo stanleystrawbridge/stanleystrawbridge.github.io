@@ -10,6 +10,16 @@ permalink: /news/
 
 <br>
 
+<h2 style="text-align: center;"><strong>— 2026 —</strong></h2>
+
+---
+
+<br>
+
+---
+
+<br>
+
 <h2 style="text-align: center;"><strong>— 2025 —</strong></h2>
 
 ---
