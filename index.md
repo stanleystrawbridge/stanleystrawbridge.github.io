@@ -96,7 +96,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
       <br> Srinjan Basu, Department of Life Sciences
     </div>
   </div>
-
+  <br>
   <div class="cv-row">  
     <div class="cv-year">University of Cambridge, UK</div>
     <div class="cv-details"></div>
