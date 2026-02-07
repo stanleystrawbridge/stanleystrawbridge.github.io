@@ -90,7 +90,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
     <div class="cv-details"></div>
   </div>
   <div class="cv-row">  
-    <div class="cv-year">2024-2026</div>
+    <div class="cv-year">2024 – Present</div>
     <div class="cv-details">
       <strong>Visiting Researcher</strong>
       <br> Srinjan Basu, Department of Life Sciences
@@ -102,19 +102,38 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
     <div class="cv-details"></div>
   </div>
   <div class="cv-row">  
-    <div class="cv-year">2022-2025</div>
+    <div class="cv-year">2022 – 2025</div>
     <div class="cv-details">
       <strong>Sir Henry Wellcome Postdoctoral Fellow</strong>
       <br>Cambridge Stem Cell Institute
       <br>Sponsors: Srinjan Basu, Alexander G. Fletcher, David Holcman, Jennifer Nichols</div>
   </div>
+    <div class="cv-row">
+    <div class="cv-year">2022 – 2025</div>
+    <div class="cv-details">
+      <strong>Bye-Fellow</strong>
+      <br>Christ’s College, Cambridge
+    </div>
+  </div>
+  <div class="cv-row">
+    <div class="cv-year">2022 – 2024</div>
+    <div class="cv-details">
+      <strong>Tutor</strong>
+      <br>Institute of Continuing Education</div>
+  </div>
   <div class="cv-row">  
-    <div class="cv-year">2019-2022</div>
+    <div class="cv-year">2019 – 2022</div>
     <div class="cv-details">
       <strong>Postdoctoral Research Associate,</strong>
       <br>Cambridge Stem Cell Institute
       <br> Supervisors: Jennifer Nichols and Srinjan Basu</div>
   </div>
+
+
+
+
+
+
   
   <div class="cv-row">  
     <div class="cv-year">Bar-Ilan University, Israel</div>
@@ -150,20 +169,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
 </div>
 
 ### **Other Appointments**
-<div class="cv-section">
-  
-  <div class="cv-row">
-    <div class="cv-year">2022 – 2025</div>
-    <div class="cv-details"><strong>Bye-Fellow</strong><br>Christ’s College, University of Cambridge<br>Supervisor in Second-Year Undergraduate Biochemistry and Molecular Biology</div>
-  </div>
-  <div class="cv-row">
-    <div class="cv-year">2022 – 2024</div>
-    <div class="cv-details"><strong>Tutor</strong><br>Institute of Continuing Education, University of Cambridge<br>Undergraduate Diploma in Genetics</div>
-  </div>
-  <div class="cv-row">
-    <div class="cv-year">2018</div>
-    <div class="cv-details"><strong>Visiting Research</strong><br>The Alexsander Kofkin Faculty of Engineering, Bar-Ilan University</div>
-  </div>
+<div class="cv-section">  
   <div class="cv-row">
     <div class="cv-year">2011 – 2012</div>
     <div class="cv-details"><strong>Research Assistant</strong><br>Analytical Toxicology, U.S. Army Medical Research Institute of Chemical Defense, USDOD<br>(Summer Intern: 2006, 2007, 2008)</div>
