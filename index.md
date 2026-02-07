@@ -59,14 +59,23 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
 ### **Academic Appointments**
 <div class="cv-section">
   <div class="cv-row">
-    <div class="cv-year">2025 – Present</div>
-    <div class="cv-details"><strong>Group Leader</strong><br>Centre for Stem Cell Biology, School of Biosciences, University of Sheffield, UK</div>
+    <div class="cv-year"></div>
+    <div class="cv-details"><strong>University of Sheffield, UK</strong></div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2025 – Present</div>
-    <div class="cv-details"><strong>Early Career Research Fellow, <em>Physics of Life and Quantitative Biology</em></strong><br>Centre for Stem Cell Biology, School of Biosciences, University of Sheffield, UK</div>
+    <div class="cv-details"><strong>Group Leader<strong>, Centre for Stem Cell Biology, School of Biosciences</div>
+  </div>
+  <div class="cv-row">
+    <div class="cv-year">2025 – Present</div>
+    <div class="cv-details"><strong>Early Career Research Fellow, Physics of Life and Quantitative Biology<strong>,<br>Centre for Stem Cell Biology, School of Biosciences</div>
+  </div>
+  <div class="cv-row">
+    <div class="cv-year">2025 – Present</div>
+    <div class="cv-details"><strong>Visiting Researcher<strong>, School of Mathematics and Statistics</div>
   </div>
 </div>
+
 
 ### **Training & Education**
 <div class="cv-section">
@@ -100,11 +109,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
 <div class="cv-section">
   <div class="cv-row">
     <div class="cv-year">2024-2026</div>
-    <div class="cv-details"><strong>Visiting Research</strong><br>Department of Life Sciences, Imperial College London</div>
-  </div>
-  <div class="cv-row">
-    <div class="cv-year">2024-2025</div>
-    <div class="cv-details"><strong>Visiting Research</strong><br>School of Mathematics and Statistics, University of Sheffield</div>
+    <div class="cv-details"><strong>Imperial College London</strong><br>Visiting Research, Department of Life Sciences</div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2022 – 2025</div>
