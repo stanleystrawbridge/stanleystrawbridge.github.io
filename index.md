@@ -184,8 +184,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
   <div class="cv-row">
     <div class="cv-year">2007 – 2011</div>
     <div class="cv-details">
-      <strong>BS Biochemistry</strong>
-      <br>Phi Kappa Phi, <em>Summa Cum Laude</em>
+      <strong>BS Biochemistry</strong>, Phi Kappa Phi, <em>Summa Cum Laude</em>      
       <br>Davis College of Agriculture, Natural Resources and Design
       <br>Supervisors: Jonathan Boyd and Kenneth P. Blemings      
       </div>
@@ -193,15 +192,15 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
   <div class="cv-row">
     <div class="cv-year">2007 – 2011</div>
     <div class="cv-details">
-      <strong>BS Mathematics</strong>
-      <br>Phi Beta Kappa, <em>Summa Cum Laude</em>
+      <strong>BS Mathematics</strong>,Phi Beta Kappa, <em>Summa Cum Laude</em>      
       <br>Eberly College of Arts and Sciences      
       <br>Supervisor: Charles Jaffe and Ian Christie
       </div>
   </div>
+  
   <div class="cv-row">
-    <div class="cv-other">
-      <strong>Awards:</strong> Department of Homeland Security Scholar, Order of the Augusta, University Honors Scholar
+    <div class="cv-year">Awards:</div>
+    <div class="cv-details">Department of Homeland Security Scholar, Order of the Augusta, University Honors Scholar
       </div>
   </div>
   
