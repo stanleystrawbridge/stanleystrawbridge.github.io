@@ -219,7 +219,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
       <strong>Research Assistant</strong>
       <br>Analytical Toxicology Division, US Department of Defense
       <br>Summer Studentships: 2006, 2007, 2008
-      <br>Supervisors: Benedict R. Capacio
+      <br>Supervisor: Benedict R. Capacio
     </div>
   </div>
   <br>
@@ -233,7 +233,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
     <div class="cv-details">
       <strong>Department of Homland Security Summer Studentship</strong>
       <br>Animal Research Services, US Department of Agriculture
-      <br>Supervisors: James J. Zhu</div>
+      <br>Supervisor: James J. Zhu</div>
   </div>
 </div>
 
