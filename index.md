@@ -160,7 +160,8 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
       <br>Supervisors: Austin Smith, Graziano Martello, Hillel Kugler
     </div>
   </div>
-
+  <br>
+  
   <div class="cv-row">  
     <div class="cv-year">University of Oxford, UK</div>
     <div class="cv-details"></div>
@@ -173,7 +174,8 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
       <br>Supervisors: Helen Byrne, Sarah Waters, Christopher Bell
     </div>
   </div>
-
+  <br>
+  
   <div class="cv-row">  
     <div class="cv-year">West Virginia University, US</div>
     <div class="cv-details"></div>
@@ -210,12 +212,28 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
 ### **Other Appointments**
 <div class="cv-section">  
   <div class="cv-row">
+    <div class="cv-year">U.S. Army Medical Research Institute of Chemical Defense</div>
+    <div class="cv-details"></div>
+  </div>
+  <div class="cv-row">
     <div class="cv-year">2011 – 2012</div>
-    <div class="cv-details"><strong>Research Assistant</strong><br>Analytical Toxicology, U.S. Army Medical Research Institute of Chemical Defense, USDOD<br>(Summer Intern: 2006, 2007, 2008)</div>
+    <div class="cv-details">
+      <strong>Research Assistant</strong>
+      <br>Analytical Toxicology Division, US Department of Defense
+      <br>Summer Studentships: 2006, 2007, 2008
+    </div>
+  </div>
+  <br>
+
+  <div class="cv-row">
+    <div class="cv-year">Plum Island Animal Disease Center</div>
+    <div class="cv-details"></div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2010</div>
-    <div class="cv-details"><strong>Summer Intern</strong><br>Animal Research Services, Plum Island Animal Disease Center, USDA</div>
+    <div class="cv-details">
+      <strong>Department of Homland Security Summer Studentship</strong>
+      <br>Animal Research Services, US Department of Agriculture</div>
   </div>
 </div>
 
