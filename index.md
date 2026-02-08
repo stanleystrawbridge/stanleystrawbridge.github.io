@@ -201,7 +201,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
   </div>
   <div class="cv-row">
     <div class="cv-other">
-      Department of Homeland Security Scholar, Order of the Augusta, University Honors Scholar
+      <strong>Awards:</strong> Department of Homeland Security Scholar, Order of the Augusta, University Honors Scholar
       </div>
   </div>
   
