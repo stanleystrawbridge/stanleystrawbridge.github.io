@@ -192,7 +192,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
   <div class="cv-row">
     <div class="cv-year">2007 – 2011</div>
     <div class="cv-details">
-      <strong>BS Mathematics</strong>,Phi Beta Kappa, <em>Summa Cum Laude</em>      
+      <strong>BS Mathematics</strong>, Phi Beta Kappa, <em>Summa Cum Laude</em>      
       <br>Eberly College of Arts and Sciences      
       <br>Supervisor: Charles Jaffe and Ian Christie
       </div>
