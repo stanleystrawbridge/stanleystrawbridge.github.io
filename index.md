@@ -84,6 +84,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
       <br>Alexander Fletcher, School of Mathematics and Statistics
     </div>
   </div>
+  <br>
   
   <div class="cv-row">  
     <div class="cv-year">Imperial College London, UK</div>
@@ -97,6 +98,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
     </div>
   </div>
   <br>
+  
   <div class="cv-row">  
     <div class="cv-year">University of Cambridge, UK</div>
     <div class="cv-details"></div>
@@ -128,6 +130,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
       <br>Cambridge Stem Cell Institute
       <br> Supervisors: Jennifer Nichols and Srinjan Basu</div>
   </div>
+  <br>
 
   <div class="cv-row">  
     <div class="cv-year">Bar-Ilan University, Israel</div>
