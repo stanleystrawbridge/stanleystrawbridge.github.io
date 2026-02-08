@@ -10,6 +10,7 @@ permalink: /
 .cv-row{display:flex;flex-wrap:wrap;column-gap:1rem;row-gap:0.25rem}
 .cv-year{flex:0 0 140px;font-weight:700;white-space:nowrap}
 .cv-details{flex:1 1 420px}
+.cv-other{flex:0 0 140px; white-space:nowrap}
 .cv-section h3{margin-top:1.5rem}
 
 /* Optional: tighten spacing inside details */
@@ -81,7 +82,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
     <div class="cv-year">2024 – 2025</div>
     <div class="cv-details">
       <strong>Visiting Researcher</strong>
-      <br>Alexander Fletcher, School of Mathematics and Statistics
+      <br>Group of Alexander Fletcher, School of Mathematics and Statistics
     </div>
   </div>
   <br>
@@ -94,7 +95,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
     <div class="cv-year">2024 – Present</div>
     <div class="cv-details">
       <strong>Visiting Researcher</strong>
-      <br> Srinjan Basu, Department of Life Sciences
+      <br>Group of Srinjan Basu, Department of Life Sciences
     </div>
   </div>
   <br>
@@ -140,7 +141,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
     <div class="cv-year">2018</div>
     <div class="cv-details">
       <strong>Visiting Researcher</strong>
-      <br> Hillel Kugler, Alexander Kofkin Faculty of Engineering</div>
+      <br>Group of Hillel Kugler, Alexander Kofkin Faculty of Engineering</div>
   </div>
   
 </div>
@@ -186,7 +187,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
       <strong>BS Biochemistry</strong>
       <br>Phi Kappa Phi, <em>Summa Cum Laude</em>
       <br>Davis College of Agriculture, Natural Resources and Design
-      <br>Supervisors: Jonathan Boyd and Kenneth Blemings      
+      <br>Supervisors: Jonathan Boyd and Kenneth P. Blemings      
       </div>
   </div>
   <div class="cv-row">
@@ -198,12 +199,9 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
       <br>Supervisor: Charles Jaffe and Ian Christie
       </div>
   </div>
-    <div class="cv-row">
-    <div class="cv-year"></div>
-    <div class="cv-details">
-      Department of Homeland Security Scholar
-      <br>Order of the Augusta
-      <br>University Honors Scholar
+  <div class="cv-row">
+    <div class="cv-other">
+      Department of Homeland Security Scholar, Order of the Augusta, University Honors Scholar
       </div>
   </div>
   
@@ -221,6 +219,7 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
       <strong>Research Assistant</strong>
       <br>Analytical Toxicology Division, US Department of Defense
       <br>Summer Studentships: 2006, 2007, 2008
+      <br>Supervisors: Benedict R. Capacio
     </div>
   </div>
   <br>
@@ -233,7 +232,8 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
     <div class="cv-year">2010</div>
     <div class="cv-details">
       <strong>Department of Homland Security Summer Studentship</strong>
-      <br>Animal Research Services, US Department of Agriculture</div>
+      <br>Animal Research Services, US Department of Agriculture
+      <br>Supervisors: James J. Zhu</div>
   </div>
 </div>
 
