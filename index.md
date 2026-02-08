@@ -197,7 +197,6 @@ Contact Stanley at s.strawbridge@sheffield.ac.uk.
       <br>Supervisor: Charles Jaffe and Ian Christie
       </div>
   </div>
-  
   <div class="cv-row">
     <div class="cv-year">Awards:</div>
     <div class="cv-details">Department of Homeland Security Scholar, Order of the Augusta, University Honors Scholar
