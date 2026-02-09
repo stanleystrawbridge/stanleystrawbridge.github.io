@@ -52,7 +52,7 @@ permalink: /people/
 	  <td>Living Systems Institute, University of Exeter</td>
       <td>Postdoctoral Research Associate, Computational Modelling</td>
       <td>2026-present</td>
-      <td></td>
+      <td>Primary supervisor: Krasimira Tsaneva-Atanasova </td>
     </tr> 
 	
 	<tr>
