@@ -546,7 +546,7 @@ Welcome to **Vicki Metzis** (MRC LMS), visiting to give the **DRN Seminar** in S
 Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), visiting to give the **DRN Seminar** in Sheffield.
 
 ### 5 January 2026  
-**New Members**
+**New Member**, University of Sheffield, UK
  
 A warm welcome to **Sam Guttridge**, a PhD student from the Lucas's Lab who will be working on the metabolic impacts of pharmaceuticals in early development using the blastoid.
 
