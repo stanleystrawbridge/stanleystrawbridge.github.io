@@ -36,6 +36,28 @@ The Boss made a special trip all the way from Exeter to see us!
   <figcaption>Still some of the best people around</figcaption>
 </figure>
 
+### 5 January 2026  
+**New Members**
+ 
+A warm welcome to **Deems Ioratim-Uba** and **Millicent Opoku**, who will be working on spatial mathematical and computational models of early embryonic development.
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/people/aondoyima_ioratim-uba.jpg" class="news-photo" alt="Deems">
+        <figcaption>Cherie Cheung</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/people/millicent_a_opoku.jpg" class="news-photo" alt="Millicent">
+        <figcaption>Gina Penetra</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <br>
