@@ -19,7 +19,7 @@ permalink: /news/
 ### 21 January 2026  
 **Guest Lecturing**, Imperial College London, UK  
 
-Stan gives a guest lecture on Stochastic Simulations in Srinjan's third year undergrauate Cellular Biophysics course.
+Stan gave a guest lecture on Stochastic Simulations in Srinjan's third year undergrauate Cellular Biophysics course.
 
 <figure>
   <img src="/assets/images/news/20260121_srinjan_and_stan.jpeg" class="news-photo" alt="Smile!">
