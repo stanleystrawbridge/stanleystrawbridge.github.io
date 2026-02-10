@@ -535,6 +535,16 @@ Welcome to **Vicki Metzis** (MRC LMS), visiting to give the **DRN Seminar** in S
 
 Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), visiting to give the **DRN Seminar** in Sheffield.
 
+### 5 January 2026  
+**New Members**
+ 
+A warm welcome to **Sam Guttridge**, a student from Emma Lucas's Lab, who will be working with me on the metabolic impacts of pharmaceuticals in early development using the blastoid model.
+
+<figure>
+  <img src="/assets/images/people/samuel_guttridge.jpg" class="news-photo" alt="Samuel Higgins-Aguilar">
+  <figcaption>Sam Guttridge</figcaption>
+</figure>
+
 ---
 
 <br> 
