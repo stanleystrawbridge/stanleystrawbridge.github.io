@@ -16,14 +16,24 @@ permalink: /news/
 
 <br>
 
-### 10 January 2026  
+### 21 January 2026  
 **Guest Lecturing**, Imperial College London, UK  
 
-Welcome to **Oliver Bower** (Kathy Niakan Lab, Crick/Cambridge), visiting his alma mater, Sheffield, to give the **DRN Seminar**.
+Stan gives a guest lecture on Stochastic Simulations in Srinjan's third year undergrauate Cellular Biophysics course.
 
 <figure>
-  <img src="/assets/images/news/srinjan_and_stan.jpeg" class="news-photo" alt="blink">
-  <figcaption>Prof Emeritus Peter Andrews and Oliver</figcaption>
+  <img src="/assets/images/news/20260121_srinjan_and_stan.jpeg" class="news-photo" alt="Smile!">
+  <figcaption>Srinjan and Stan</figcaption>
+</figure>
+
+### 16 January 2026  
+**Smith Lab** Reunion, Cambridge, UK
+
+The Boss made a special trip all the way from Exeter to see us!
+
+<figure>
+  <img src="/assets/images/news/20260116smith_lab_family_reunion.jpeg" class="news-photo" alt="Favs!">
+  <figcaption>Still some of the best people around</figcaption>
 </figure>
 
 ---
