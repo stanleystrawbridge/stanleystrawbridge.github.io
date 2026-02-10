@@ -220,6 +220,16 @@ The lab attended this excellent BSDB-sponsored meeting. Stan is *still* presenti
   <figcaption>Left to right, Stan, Harriet, Sam G., Cherie, and Gina!</figcaption>
 </figure>
 
+### 8 July 2026  
+**New Member**, University of Sheffield, UK
+ 
+A warm welcome to **Nikolas Stefanidis**, a PhD Student from the Flectcher and Tsakiridis groups who will be modelling the dynamics of stem cell differentiation.
+
+<figure>
+  <img src="/assets/images/people/nikolas_stefanidis.jpeg" class="news-photo" alt="Nikolas">
+  <figcaption>Nikolas Stefanidis</figcaption>
+</figure>
+
 ### 2 July 2025  
 **Strawbridge Lab Social**, University of Sheffield, UK  
 
@@ -538,7 +548,7 @@ Welcome to **Anzy Miller** (Nancy Papalopulu Lab, University of Manchester), vis
 ### 5 January 2026  
 **New Members**
  
-A warm welcome to **Sam Guttridge**, a student from Emma Lucas's Lab, who will be working with me on the metabolic impacts of pharmaceuticals in early development using the blastoid model.
+A warm welcome to **Sam Guttridge**, a PhD student from the Lucas's Lab who will be working on the metabolic impacts of pharmaceuticals in early development using the blastoid.
 
 <figure>
   <img src="/assets/images/people/samuel_guttridge.jpg" class="news-photo" alt="Samuel Higgins-Aguilar">
