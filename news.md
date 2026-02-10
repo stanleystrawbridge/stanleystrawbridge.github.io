@@ -32,7 +32,7 @@ Stan gives a guest lecture on Stochastic Simulations in Srinjan's third year und
 The Boss made a special trip all the way from Exeter to see us!
 
 <figure>
-  <img src="/assets/images/news/20260116smith_lab_family_reunion.jpeg" class="news-photo" alt="Favs!">
+  <img src="/assets/images/news/20260116_smith_lab_family_reunion.jpeg" class="news-photo" alt="Favs!">
   <figcaption>Still some of the best people around</figcaption>
 </figure>
 
