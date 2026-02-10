@@ -58,6 +58,15 @@ A warm welcome to **Deems Ioratim-Uba** and **Millicent Opoku**, who will be wor
   </tr>
 </table>
 
+### 16 January 2026  
+**Happy New Year!**
+
+<figure>
+  <img src="/assets/images/news/20260101_happy_new_year.jpeg" class="news-photo" alt="deafening">
+  <figcaption>Stan in a human snow globe</figcaption>
+</figure>
+
+
 ---
 
 <br>
