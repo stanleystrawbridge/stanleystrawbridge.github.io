@@ -79,6 +79,16 @@ permalink: /people/
 </tr> 
 
 <tr>
+  <td><img src="/assets/images/people/agustina_requejo.jpg" class="people-photo" /></td>
+  <td><strong>Agustina Requejo</strong></td>
+  <td><img src="/assets/images/flags/AR.png" class="flag-icon" /></td>
+  <td>University of Sheffield</td>
+  <td>MSc Student, Reproductive & Developmental Medicine</td>
+  <td>2026-present</td>
+  <td>Co-supervisor: Mark Fenwick</td>
+</tr> 
+
+<tr>
   <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" /></td>
   <td><strong>Samuel Guttridge</strong></td>
   <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
