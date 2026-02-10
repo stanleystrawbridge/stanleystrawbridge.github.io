@@ -24,7 +24,7 @@ permalink: /people/
   <th>Nationality</th>
   <th>Affiliation</th>
   <th>Role</th>
-  <th>Year</th>
+  <th>Years</th>
   <th>Notes</th>
 </tr>
 	
@@ -166,7 +166,7 @@ permalink: /people/
   <th>Nationality</th>
   <th>Affiliation</th>
   <th>Role</th>
-  <th>Year</th>
+  <th>Years</th>
   <th>Next Steps</th>
   <th>Notes</th>
 </tr>
