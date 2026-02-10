@@ -145,6 +145,7 @@ permalink: /people/
 |---------------------|-----------------------------------------------------|
 | **Srinjan Basu**    | Imperial College London                 			|
 | **David Holcman**   | École Normale Supérieure, Paris   					|
+| **Marisa Merino**   | University of Liverpool  							|
 | **Nick Monk**       | African Institute for Mathematical Sciences, Ghana  |
 | **Jennifer Nichols**| University of Edinburgh                 			|
 | **Ayaka Yanagida**  | University of Tokyo		                 			|
