@@ -58,7 +58,7 @@ A warm welcome to **Deems Ioratim-Uba** and **Millicent Opoku**, who will be wor
   </tr>
 </table>
 
-### 16 January 2026  
+### 1 January 2026  
 **Happy New Year!**
 
 <figure>
