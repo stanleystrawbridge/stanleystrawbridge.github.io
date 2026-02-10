@@ -119,7 +119,26 @@ Congratulations to **Harriet** Sheffield University Infertility Research Award!
 ### 26 September 2025  
 **Bob Edwards centenary: His life, work and legacy**, University of Cambridge, UK  
 
-Stan attends the **Bob Edwards Centenary**  to celebrate his life and the impact his work has made.
+Stan attends the **Bob Edwards Centenary** to celebrate his life and the impact his work has made. 
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/nichols_lab_reunion.jpeg" class="news-photo" alt="Cheers!">
+	  	<figcaption>Stan reunites with his former boss Jenny Nichols, and lab mates Elena Corujo-Simon and Lawrence Bates</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/news/ivf_plaque.jpeg" class="news-photo" alt="Hap2Dip">
+	  	<figcaption>Memorial plaque at the Physisology Building in Cambridge</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+A fantastic retrospective on the science, culminating in incredibly powerful presentations from broadcaster Emma Barnett, Louise Brown—the first person born through IVF—and his daughter, Jenny Joy.
 
 ### 12 August 2025  
 **Farewell**, University of Sheffield, UK
