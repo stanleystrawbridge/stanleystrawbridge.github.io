@@ -16,6 +16,16 @@ permalink: /news/
 
 <br>
 
+### 10 January 2026  
+**Guest Lecturing**, Imperial College London, UK  
+
+Welcome to **Oliver Bower** (Kathy Niakan Lab, Crick/Cambridge), visiting his alma mater, Sheffield, to give the **DRN Seminar**.
+
+<figure>
+  <img src="/assets/images/news/srinjan_and_stan.jpeg" class="news-photo" alt="blink">
+  <figcaption>Prof Emeritus Peter Andrews and Oliver</figcaption>
+</figure>
+
 ---
 
 <br>
@@ -125,13 +135,13 @@ Stan attends the **Bob Edwards Centenary** to celebrate his life and the impact 
   <tr>
     <td>
       <figure>
-        <img src="/assets/images/news/nichols_lab_reunion.jpeg" class="news-photo" alt="Cheers!">
-	  	<figcaption>Stan reunites with his former boss Jenny Nichols, and lab mates Elena Corujo-Simon and Lawrence Bates</figcaption>
+        <img src="/assets/images/news/20251023_nichols_lab_reunion.jpeg" class="news-photo" alt="Cheers!">
+	  	<figcaption>Stan reunites with his former boss, Jenny Nichols, and lab mates, Elena Corujo-Simon and Lawrence Bates</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="/assets/images/news/ivf_plaque.jpeg" class="news-photo" alt="Hap2Dip">
+        <img src="/assets/images/news/20251023_ivf_plaque.jpeg" class="news-photo" alt="Hap2Dip">
 	  	<figcaption>Memorial plaque at the Physisology Building in Cambridge</figcaption>
       </figure>
     </td>
