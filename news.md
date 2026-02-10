@@ -46,13 +46,13 @@ A warm welcome to **Deems Ioratim-Uba** and **Millicent Opoku**, who will be wor
     <td>
       <figure>
         <img src="/assets/images/people/aondoyima_ioratim-uba.jpg" class="news-photo" alt="Deems">
-        <figcaption>Cherie Cheung</figcaption>
+        <figcaption>Deems Ioratim-Uba</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="/assets/images/people/millicent_a_opoku.jpg" class="news-photo" alt="Millicent">
-        <figcaption>Gina Penetra</figcaption>
+        <figcaption>Millicent Opoku</figcaption>
       </figure>
     </td>
   </tr>
