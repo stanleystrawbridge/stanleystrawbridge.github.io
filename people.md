@@ -192,11 +192,10 @@ permalink: /people/
 
 <tr>
   <th></th>
-  <th>Name</th>
-  <th>Nationality</th>
+  <th></th>
   <th>Affiliation</th>
   <th>Role</th>
-  <th>Years</th>
+  <th>Year(s)</th>
   <th>Next Steps</th>
   <th>Notes</th>
 </tr>
@@ -206,10 +205,11 @@ permalink: /people/
 <tbody>
 
 <tr>
-  <td><img src="/assets/images/people/cherie_cheung.jpg" class="people-photo" /></td>
-  <td><strong>Cherie Cheung</strong></td>
+  <td><img src="/assets/images/people/cherie_cheung.jpg" class="people-photo" />
+    <br><strong>Cherie Cheung</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/UK.png" class="flag-icon" />
+	 <img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> University of Sheffield </td>
   <td>BA Student, Biomedical Sciences</td>
@@ -220,10 +220,11 @@ permalink: /people/
 
 <tr>
   <td><img src="/assets/images/people/gina_penetra.jpg" class="people-photo" /></td>
-  <td><strong>Gina Penetra</strong></td>
+    <br><strong>Gina Penetra</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/UK.png" class="flag-icon" />
-	<img src="/assets/images/flags/PT.png" class="flag-icon" />
+  	<img src="/assets/images/flags/UK.png" class="flag-icon" />
+  	<img src="/assets/images/flags/PT.png" class="flag-icon" />
   </td>
   <td>	University of Sheffield	</td>
   <td>BA Student, Biomedical Sciences</td>
@@ -233,10 +234,11 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/harriet_english.jpg" class="people-photo" /></td>
-  <td><strong>Harriet L. English</strong></td>
+  <td><img src="/assets/images/people/harriet_english.jpg" class="people-photo" />
+    <br><strong>Harriet L. English</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/UK.png" class="flag-icon" />
+	 <img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> University of Sheffield </td>
   <td>MSc Student, Reproductive & Developmental Medicine</td>
@@ -246,11 +248,12 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="people-photo" /></td>
-  <td><strong>Samuel J. Higgins-Aguilar</strong></td>
+  <td><img src="/assets/images/people/samuel_higgins-aguilar.jpg" class="people-photo" />
+    <br><strong>Samuel J. Higgins-Aguilar</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/ES.png" class="flag-icon" />
-	<img src="/assets/images/flags/UK.png" class="flag-icon" />
+  	<img src="/assets/images/flags/ES.png" class="flag-icon" />
+  	<img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> University of Sheffield </td>
   <td>MSc Student, Reproductive & Developmental Medicine</td>
@@ -260,11 +263,12 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/khalid_guma'a.jpeg" class="people-photo" /></td>
-  <td><strong>Khalid Guma'a</strong></td>
+  <td><img src="/assets/images/people/khalid_guma'a.jpeg" class="people-photo" />
+    <br><strong>Khalid Guma'a</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/UK.png" class="flag-icon" />
-	<img src="/assets/images/flags/SD.png" class="flag-icon" />
+  	<img src="/assets/images/flags/UK.png" class="flag-icon" />
+  	<img src="/assets/images/flags/SD.png" class="flag-icon" />
   </td>
   <td> Univeristy of Cambridge </td>
   <td>MPhil Biochemistry</td>
@@ -274,8 +278,9 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/aimee_preston.jpeg" class="people-photo" /></td>
-  <td><strong>Aimee Preston</strong></td>
+  <td><img src="/assets/images/people/aimee_preston.jpeg" class="people-photo" />
+    <br><strong>Aimee Preston</strong>
+  </td>
   <td>
 	<img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
@@ -287,10 +292,11 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/kathryn_bowers.jpeg" class="people-photo" /></td>
-  <td><strong>Kathryn Bowers</strong></td>
+  <td><img src="/assets/images/people/kathryn_bowers.jpeg" class="people-photo" />
+    <br><strong>Kathryn Bowers</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/UK.png" class="flag-icon" />
+	 <img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> Univeristy of Cambridge </td>
   <td>MPhil Computational Biology</td>
@@ -300,10 +306,11 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" /></td>
-  <td><strong>Yuze Cao</strong></td>
+  <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" />
+    <br><strong>Yuze Cao</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/CN.png" class="flag-icon" />
+	 <img src="/assets/images/flags/CN.png" class="flag-icon" />
   </td>
   <td> Univeristy of Cambridge </td>
   <td>MSc Systems Biology</td>
@@ -313,10 +320,11 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/jenny_zhang.jpeg" class="people-photo" /></td>
-  <td><strong>Jenny Zhang</strong></td>
+  <td><img src="/assets/images/people/jenny_zhang.jpeg" class="people-photo" />
+    <br><strong>Jenny Zhang</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/UK.png" class="flag-icon" />
+	 <img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> Univeristy of Cambridge </td>
   <td>Intercalated BA Natural Sciences</td>
@@ -326,10 +334,11 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/sebastian_berger.jpeg" class="people-photo" /></td>
-  <td><strong>Sebastian Berger</strong></td>
+  <td><img src="/assets/images/people/sebastian_berger.jpeg" class="people-photo" />
+    <br><strong>Sebastian Berger</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/UK.png" class="flag-icon" />
+	 <img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> Univeristy of Cambridge </td>
   <td>MPhil Biological Sciences (Stem Cell Biology)</td>
@@ -339,10 +348,11 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/valentyna_chernova.jpeg" class="people-photo" /></td>
-  <td><strong>Valentyna Chernova</strong></td>
+  <td><img src="/assets/images/people/valentyna_chernova.jpeg" class="people-photo" />
+    <br><strong>Valentyna Chernova</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/UA.jpeg" class="flag-icon" />
+	 <img src="/assets/images/flags/UA.jpeg" class="flag-icon" />
   </td>
   <td> Univeristy of Cambridge </td>
   <td>MSc Systems Biology</td>
@@ -352,10 +362,11 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/patrick_rericha.jpeg" class="people-photo" /></td>
-  <td><strong>Patrick Rericha</strong></td>
+  <td><img src="/assets/images/people/patrick_rericha.jpeg" class="people-photo" />
+    <br><strong>Patrick Rericha</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/AT.png" class="flag-icon" />
+	 <img src="/assets/images/flags/AT.png" class="flag-icon" />
   </td>
   <td> Univeristy of Cambridge </td>
   <td>MRes Rotation Student</td>
@@ -365,10 +376,11 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/gergo_nikolenyi.jpg" class="people-photo" /></td>
-  <td><strong>Gergő Nikolényi</strong></td>
+  <td><img src="/assets/images/people/gergo_nikolenyi.jpg" class="people-photo" />
+    <br><strong>Gergő Nikolényi</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/HU.png" class="flag-icon" />
+	 <img src="/assets/images/flags/HU.png" class="flag-icon" />
   </td>
   <td> Univeristy of Cambridge </td>
   <td>MSc Systems Biology</td>
@@ -378,10 +390,11 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/ana_cidral.jpeg" class="people-photo" /></td>
-  <td><strong>Ana Luíza Cidral</strong></td>
+  <td><img src="/assets/images/people/ana_cidral.jpeg" class="people-photo" />
+    <br><strong>Ana Luíza Cidral</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/BR.png" class="flag-icon" />
+	 <img src="/assets/images/flags/BR.png" class="flag-icon" />
   </td>
   <td>Universidade de São Paulo</td>
   <td>Visiting Student, MSc Biotechnology</td>
@@ -391,10 +404,11 @@ permalink: /people/
 </tr>	
 
 <tr>
-  <td><img src="/assets/images/people/anna_katharina_schrattel.jpeg" class="people-photo" /></td>
-  <td><strong>Anna Katharina Schrattle</strong></td>
+  <td><img src="/assets/images/people/anna_katharina_schrattel.jpeg" class="people-photo" />
+    <br><strong>Anna Katharina Schrattle</strong>
+  </td>
   <td>
-	<img src="/assets/images/flags/AT.png" class="flag-icon" />
+	 <img src="/assets/images/flags/AT.png" class="flag-icon" />
   </td>
   <td>IMC Krems</td>
   <td>Visiting Student, BSc Engineering</td>
