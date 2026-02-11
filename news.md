@@ -16,6 +16,34 @@ permalink: /news/
 
 <br>
 
+### 5 February 2026  
+**New Members**, University of Sheffield
+ 
+A warm welcome to **Erin Pauley**, **Agustina Requejo**, **Abigail Stocks**, who are joining the lab as part of their MSc in Reproductive and Developmental Medicine. The will be working on modelling embryo attachment in vitro, signalling in oocyte maturation, the impacts of maternal diet on embryonic development,  respectively.
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/people/erin_pauley.jpg" class="news-photo" alt="Erin">
+        <figcaption>Erin Pauley</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/people/agustina_requejo.jpeg" class="news-photo" alt="Agustina">
+        <figcaption>Agustina Requejo</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/people/abigail_l_stocks.jpeg" class="news-photo" alt="Abigail">
+        <figcaption>Abigail Stocks</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ### 21 January 2026  
 **Guest Lecturing**, Imperial College London, UK  
 

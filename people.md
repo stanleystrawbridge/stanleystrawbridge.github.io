@@ -82,6 +82,17 @@ permalink: /people/
 </tr> 
 
 <tr>
+  <td><img src="/assets/images/people/erin_pauley.jpg" class="people-photo" />
+    <br><strong>Erin Pauley</strong>
+  </td>
+  <td><img src="/assets/images/flags/IE.png" class="flag-icon" /></td>
+  <td>University of Sheffield</td>
+  <td>MSc Reproductive and Developmental Medicine</td>
+  <td>2026-present</td>
+  <td>Co-supervisor: <br> Emma Lucas</td>
+</tr> 
+
+<tr>
   <td><img src="/assets/images/people/agustina_requejo.jpg" class="people-photo" />
     <br><strong>Agustina Requejo</strong>
   </td>
