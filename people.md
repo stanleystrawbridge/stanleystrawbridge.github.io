@@ -89,6 +89,17 @@ permalink: /people/
 </tr> 
 
 <tr>
+  <td><img src="/assets/images/people/abigail_l_stocks.jpeg" class="people-photo" /></td>
+  <td><strong>Abigail L. Stocks</strong></td>
+  <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
+  <td>University of Sheffield</td>
+  <td>MSc Student, Reproductive & Developmental Medicine</td>
+  <td>2026-present</td>
+  <td>Co-supervisor: Emma Lucas</td>
+</tr> 
+
+
+<tr>
   <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" /></td>
   <td><strong>Samuel Guttridge</strong></td>
   <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
