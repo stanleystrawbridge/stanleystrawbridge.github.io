@@ -219,7 +219,7 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/gina_penetra.jpg" class="people-photo" /></td>
+  <td><img src="/assets/images/people/gina_penetra.jpg" class="people-photo" />
     <br><strong>Gina Penetra</strong>
   </td>
   <td>
