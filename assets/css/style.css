@@ -164,59 +164,55 @@ table.photo-table td {
   vertical-align: top;
 }
 
-/* People table layout */
 .page-content .people-table,
 .post-content .people-table {
   width: 100%;
   border-collapse: collapse;
+  font-size: 13px;        /* smaller text */
+  line-height: 1.2;       /* tighter vertical spacing */
 }
 
-/* First column (photos) */
-.page-content table.people-table td:first-child,
-.page-content table.people-table th:first-child,
-.post-content table.people-table td:first-child,
-.post-content table.people-table th:first-child {
-  width: 130px;
-  min-width: 130px;
-  max-width: 150px;
-  text-align: center !important;      /* center first column */
-  vertical-align: middle !important;  /* middle align first column */
-}
-
-/* Center all cells */
+/* Table cells */
 .page-content .people-table td,
 .page-content .people-table th,
 .post-content .people-table td,
 .post-content .people-table th {
   text-align: center !important;
   vertical-align: middle !important;
-  padding: 8px;
+  padding: 4px 6px;       /* reduced padding */
 }
 
-/* Profile photos in people table */
+/* First column (photos) */
+.page-content .people-table td:first-child,
+.page-content .people-table th:first-child,
+.post-content .people-table td:first-child,
+.post-content .people-table th:first-child {
+  width: 100px;
+  min-width: 100px;
+  max-width: 110px;
+}
+
+/* Profile photos */
 .page-content .people-table .people-photo,
 .post-content .people-table .people-photo {
-  height: 100px;
-  width: 80px;              /* fixed width for uniformity */
+  height: 75px;           /* reduced from 100px */
+  width: 60px;
   object-fit: cover;
-  border-radius: 0px;
-  display: inline-block !important;
-  margin: 0 auto !important;
+  border-radius: 0;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Flags */
 .flag-icon {
-  width: 75%;
+  width: 60%;
   height: auto;
-  display: inline-block;
-  vertical-align: middle;
-  margin: 5px;
+  margin: 3px;
 }
 
 .flag-icon + .flag-icon {
-  margin-left: 6px; /* space between multiple flags */
+  margin-left: 4px;
 }
-
 
 
 /* ----------------------------------------------------------
