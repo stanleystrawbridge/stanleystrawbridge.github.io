@@ -20,8 +20,7 @@ permalink: /people/
   
 <tr>
   <th></th>
-  <th>Name</th>
-  <th>Nationality</th>
+  <th></th>
   <th>Affiliation</th>
   <th>Role</th>
   <th>Years</th>
@@ -33,7 +32,9 @@ permalink: /people/
 <tbody>
   
 <tr>
-  <td><img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" /><br><strong>Stanley E. Strawbridge</strong></td>
+  <td><img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" /> 
+    <br> <strong>Stanley E. Strawbridge</strong>
+  </td>
   <td></td>
   <td>
 	<img src="/assets/images/flags/US.png" class="flag-icon" />
@@ -46,8 +47,9 @@ permalink: /people/
 </tr>
 
 <tr>
-  <td><img src="/assets/images/people/ben_eames.png" class="people-photo" /></td>
-  <td><strong>Ben Eames</strong></td>
+  <td><img src="/assets/images/people/ben_eames.png" class="people-photo" />
+    <br><strong>Ben Eames</strong>
+  </td>
   <td>
 	<img src="/assets/images/flags/UK.png" class="flag-icon" />
 	<img src="/assets/images/flags/NZ.png" class="flag-icon" />
@@ -59,8 +61,9 @@ permalink: /people/
 </tr> 
 
 <tr> 
-  <td><img src="/assets/images/people/aondoyima_ioratim-uba.jpg" class="people-photo" /></td>
-  <td><strong>Aondoyima "Deems" Ioratim-Uba</strong></td>
+  <td><img src="/assets/images/people/aondoyima_ioratim-uba.jpg" class="people-photo" />
+    <br><strong>Aondoyima "Deems" Ioratim-Uba</strong>
+  </td>
   <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
   <td>Living Systems Institute, University of Exeter</td>
   <td>Postdoctoral Research Associate, Computational Modelling</td>
@@ -69,8 +72,9 @@ permalink: /people/
 </tr> 
 
 <tr>
-  <td><img src="/assets/images/people/millicent_a_opoku.jpg" class="people-photo" /></td>
-  <td><strong>Millicent A. Opoku</strong></td>
+  <td><img src="/assets/images/people/millicent_a_opoku.jpg" class="people-photo" />
+    <br><strong>Millicent A. Opoku</strong>
+  </td>
   <td><img src="/assets/images/flags/GH.png" class="flag-icon" /></td>
   <td> AIMS-RIC, Rwanda; University of Cape Coast</td>
   <td>PhD Student,  Mathematics (Mathematical Biology)</td>
@@ -79,8 +83,9 @@ permalink: /people/
 </tr> 
 
 <tr>
-  <td><img src="/assets/images/people/agustina_requejo.jpg" class="people-photo" /></td>
-  <td><strong>Agustina Requejo</strong></td>
+  <td><img src="/assets/images/people/agustina_requejo.jpg" class="people-photo" />
+    <br><strong>Agustina Requejo</strong>
+  </td>
   <td><img src="/assets/images/flags/AR.png" class="flag-icon" /></td>
   <td>University of Sheffield</td>
   <td>MSc Student, Reproductive & Developmental Medicine</td>
@@ -89,8 +94,9 @@ permalink: /people/
 </tr> 
 
 <tr>
-  <td><img src="/assets/images/people/abigail_l_stocks.jpeg" class="people-photo" /></td>
-  <td><strong>Abigail L. Stocks</strong></td>
+  <td><img src="/assets/images/people/abigail_l_stocks.jpeg" class="people-photo" />
+    <br><strong>Abigail L. Stocks</strong>
+  </td>
   <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
   <td>University of Sheffield</td>
   <td>MSc Student, Reproductive & Developmental Medicine</td>
@@ -100,8 +106,9 @@ permalink: /people/
 
 
 <tr>
-  <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" /></td>
-  <td><strong>Samuel Guttridge</strong></td>
+  <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" />
+    <br><strong>Samuel Guttridge</strong>
+  </td>
   <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
   <td>	University of Sheffield	</td>
   <td>PhD Student, Reproductive Medicine</td>
@@ -110,8 +117,9 @@ permalink: /people/
 </tr> 
 
 <tr>
-  <td><img src="/assets/images/people/nikolas_stefanidis.jpeg" class="people-photo" /></td>
-  <td><strong>Nikolas Stefanidis</strong></td>
+  <td><img src="/assets/images/people/nikolas_stefanidis.jpeg" class="people-photo" />
+    <br><strong>Nikolas Stefanidis</strong>
+  </td>
   <td><img src="/assets/images/flags/GR.png" class="flag-icon" /></td>
   <td>University of Sheffield	</td>
   <td>PhD Student, Developmental Biology</td>
@@ -120,8 +128,9 @@ permalink: /people/
 </tr> 
 
 <tr>
-  <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" /></td>
-  <td><strong>Yuze Cao</strong></td>
+  <td><img src="/assets/images/people/yuze_cao.jpg" class="people-photo" />
+    <br><strong>Yuze Cao</strong>
+  </td>
   <td>
 	<img src="/assets/images/flags/CN.png" class="flag-icon" />
   </td>
