@@ -54,9 +54,9 @@ permalink: /people/
 	<img src="/assets/images/flags/NZ.png" class="flag-icon" />
   </td>
   <td>University of Sheffield</td>
-  <td>MSc Student, Mathematical and Theoretical Physics</td>
+  <td>MSc Mathematical and Theoretical Physics</td>
   <td>2026-present</td>
-  <td>I<sup>o</sup>  supervisor: Alexander Fletcher</td>
+  <td>I<sup>o</sup>  supervisor: <br> Alexander Fletcher</td>
 </tr> 
 
 <tr> 
@@ -67,7 +67,7 @@ permalink: /people/
   <td>Living Systems Institute, University of Exeter</td>
   <td>Postdoctoral Research Associate, Computational Modelling</td>
   <td>2026-present</td>
-  <td>I<sup>o</sup>  supervisor: Krasimira Tsaneva-Atanasova </td>
+  <td>I<sup>o</sup>  supervisor: <br> Krasimira Tsaneva-Atanasova </td>
 </tr> 
 
 <tr>
@@ -76,9 +76,9 @@ permalink: /people/
   </td>
   <td><img src="/assets/images/flags/GH.png" class="flag-icon" /></td>
   <td> AIMS-RIC, Rwanda; University of Cape Coast</td>
-  <td>PhD Student,  Mathematics (Mathematical Biology)</td>
+  <td>PhD Mathematics (Mathematical Biology)</td>
   <td>2026-present</td>
-  <td>I<sup>o</sup>  supervisor: Nick Monk</td>
+  <td>I<sup>o</sup>  supervisor: <br> Nick Monk</td>
 </tr> 
 
 <tr>
@@ -87,9 +87,9 @@ permalink: /people/
   </td>
   <td><img src="/assets/images/flags/AR.png" class="flag-icon" /></td>
   <td>University of Sheffield</td>
-  <td>MSc Student, Reproductive & Developmental Medicine</td>
+  <td>MSc Reproductive & Developmental Medicine</td>
   <td>2026-present</td>
-  <td>Co-supervisor: Mark Fenwick</td>
+  <td>Co-supervisor: <br> Mark Fenwick</td>
 </tr> 
 
 <tr>
@@ -98,9 +98,9 @@ permalink: /people/
   </td>
   <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
   <td>University of Sheffield</td>
-  <td>MSc Student, Reproductive & Developmental Medicine</td>
+  <td>MSc Reproductive & Developmental Medicine</td>
   <td>2026-present</td>
-  <td>Co-supervisor: Emma Lucas</td>
+  <td>Co-supervisor: <br> Emma Lucas</td>
 </tr> 
 
 
@@ -110,9 +110,9 @@ permalink: /people/
   </td>
   <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
   <td>	University of Sheffield	</td>
-  <td>PhD Student, Reproductive Medicine</td>
+  <td>PhD Reproductive Medicine</td>
   <td>2025-present</td>
-  <td>I<sup>o</sup>  supervisor: Emma Lucas</td>
+  <td>I<sup>o</sup>  supervisor: <br> Emma Lucas</td>
 </tr> 
 
 <tr>
@@ -121,9 +121,9 @@ permalink: /people/
   </td>
   <td><img src="/assets/images/flags/GR.png" class="flag-icon" /></td>
   <td>University of Sheffield	</td>
-  <td>PhD Student, Developmental Biology</td>
+  <td>PhD Developmental Biology</td>
   <td>2025-present</td>
-  <td>I<sup>o</sup>  supervisors: Alexander Fletcher, Anestis Tsakiridis</td>
+  <td>I<sup>o</sup>  supervisors: <br> Alexander Fletcher, <br> Anestis Tsakiridis</td>
 </tr> 
 
 <tr>
@@ -134,9 +134,9 @@ permalink: /people/
 	<img src="/assets/images/flags/CN.png" class="flag-icon" />
   </td>
   <td> École Normale Supérieure, Paris </td>
-  <td>PhD Student, Biophysics</td>
+  <td>PhD Biophysics</td>
   <td>2024-present</td>
-  <td>I<sup>o</sup>  supervisors: David Holcman, Srinjan Basu</td>
+  <td>I<sup>o</sup>  supervisors: <br> David Holcman, <br> Srinjan Basu</td>
 </tr>
 	
 </tbody>
@@ -212,7 +212,7 @@ permalink: /people/
 	 <img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> University of Sheffield </td>
-  <td>BA Student, Biomedical Sciences</td>
+  <td>BA Biomedical Sciences</td>
   <td>2025</td>
   <td></td>
   <td>Sheffield Undergraduate Research Experience (SURE) Student</td>
@@ -226,11 +226,11 @@ permalink: /people/
   	<img src="/assets/images/flags/UK.png" class="flag-icon" />
   	<img src="/assets/images/flags/PT.png" class="flag-icon" />
   </td>
-  <td>	University of Sheffield	</td>
-  <td>BA Student, Biomedical Sciences</td>
+  <td>University of Sheffield	</td>
+  <td>BA Biomedical Sciences</td>
   <td>2025</td>
   <td></td>
-  <td>Co-supervised with Paul J. Gokhale; SURE Student</td>		
+  <td>Co-supervisor:  <br> Paul J. Gokhale; <br>  SURE Student</td>		
 </tr>
 
 <tr>
@@ -241,7 +241,7 @@ permalink: /people/
 	 <img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> University of Sheffield </td>
-  <td>MSc Student, Reproductive & Developmental Medicine</td>
+  <td>MSc Reproductive & Developmental Medicine</td>
   <td>2025</td>
   <td></td>
   <td></td>
@@ -256,7 +256,7 @@ permalink: /people/
   	<img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> University of Sheffield </td>
-  <td>MSc Student, Reproductive & Developmental Medicine</td>
+  <td>MSc Reproductive & Developmental Medicine</td>
   <td>2025</td>
   <td>TFP Thames Valley Fertility</td>
   <td></td>
@@ -274,7 +274,7 @@ permalink: /people/
   <td>MPhil Biochemistry</td>
   <td>2023-2024</td>
   <td>Finance</td>
-  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -288,7 +288,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2023-2024</td>
   <td>Consulting</td>
-  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -302,7 +302,7 @@ permalink: /people/
   <td>MPhil Computational Biology</td>
   <td>2023</td>
   <td>PhD Biostatistics, University of Cambridge</td>
-  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -316,7 +316,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2022-2023</td>
   <td>PhD Biophysics, ENS Paris</td>
-  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -330,7 +330,7 @@ permalink: /people/
   <td>Intercalated BA Natural Sciences</td>
   <td>2022-2023</td>
   <td>MB/BChir, University of Cambridge</td>
-  <td>I<sup>o</sup>  supervisor: Srinjan Basu.<br>Co-supervisor: Gökçe Agsu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.<br>Co-supervisor: <br> Gökçe Agsu.</td> 	  
 </tr>
 
 <tr>
@@ -344,7 +344,7 @@ permalink: /people/
   <td>MPhil Biological Sciences (Stem Cell Biology)</td>
   <td>2021-2022</td>
   <td>PhD Computational Biophysics, UCL</td>
-  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -358,7 +358,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2020-2021</td>
   <td>PhD Cell Biology and Biophysics, EMBL Heidelberg</td>
-  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -372,7 +372,7 @@ permalink: /people/
   <td>MRes Rotation Student</td>
   <td>2020</td>
   <td>PhD Stem Cell Biology & Medicine, University of Cambridge</td>
-  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -386,7 +386,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2019-2020</td>
   <td>PhD Systems Biology, University of Columbia</td>
-  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -400,7 +400,7 @@ permalink: /people/
   <td>Visiting Student, MSc Biotechnology</td>
   <td>2019-2020</td>
   <td>Pharma</td>
-  <td>I<sup>o</sup>  supervisor: Jennifer Nichols.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Jennifer Nichols.</td> 	  
 </tr>	
 
 <tr>
@@ -414,7 +414,7 @@ permalink: /people/
   <td>Visiting Student, BSc Engineering</td>
   <td>2018-2019</td>
   <td>PhD, University of Heidelberg</td>
-  <td>I<sup>o</sup>  supervisor: Jennifer Nichols.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Jennifer Nichols.</td> 	  
 </tr>
 </tbody>
 </table>
