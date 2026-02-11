@@ -36,7 +36,7 @@ permalink: /people/
     <br> <strong>Stanley E. Strawbridge</strong>
   </td>
   <td>
-	<img src="/assets/images/flags/US.png" class="flag-icon" />
+	<img src="/assets/images/flags/US.png" class="flag-icon" />  <br>
 	<img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td>University of Sheffield</td>
@@ -50,7 +50,7 @@ permalink: /people/
     <br><strong>Ben Eames</strong>
   </td>
   <td>
-	<img src="/assets/images/flags/UK.png" class="flag-icon" />
+	<img src="/assets/images/flags/UK.png" class="flag-icon" /> <br>
 	<img src="/assets/images/flags/NZ.png" class="flag-icon" />
   </td>
   <td>University of Sheffield</td>
@@ -223,7 +223,7 @@ permalink: /people/
     <br><strong>Gina Penetra</strong>
   </td>
   <td>
-  	<img src="/assets/images/flags/UK.png" class="flag-icon" />
+  	<img src="/assets/images/flags/UK.png" class="flag-icon" /> <br>
   	<img src="/assets/images/flags/PT.png" class="flag-icon" />
   </td>
   <td>University of Sheffield	</td>
@@ -252,7 +252,7 @@ permalink: /people/
     <br><strong>Samuel J. Higgins-Aguilar</strong>
   </td>
   <td>
-  	<img src="/assets/images/flags/ES.png" class="flag-icon" />
+  	<img src="/assets/images/flags/ES.png" class="flag-icon" /> <br>
   	<img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> University of Sheffield </td>
