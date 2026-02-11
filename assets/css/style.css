@@ -191,7 +191,7 @@ table.photo-table td {
 /* Column 2: flags */
 .people-table th:nth-child(2),
 .people-table td:nth-child(2) {
-  width: 170px;
+  width: 85px;
 }
 
 /* Profile photos (constant size everywhere) */
