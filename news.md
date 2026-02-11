@@ -549,6 +549,11 @@ They will be investigating the implications of aneuploidies on extraembryonic li
 
 Welcome to **Vicki Metzis** (MRC LMS), visiting to give the **DRN Seminar** in Sheffield.
 
+### 24 January 2025  
+**Guest Lecturing**, Imperial College London, UK  
+
+Stan gave a guest lecture on Stochastic Simulations in Srinjan's third year undergrauate Cellular Biophysics course.
+
 ### 15 January 2025 
 **DRN Seminar**, University of Sheffield, UK  
 
