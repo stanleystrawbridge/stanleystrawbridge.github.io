@@ -33,8 +33,8 @@ permalink: /people/
 <tbody>
   
 <tr>
-  <td><img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" /></td>
-  <td><strong>Stanley E. Strawbridge</strong></td>
+  <td><img src="/assets/images/people/stanley_strawbridge.jpg" class="people-photo" /><br><strong>Stanley E. Strawbridge</strong></td>
+  <td></td>
   <td>
 	<img src="/assets/images/flags/US.png" class="flag-icon" />
 	<img src="/assets/images/flags/UK.png" class="flag-icon" />
