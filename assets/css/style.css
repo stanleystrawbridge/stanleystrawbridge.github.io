@@ -196,19 +196,21 @@ table.photo-table td {
 .page-content .people-table .people-photo,
 .post-content .people-table .people-photo {
   height: 100px;
-  width: auto;
+  width: 80px;  
   object-fit: cover;
-  border-radius: 0;
   display: block;
   margin: 0 auto;
+  border-radius: 0;
 }
 
 /* Flags */
-.flag-icon {    
-  height: 25 px;
-  width: 50 px;      
+.flag-icon {
+  width: 75px;
+  height: auto;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
   margin: 2px 4px;
-  vertical-align: top;
 }
 
 .flag-icon + .flag-icon {
