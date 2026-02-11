@@ -162,7 +162,7 @@ permalink: /people/
 | **Frederik Claeyssens**   | School of Chemical, Materials and Biological Engineering  |
 | **Mark Fenwick**          | School of Medicine and Population Health                  |
 | **Alexander G. Fletcher** | School of Mathematical and Physical Sciences              |
-| **Davina Hulme**    		| Jessop Fertility
+| **Davina Hulme**    		  | Jessop Fertility                                          |
 | **Emma Lucas**            | School of Medicine and Population Health                  |
 | **Marysia Placzek**       | School of Biosciences                                     |
 | **Anestis Tsakiridis**    | School of Biosciences                                     |
@@ -170,14 +170,14 @@ permalink: /people/
 
 ### External
 
-| Name                | Affiliation                             			|
+| Name                | Affiliation                             		      	|
 |---------------------|-----------------------------------------------------|
-| **Srinjan Basu**    | Imperial College London                 			|
-| **David Holcman**   | École Normale Supérieure, Paris   					|
-| **Marisa Merino**   | University of Liverpool  							|
+| **Srinjan Basu**    | Imperial College London                 			      |
+| **David Holcman**   | École Normale Supérieure, Paris   					        |
+| **Marisa Merino**   | University of Liverpool  							              |
 | **Nick Monk**       | African Institute for Mathematical Sciences, Ghana  |
-| **Jennifer Nichols**| University of Edinburgh                 			|
-| **Ayaka Yanagida**  | University of Tokyo		                 			|
+| **Jennifer Nichols**| University of Edinburgh                 			      |
+| **Ayaka Yanagida**  | University of Tokyo		                 			        |  
 
 <br>
 
