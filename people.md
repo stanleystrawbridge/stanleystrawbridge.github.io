@@ -64,8 +64,8 @@ permalink: /people/
     <br><strong>Aondoyima "Deems" Ioratim-Uba</strong>
   </td>
   <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
-  <td>Living Systems Institute, University of Exeter</td>
-  <td>Postdoctoral Research Associate, Computational Modelling</td>
+  <td>Living Systems Institute, <br> University of Exeter</td>
+  <td>Postdoctoral Research Associate, <br> Computational Modelling</td>
   <td>2026-present</td>
   <td>I<sup>o</sup>  supervisor: <br> Krasimira Tsaneva-Atanasova </td>
 </tr> 
@@ -75,7 +75,7 @@ permalink: /people/
     <br><strong>Millicent A. Opoku</strong>
   </td>
   <td><img src="/assets/images/flags/GH.png" class="flag-icon" /></td>
-  <td> AIMS-RIC, Rwanda; University of Cape Coast</td>
+  <td> AIMS-RIC, Rwanda; <br> University of Cape Coast</td>
   <td>PhD Mathematics (Mathematical Biology)</td>
   <td>2026-present</td>
   <td>I<sup>o</sup>  supervisor: <br> Nick Monk</td>
