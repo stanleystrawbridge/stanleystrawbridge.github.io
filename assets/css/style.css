@@ -205,15 +205,15 @@ table.photo-table td {
 
 /* Flags */
 .flag-icon {
-  width: 60%;
-  height: auto;
-  margin: 3px;
+  height: 37px;     /* half of 75px photo height */
+  width: auto;      /* preserve aspect ratio */
+  margin: 2px 4px;
+  vertical-align: middle;
 }
 
 .flag-icon + .flag-icon {
   margin-left: 4px;
 }
-
 
 /* ----------------------------------------------------------
    PUBLICATIONS PAGE
