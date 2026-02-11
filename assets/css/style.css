@@ -164,58 +164,56 @@ table.photo-table td {
   vertical-align: top;
 }
 
-.page-content .people-table,
-.post-content .people-table {
+/* People tables */
+.people-table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 13px;        /* smaller text */
-  line-height: 1.2;       /* tighter vertical spacing */
+  font-size: 13px;
+  line-height: 1.2;
 }
 
 /* Table cells */
-.page-content .people-table td,
-.page-content .people-table th,
-.post-content .people-table td,
-.post-content .people-table th {
-  text-align: center !important;
-  vertical-align: middle !important;
-  padding: 4px 6px;       /* reduced padding */
+.people-table th,
+.people-table td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 4px 6px;
 }
 
-/* First column (photos) */
-.page-content .people-table td:first-child,
-.page-content .people-table th:first-child,
-.post-content .people-table td:first-child,
-.post-content .people-table th:first-child {
-  width: 100px;
-  min-width: 100px;
-  max-width: 110px;
+/* Column widths */
+
+/* Column 1: profile photo */
+.people-table th:first-child,
+.people-table td:first-child {
+  width: 110px;
 }
 
-/* Profile photos */
-.page-content .people-table .people-photo,
-.post-content .people-table .people-photo {
+/* Column 2: flags */
+.people-table th:nth-child(2),
+.people-table td:nth-child(2) {
+  width: 170px;
+}
+
+/* Profile photos (constant size everywhere) */
+.people-photo {
   height: 100px;
-  width: 80px;  
+  width: 80px;
   object-fit: cover;
   display: block;
   margin: 0 auto;
   border-radius: 0;
 }
 
-/* Flags */
+/* Flags (constant size everywhere) */
 .flag-icon {
   width: 75px;
-  height: auto;
+  height: auto; 
   object-fit: contain;
   display: inline-block;
   vertical-align: middle;
   margin: 2px 4px;
 }
 
-.flag-icon + .flag-icon {
-  margin-left: 4px;
-}
 
 /* ----------------------------------------------------------
    PUBLICATIONS PAGE
