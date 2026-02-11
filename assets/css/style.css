@@ -205,7 +205,8 @@ table.photo-table td {
 
 /* Flags */
 .flag-icon {    
-  width: 75 px;      
+  height: 50 px;
+  width: 25 px;      
   margin: 2px 4px;
   vertical-align: top;
 }
