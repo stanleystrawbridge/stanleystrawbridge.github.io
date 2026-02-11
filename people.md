@@ -411,7 +411,7 @@ permalink: /people/
 	 <img src="/assets/images/flags/AT.png" class="flag-icon" />
   </td>
   <td>IMC Krems</td>
-  <td>Visiting Student, BSc Engineering</td>
+  <td>Visiting Student,<br> BSc Engineering</td>
   <td>2018-2019</td>
   <td>PhD, University of Heidelberg</td>
   <td>I<sup>o</sup>  supervisor: <br> Jennifer Nichols.</td> 	  
