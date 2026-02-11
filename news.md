@@ -31,7 +31,7 @@ A warm welcome to **Erin Pauley**, **Agustina Requejo**, **Abigail Stocks**, who
     </td>
     <td>
       <figure>
-        <img src="/assets/images/people/agustina_requejo.jpeg" class="news-photo" alt="Agustina">
+        <img src="/assets/images/people/agustina_requejo.jpg" class="news-photo" alt="Agustina">
         <figcaption>Agustina Requejo</figcaption>
       </figure>
     </td>
