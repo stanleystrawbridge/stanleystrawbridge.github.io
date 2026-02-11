@@ -195,8 +195,8 @@ table.photo-table td {
 /* Profile photos */
 .page-content .people-table .people-photo,
 .post-content .people-table .people-photo {
-  height: 75px;           /* reduced from 100px */
-  width: 60px;
+  height: 100px;
+  width: auto;
   object-fit: cover;
   border-radius: 0;
   display: block;
