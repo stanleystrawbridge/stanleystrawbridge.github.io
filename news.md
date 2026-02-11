@@ -100,7 +100,7 @@ Welcome to **Oliver Bower** (Kathy Niakan Lab, Crick/Cambridge), visiting his al
   <figcaption>Prof Emeritus Peter Andrews and Oliver</figcaption>
 </figure>
 
-### 10 December 2025  
+### 26 November 2025  
 **DRN Seminar**, University of Sheffield, UK  
 
 Welcome to **Takuya Azami** (Jennifer Nichols Lab, University of Edinburgh), visiting Sheffield to give the **DRN Seminar**.
@@ -109,6 +109,12 @@ Welcome to **Takuya Azami** (Jennifer Nichols Lab, University of Edinburgh), vis
   <img src="/assets/images/news/20251126_Takuya_Azami.jpg" class="news-photo" alt="cafe!">
   <figcaption>Takuya and Stan</figcaption>
 </figure>
+
+
+### 25 January 2025  
+**Guest Lecturing**, Imperial College London, UK  
+
+Stan gave a guest lecture on the MSc in Reproductive and developmental Biolog course at Imperial College London.
 
 ### 6 November 2025  
 **SURE Showcase**, University of Sheffield, UK
