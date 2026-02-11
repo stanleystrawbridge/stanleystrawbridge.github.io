@@ -87,7 +87,7 @@ permalink: /people/
   </td>
   <td><img src="/assets/images/flags/AR.png" class="flag-icon" /></td>
   <td>University of Sheffield</td>
-  <td>MSc Reproductive & Developmental Medicine</td>
+  <td>MSc Reproductive and Developmental Medicine</td>
   <td>2026-present</td>
   <td>Co-supervisor: <br> Mark Fenwick</td>
 </tr> 
@@ -98,7 +98,7 @@ permalink: /people/
   </td>
   <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
   <td>University of Sheffield</td>
-  <td>MSc Reproductive & Developmental Medicine</td>
+  <td>MSc Reproductive and Developmental Medicine</td>
   <td>2026-present</td>
   <td>Co-supervisor: <br> Emma Lucas</td>
 </tr> 
@@ -241,7 +241,7 @@ permalink: /people/
 	 <img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> University of Sheffield </td>
-  <td>MSc Reproductive & Developmental Medicine</td>
+  <td>MSc Reproductive and Developmental Medicine</td>
   <td>2025</td>
   <td></td>
   <td></td>
@@ -256,7 +256,7 @@ permalink: /people/
   	<img src="/assets/images/flags/UK.png" class="flag-icon" />
   </td>
   <td> University of Sheffield </td>
-  <td>MSc Reproductive & Developmental Medicine</td>
+  <td>MSc Reproductive and Developmental Medicine</td>
   <td>2025</td>
   <td>TFP Thames Valley Fertility</td>
   <td></td>
