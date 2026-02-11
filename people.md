@@ -55,7 +55,7 @@ permalink: /people/
   <td>University of Sheffield</td>
   <td>MSc Student, Mathematical and Theoretical Physics</td>
   <td>2026-present</td>
-  <td>Primary supervisor: Alexander Fletcher</td>
+  <td>I<sup>o</sup>  supervisor: Alexander Fletcher</td>
 </tr> 
 
 <tr> 
@@ -65,7 +65,7 @@ permalink: /people/
   <td>Living Systems Institute, University of Exeter</td>
   <td>Postdoctoral Research Associate, Computational Modelling</td>
   <td>2026-present</td>
-  <td>Primary supervisor: Krasimira Tsaneva-Atanasova </td>
+  <td>I<sup>o</sup>  supervisor: Krasimira Tsaneva-Atanasova </td>
 </tr> 
 
 <tr>
@@ -75,7 +75,7 @@ permalink: /people/
   <td> AIMS-RIC, Rwanda; University of Cape Coast</td>
   <td>PhD Student,  Mathematics (Mathematical Biology)</td>
   <td>2026-present</td>
-  <td>Primary supervisor: Nick Monk</td>
+  <td>I<sup>o</sup>  supervisor: Nick Monk</td>
 </tr> 
 
 <tr>
@@ -106,7 +106,7 @@ permalink: /people/
   <td>	University of Sheffield	</td>
   <td>PhD Student, Reproductive Medicine</td>
   <td>2025-present</td>
-  <td>Primary supervisor: Emma Lucas</td>
+  <td>I<sup>o</sup>  supervisor: Emma Lucas</td>
 </tr> 
 
 <tr>
@@ -116,7 +116,7 @@ permalink: /people/
   <td>University of Sheffield	</td>
   <td>PhD Student, Developmental Biology</td>
   <td>2025-present</td>
-  <td>Primary supervisors: Alexander Fletcher, Anestis Tsakiridis</td>
+  <td>I<sup>o</sup>  supervisors: Alexander Fletcher, Anestis Tsakiridis</td>
 </tr> 
 
 <tr>
@@ -128,7 +128,7 @@ permalink: /people/
   <td> École Normale Supérieure, Paris </td>
   <td>PhD Student, Biophysics</td>
   <td>2024-present</td>
-  <td>Primary supervisors: David Holcman, Srinjan Basu</td>
+  <td>I<sup>o</sup>  supervisors: David Holcman, Srinjan Basu</td>
 </tr>
 	
 </tbody>
@@ -262,7 +262,7 @@ permalink: /people/
   <td>MPhil Biochemistry</td>
   <td>2023-2024</td>
   <td>Finance</td>
-  <td>Primary supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -275,7 +275,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2023-2024</td>
   <td>Consulting</td>
-  <td>Primary supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -288,7 +288,7 @@ permalink: /people/
   <td>MPhil Computational Biology</td>
   <td>2023</td>
   <td>PhD Biostatistics, University of Cambridge</td>
-  <td>Primary supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -301,7 +301,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2022-2023</td>
   <td>PhD Biophysics, ENS Paris</td>
-  <td>Primary supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -314,7 +314,7 @@ permalink: /people/
   <td>Intercalated BA Natural Sciences</td>
   <td>2022-2023</td>
   <td>MB/BChir, University of Cambridge</td>
-  <td>Primary supervisor: Srinjan Basu.<br>Co-supervisor: Gökçe Agsu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: Srinjan Basu.<br>Co-supervisor: Gökçe Agsu.</td> 	  
 </tr>
 
 <tr>
@@ -327,7 +327,7 @@ permalink: /people/
   <td>MPhil Biological Sciences (Stem Cell Biology)</td>
   <td>2021-2022</td>
   <td>PhD Computational Biophysics, UCL</td>
-  <td>Primary supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -340,7 +340,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2020-2021</td>
   <td>PhD Cell Biology and Biophysics, EMBL Heidelberg</td>
-  <td>Primary supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -353,7 +353,7 @@ permalink: /people/
   <td>MRes Rotation Student</td>
   <td>2020</td>
   <td>PhD Stem Cell Biology & Medicine, University of Cambridge</td>
-  <td>Primary supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -366,7 +366,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2019-2020</td>
   <td>PhD Systems Biology, University of Columbia</td>
-  <td>Primary supervisor: Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: Srinjan Basu.</td> 	  
 </tr>
 
 <tr>
@@ -379,7 +379,7 @@ permalink: /people/
   <td>Visiting Student, MSc Biotechnology</td>
   <td>2019-2020</td>
   <td>Pharma</td>
-  <td>Primary supervisor: Jennifer Nichols.</td> 	  
+  <td>I<sup>o</sup>  supervisor: Jennifer Nichols.</td> 	  
 </tr>	
 
 <tr>
@@ -392,7 +392,7 @@ permalink: /people/
   <td>Visiting Student, BSc Engineering</td>
   <td>2018-2019</td>
   <td>PhD, University of Heidelberg</td>
-  <td>Primary supervisor: Jennifer Nichols.</td> 	  
+  <td>I<sup>o</sup>  supervisor: Jennifer Nichols.</td> 	  
 </tr>
 </tbody>
 </table>
