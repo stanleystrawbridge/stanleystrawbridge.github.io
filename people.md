@@ -274,7 +274,7 @@ permalink: /people/
   <td>MPhil Biochemistry</td>
   <td>2023-2024</td>
   <td>Finance</td>
-  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu</td> 	  
 </tr>
 
 <tr>
@@ -288,7 +288,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2023-2024</td>
   <td>Consulting</td>
-  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu</td> 	  
 </tr>
 
 <tr>
@@ -302,7 +302,7 @@ permalink: /people/
   <td>MPhil Computational Biology</td>
   <td>2023</td>
   <td>PhD Biostatistics, University of Cambridge</td>
-  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu</td> 	  
 </tr>
 
 <tr>
@@ -316,7 +316,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2022-2023</td>
   <td>PhD Biophysics, ENS Paris</td>
-  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu</td> 	  
 </tr>
 
 <tr>
@@ -330,7 +330,7 @@ permalink: /people/
   <td>Intercalated BA Natural Sciences</td>
   <td>2022-2023</td>
   <td>MB/BChir, University of Cambridge</td>
-  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.<br>Co-supervisor: <br> Gökçe Agsu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu;<br>Co-supervisor: <br> Gökçe Agsu</td> 	  
 </tr>
 
 <tr>
@@ -344,7 +344,7 @@ permalink: /people/
   <td>MPhil Biological Sciences (Stem Cell Biology)</td>
   <td>2021-2022</td>
   <td>PhD Computational Biophysics, UCL</td>
-  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu</td> 	  
 </tr>
 
 <tr>
@@ -358,7 +358,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2020-2021</td>
   <td>PhD Cell Biology and Biophysics, EMBL Heidelberg</td>
-  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu</td> 	  
 </tr>
 
 <tr>
@@ -372,7 +372,7 @@ permalink: /people/
   <td>MRes Rotation Student</td>
   <td>2020</td>
   <td>PhD Stem Cell Biology & Medicine, University of Cambridge</td>
-  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu</td> 	  
 </tr>
 
 <tr>
@@ -386,7 +386,7 @@ permalink: /people/
   <td>MSc Systems Biology</td>
   <td>2019-2020</td>
   <td>PhD Systems Biology, University of Columbia</td>
-  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Srinjan Basu</td> 	  
 </tr>
 
 <tr>
@@ -400,7 +400,7 @@ permalink: /people/
   <td>Visiting Student, MSc Biotechnology</td>
   <td>2019-2020</td>
   <td>Pharma</td>
-  <td>I<sup>o</sup>  supervisor: <br> Jennifer Nichols.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Jennifer Nichols</td> 	  
 </tr>	
 
 <tr>
@@ -414,7 +414,7 @@ permalink: /people/
   <td>Visiting Student,<br> BSc Engineering</td>
   <td>2018-2019</td>
   <td>PhD, University of Heidelberg</td>
-  <td>I<sup>o</sup>  supervisor: <br> Jennifer Nichols.</td> 	  
+  <td>I<sup>o</sup>  supervisor: <br> Jennifer Nichols</td> 	  
 </tr>
 </tbody>
 </table>
