@@ -111,7 +111,7 @@ Welcome to **Takuya Azami** (Jennifer Nichols Lab, University of Edinburgh), vis
 </figure>
 
 
-### 25 January 2025  
+### 25 November 2025  
 **Guest Lecturing**, Imperial College London, UK  
 
 Stan gave a guest lecture on the MSc in Reproductive and developmental Biolog course at Imperial College London.
