@@ -254,7 +254,7 @@ permalink: /people/
   <td> University of Sheffield </td>
   <td>MSc Reproductive and Developmental Medicine</td>
   <td>2025</td>
-  <td></td>
+  <td>Bourn Hall Fertility Clinic</td>
   <td></td>
 </tr>
 
