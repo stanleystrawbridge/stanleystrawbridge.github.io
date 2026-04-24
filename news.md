@@ -19,11 +19,11 @@ permalink: /news/
 ### 16 April 2026
 **Postgraduate Research Student Showcase**, Faculty of Science Doctoral School, University of Sheffield
 
-Congratulations to Nikolas Stefanidis for winning the **Mathematics and Statistics Poster Prize**!
+Congratulations to **Nikolas Stefanidis** for winning the **Mathematics and Statistics Poster Prize**!
 
 <figure>
   <img src="/assets/images/people/nikolas_stefanidis.jpeg" class="news-photo" alt="Well Done!">
-	<figcaption>Well don, Nikolas!</figcaption>
+	<figcaption>Well done, Nikolas!</figcaption>
 </figure>
 
 ### 16 April 2026
