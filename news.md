@@ -67,13 +67,13 @@ Welcome to **Masaki Kinoshita** (University of Nottingham), visiting to give the
   <tr>
     <td>
       <figure>
-        <img src="/assets/images/news/20260318_masaki_talk.jpg" class="news-photo" alt="Formative!">
+        <img src="/assets/images/news/20260318_masaki_talk.jpeg" class="news-photo" alt="Formative!">
 	  		<figcaption>Masaki presenting.</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="/assets/images/news/20260318_masaki_garden.jpg" class="news-photo" alt="Campai">
+        <img src="/assets/images/news/20260318_masaki_garden.jpeg" class="news-photo" alt="Campai">
 	  		<figcaption>Masaki, Anestis, and Stan.</figcaption>
       </figure>
     </td>
@@ -90,19 +90,19 @@ Thank you for the invite!
   <tr>
     <td>
       <figure>
-        <img src="/assets/images/news/20260312_soton_maths.jpg" class="news-photo" alt="Maths">
+        <img src="/assets/images/news/20260312_soton_maths.jpeg" class="news-photo" alt="Maths">
 	  		<figcaption>Maths!</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="/assets/images/news/20260312_soton_library.jpg" class="news-photo" alt="Books">
+        <img src="/assets/images/news/20260312_soton_library.jpeg" class="news-photo" alt="Books">
 	  		<figcaption>Hartley library.</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="/assets/images/news/20260312_soton_art.jpg" class="news-photo" alt="Graffiti">
+        <img src="/assets/images/news/20260312_soton_art.jpeg" class="news-photo" alt="Graffiti">
 	  		<figcaption>Street art.</figcaption>
       </figure>
     </td>
