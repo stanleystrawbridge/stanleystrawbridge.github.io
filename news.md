@@ -65,8 +65,16 @@ The Boss made a special trip all the way from Exeter to see us!
 </figure>
 
 ### 5 January 2026  
-**New Members**
+**New Member**
  
+A warm welcome to **Deems Ioratim-Uba**, who will be working on spatial mathematical and computational models of early embryonic development.
+
+<figure>
+	<img src="/assets/images/people/aondoyima_ioratim-uba.jpg" class="news-photo" alt="Deems">
+	<figcaption>Deems Ioratim-Uba</figcaption>
+</figure>
+
+<!--
 A warm welcome to **Deems Ioratim-Uba** and **Millicent Opoku**, who will be working on spatial mathematical and computational models of early embryonic development.
 
 <table>
@@ -85,6 +93,8 @@ A warm welcome to **Deems Ioratim-Uba** and **Millicent Opoku**, who will be wor
     </td>
   </tr>
 </table>
+-->
+
 
 ### 1 January 2026  
 **Happy New Year!**
