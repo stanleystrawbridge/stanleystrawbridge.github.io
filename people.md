@@ -83,6 +83,7 @@ permalink: /people/
   <td>I<sup>o</sup>  supervisor: <br> Krasimira Tsaneva-Atanasova </td>
 </tr> 
 
+<!--
 <tr>
   <td><img src="/assets/images/people/millicent_a_opoku.jpg" class="people-photo" />
     <br><strong>Millicent A. Opoku</strong>
@@ -93,6 +94,7 @@ permalink: /people/
   <td>2026-present</td>
   <td>I<sup>o</sup>  supervisor: <br> Nick Monk</td>
 </tr> 
+-->
 
 <tr>
   <td><img src="/assets/images/people/erin_pauley.jpg" class="people-photo" />
