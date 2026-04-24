@@ -16,6 +16,99 @@ permalink: /news/
 
 <br>
 
+### 16 April 2026
+**Postgraduate Research Student Showcase**, Faculty of Science Doctoral School, University of Sheffield
+
+Congratulations to Nikolas Stefanidis for winning the **Mathematics and Statistics Poster Prize**!
+
+<figure>
+  <img src="/assets/images/people/nikolas_stefanidis.jpeg" class="news-photo" alt="Well Done!">
+	<figcaption>Well don, Nikolas!</figcaption>
+</figure>
+
+### 16 April 2026
+**SM@SH Seminar**, University of Sheffield, UK
+ 
+Welcome to **Srinjan Basu** (Imperial College London), visiting to give the **Single Molecules at Sheffield** (SM@SH) seminar in Sheffield.
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20260416_srinjan_talk.jpg" class="news-photo" alt="SMLM">
+	  		<figcaption>Srinjan presenting.</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20260416_srinjan_office.jpg" class="news-photo" alt="Forest">
+	  	<figcaption>Srinjan and Stan.</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+### 23-26 March 2026
+**BSDB Spring Meeting**, Univeristy of Warwick, UK
+
+Stan attends the 2026 Britsh Society for Developmental Biology Spring Metting.
+
+ <figure>
+  <img src="/assets/images/news/20260323_bsdb.jpg" class="news-photo" alt="Formative!">
+	<figcaption>Another great meeting.</figcaption>
+</figure>
+
+### 18 March 2026 
+**DRN Seminar**, University of Sheffield, UK
+ 
+Welcome to **Masaki Kinoshita** (University of Nottingham), visiting to give the **DRN Seminar** in Sheffield.
+
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20260318_masaki_talk.jpg" class="news-photo" alt="Formative!">
+	  		<figcaption>Masaki presenting.</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20260318_masaki_garden.jpg" class="news-photo" alt="Campai">
+	  		<figcaption>Masaki, Anestis, and Stan.</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+### 13 March 2026  
+**Modelling Seminar**, University of Southampton, UK
+
+Stan visited Philip Greulich and Ben MacArthur at the School of Mathematical Sciences, University of Southampton, to give the Modelling Seminar tto a full house!
+Thank you for the invite! 
+ 
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20260312_soton_maths.jpg" class="news-photo" alt="Maths">
+	  		<figcaption>Maths!</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20260312_soton_library.jpg" class="news-photo" alt="Books">
+	  		<figcaption>Hartley library.</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="/assets/images/news/20260312_soton_art.jpg" class="news-photo" alt="Graffiti">
+	  		<figcaption>Street art.</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ### 5 February 2026  
 **New Members**, University of Sheffield, UK
  
