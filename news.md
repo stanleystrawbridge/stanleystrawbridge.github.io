@@ -35,13 +35,13 @@ Welcome to **Srinjan Basu** (Imperial College London), visiting to give the **Si
   <tr>
     <td>
       <figure>
-        <img src="/assets/images/news/20260416_srinjan_talk.jpg" class="news-photo" alt="SMLM">
+        <img src="/assets/images/news/20260416_srinjan_talk.jpeg" class="news-photo" alt="SMLM">
 	  		<figcaption>Srinjan presenting.</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="/assets/images/news/20260416_srinjan_office.jpg" class="news-photo" alt="Forest">
+        <img src="/assets/images/news/20260416_srinjan_office.jpeg" class="news-photo" alt="Forest">
 	  	<figcaption>Srinjan and Stan.</figcaption>
       </figure>
     </td>
