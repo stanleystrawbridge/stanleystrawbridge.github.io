@@ -52,37 +52,37 @@ permalink: /publications/
 <ol reversed>
   <li><strong>Strawbridge, S.E.<sup>†</sup></strong>, Corridori, C.<sup>†</sup>, Blanchard, G.B., Smith, A.<sup>*</sup>, Kugler, H.<sup>*</sup>, Martello, G.<sup>*</sup> (2026).  
       <em>Exit from naive pluripotency proceeds with variable latency but without asymmetric division to generate population heterogeneity</em>  
-      <strong>Stem Cell Reports</strong>, 21 (3).
+      <strong>Stem Cell Reports</strong>, 21(3):102813.
   </li>
   
   <li><strong>Strawbridge, S.E.<sup>†*</sup></strong>, Schrattel, A.K., Humphreys, P., Jones, K.A., Artus, J., Hadjantonakis, A.K., Fletcher, A.G.<sup>*</sup>, Nichols, J.<sup>*</sup> (2025).  
       <em>Donor embryonic stem cells displace host cells of 8-cell-stage chimeras to the extra-embryonic lineages by spatial crowding and FGF4 signalling.</em>  
-      <strong>Development</strong>, 152 (12), dev204518.
+      <strong>Development</strong>, 152(12):dev204518.
   </li>
 
   <li>Chinnaiya, K.<sup>†</sup>, Groves, I., Manning, E., Place, E., Furley, C., <strong>Strawbridge, S.E.</strong>, Fletcher, A.G., Placzek, M.<sup>*</sup> (2025).  
       <em>Balancing SHH and BMP/FGF10 to specify tuberal hypothalamic neurons and glia.</em>  
-      <strong>Developmental Biology</strong>.
+      <strong>Developmental Biology</strong>, 525:259-69.
   </li>
 
   <li><strong>Strawbridge, S.E.<sup>†*</sup></strong>, Kurowski, A., Corujo-Simón, E., Fletcher, A.N., Nichols, J.<sup>*</sup>, Fletcher, A.G.<sup>*</sup> (2023).  
       <em>insideOutside: an accessible algorithm for classifying interior and exterior points, with applications in embryology.</em>  
-      <strong>Biology Open</strong>, 12 (9), bio060055.
+      <strong>Biology Open</strong>, 12(9):bio060055.
   </li>
 
   <li>Bergmann, S.<sup>†</sup>, Penfold, C.A.<sup>†</sup>, Slatery, E.<sup>†</sup>, Siriwardena, D., Drummer, C., Clark, S., <strong>Strawbridge, S.E.</strong>, Kishimoto, K., Vickers, A., Tewary, M., Kohler, T.N., Hollfelder, F., Reik, W., Sasaki, E., Behr, R., Boroviak, T.E.<sup>*</sup>(2022).  
       <em>Spatial profiling of early primate gastrulation <i>in utero</i>.</em>  
-      <strong>Nature</strong>, 609 (7925), 136-143.
+      <strong>Nature</strong>, 609(7925):136-143.
   </li>
 
   <li>Guo, G.<sup>†</sup>, Stirparo, G.G.<sup>†</sup>, <strong>Strawbridge, S.E.<sup>†</sup></strong>, Spindlow, D., Yang, J., Clarke, J., Dattani, A., Yanagida, A., Li, M.A., Myers, S., Özel, B.N., Nichols, J.<sup>*</sup>, Smith, A.<sup>*</sup> (2021).  
       <em>Human naïve epiblast cells possess unrestricted lineage potential.</em>  
-      <strong>Cell Stem Cell</strong>, 28 (6), 1040-1056.
+      <strong>Cell Stem Cell</strong>, 28(6):1040-1056.
   </li>
 
   <li>Stirparo, G.G.<sup>†</sup>, Kurowski, A.<sup>†</sup>, Yanagida, A., Bates, L.E., <strong>Strawbridge, S.E.</strong>, Hladkou, S., Stuart, H.T., Boroviak, T.E., Silva, J.C.R., Nichols, J.<sup>*</sup> (2021).  
       <em>OCT4 induces embryonic pluripotency via STAT3 signaling and metabolic mechanisms.</em>  
-      <strong>PNAS</strong>, 118 (3), e2008890118.
+      <strong>PNAS</strong>, 118(3):e2008890118.
   </li>
 </ol>
 
