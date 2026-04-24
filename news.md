@@ -54,7 +54,7 @@ Welcome to **Srinjan Basu** (Imperial College London), visiting to give the **Si
 Stan attends the 2026 Britsh Society for Developmental Biology Spring Metting.
 
  <figure>
-  <img src="/assets/images/news/20260323_bsdb.jpg" class="news-photo" alt="Formative!">
+  <img src="/assets/images/news/20260323_bsdb.jpeg" class="news-photo" alt="Formative!">
 	<figcaption>Another great meeting.</figcaption>
 </figure>
 
