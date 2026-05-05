@@ -21,7 +21,7 @@ permalink: /publications/
 
 <ol reversed>
 
-<li> Gogolou, A.<sup>†</sup>, Stefanidis, N., Blin, G., <strong>Strawbridge, S.E.</strong>, Fletcher, A.G., Tsakiridis, A.<sup>†*</sup> (2026).
+<li> Gogolou, A.<sup>†</sup>, Stefanidis, N., Blin, G., <strong>Strawbridge, S.E.</strong>, Fletcher, A.G., Tsakiridis, A.<sup>*</sup> (2026).
 <em>Notch signalling governs human enteric nervous system progenitor dynamics.</em>
 <strong>bioRxiv</strong>. <a href="https://doi.org/10.64898/2026.05.01.722150">doi:10.64898/2026.05.01.722150</a>.
 </li>
