@@ -20,12 +20,18 @@ permalink: /publications/
 ---
 
 <ol reversed>
-	<li> <strong>Strawbridge, S.E.<sup>†*</sup></strong> and Fletcher, A.G. (2026).
-    <em>Quantification and statistical comparison of cell-state transition kinetics using a parametric failure-based model.</em>
-  	<strong>bioRxiv</strong>. <a href="https://doi.org/10.64898/2026.04.21.719724">doi:10.64898/2026.04.21.719724</a>.
-	</li>
 
-  <li>Agsu, G.G.<sup>†</sup>, Cao, Y.<sup>†</sup>, Jain, D.<sup>†</sup>, <strong>Strawbridge, S.E.<sup>†</sup></strong>, Daly, S., Zhang, Z., Wurmser, A., Bowers, K., Orsine De Almeida, I., Nikolenyi, G., Berger, S., Jonaitis, M., Guma’a, K., Pauzaite, T., Maretvadakethope, S., Bates, L., Nathan, J.A., Hendrich, B.D., Perez-Carrasco, R., Chalut, K.J., Klenerman, D., Boroviak, T.E., Lee, S.F., Holcman, D.<sup>*</sup>, Basu, S.<sup>*</sup> (2025). 
+<li> Gogolou, A.<sup>†</sup>, Stefanidis, N., Blin, G., <strong>Strawbridge, S.E.</strong>, Fletcher, A.G., Tsakiridis, A.<sup>†*</sup> (2026).
+<em>Notch signalling governs human enteric nervous system progenitor dynamics.</em>
+<strong>bioRxiv</strong>. <a href="https://doi.org/10.64898/2026.05.01.722150">doi:10.64898/2026.05.01.722150</a>.
+</li>
+	
+<li> <strong>Strawbridge, S.E.<sup>†*</sup></strong> and Fletcher, A.G. (2026).
+<em>Quantification and statistical comparison of cell-state transition kinetics using a parametric failure-based model.</em>
+<strong>bioRxiv</strong>. <a href="https://doi.org/10.64898/2026.04.21.719724">doi:10.64898/2026.04.21.719724</a>.
+</li>
+
+<li>Agsu, G.G.<sup>†</sup>, Cao, Y.<sup>†</sup>, Jain, D.<sup>†</sup>, <strong>Strawbridge, S.E.<sup>†</sup></strong>, Daly, S., Zhang, Z., Wurmser, A., Bowers, K., Orsine De Almeida, I., Nikolenyi, G., Berger, S., Jonaitis, M., Guma’a, K., Pauzaite, T., Maretvadakethope, S., Bates, L., Nathan, J.A., Hendrich, B.D., Perez-Carrasco, R., Chalut, K.J., Klenerman, D., Boroviak, T.E., Lee, S.F., Holcman, D.<sup>*</sup>, Basu, S.<sup>*</sup> (2025). 
   	<em>Protein-protein interactions drive differences in the spatiotemporal dynamics of transcription factors NANOG and SOX2 in naïve pluripotent cells.</em>
   	<strong>bioRxiv</strong>. <a href="https://doi.org/10.64898/2025.12.03.691924">doi:10.64898/2025.12.03.691924</a>.
 	</li>
