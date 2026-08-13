@@ -72,17 +72,6 @@ permalink: /people/
   <td>I<sup>o</sup>  supervisor: <br> Alexander Fletcher</td>
 </tr> 
 
-<tr> 
-  <td><img src="/assets/images/people/aondoyima_ioratim-uba.jpg" class="people-photo" />
-    <br><strong>Aondoyima "Deems" Ioratim-Uba</strong>
-  </td>
-  <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
-  <td>Living Systems Institute, <br> University of Exeter</td>
-  <td>Postdoctoral Research Associate, <br> Computational Modelling</td>
-  <td>2026-present</td>
-  <td>I<sup>o</sup>  supervisor: <br> Krasimira Tsaneva-Atanasova </td>
-</tr> 
-
 
 <tr>
   <td><img src="/assets/images/people/millicent_a_opoku.jpg" class="people-photo" />
@@ -230,6 +219,19 @@ permalink: /people/
 
 <tbody>
 
+<tr> 
+  <td><img src="/assets/images/people/aondoyima_ioratim-uba.jpg" class="people-photo" />
+    <br><strong>Aondoyima "Deems" Ioratim-Uba</strong>
+  </td>
+  <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
+  <td>Living Systems Institute, <br> University of Exeter</td>
+  <td>Postdoctoral Research Associate, <br> Computational Modelling</td>
+  <td>2026</td>
+  <td>  </td>
+  <td>I<sup>o</sup>  supervisor: <br> Krasimira Tsaneva-Atanasova </td>
+</tr> 
+
+
 <tr>
   <td><img src="/assets/images/people/cherie_cheung.jpg" class="people-photo" />
     <br><strong>Cherie Cheung</strong>
@@ -240,7 +242,7 @@ permalink: /people/
   <td> University of Sheffield </td>
   <td>BA Biomedical Sciences</td>
   <td>2025</td>
-  <td></td>
+  <td> MPhil Stem Cell Medicine, University of Cambridge</td>
   <td>Sheffield Undergraduate Research Experience (SURE) Student</td>
 </tr>
 
