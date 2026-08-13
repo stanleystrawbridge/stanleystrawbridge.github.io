@@ -227,7 +227,7 @@ permalink: /people/
   <td>Living Systems Institute, <br> University of Exeter</td>
   <td>Postdoctoral Research Associate, <br> Computational Modelling</td>
   <td>2026</td>
-  <td>  </td>
+  <td> Met Office </td>
   <td>I<sup>o</sup>  supervisor: <br> Krasimira Tsaneva-Atanasova </td>
 </tr> 
 
