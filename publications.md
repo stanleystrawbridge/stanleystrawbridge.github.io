@@ -108,7 +108,22 @@ permalink: /publications/
 
   <li><strong>Strawbridge, S.E.<sup>†</sup></strong>, Clarke, J., Guo, G., Nichols, J.<sup>*</sup> (2021).  
       <em>Deriving human naïve embryonic stem cell lines from donated supernumerary embryos using physical distancing and signal inhibition.</em>  
-      In <strong>Human Naïve Pluripotent Stem Cells</strong>, pp. 1-12. Springer US.
+      <strong>BMC Biology</strong>, <em>in press</em> .
+  </li>
+</ol>
+
+---
+
+<br>
+
+## Editorial
+
+---
+
+<ol reversed>
+  <li>Hainer, S.J.<sup>*</sup>, <strong>Strawbridge, S.E.<sup>*</sup></strong>, Choi, S., Guo, G., Kinoshita, M., Zhao, C., Zhou, F. (2026).  
+      <em>Pluripotency, differentiation and reprogramming: 20 years of induced pluripotent stem cells.</em>  
+      In <strong>Chromosome Architecture: Methods and Protocols</strong>, pp. 209-247. Springer US.
   </li>
 </ol>
 
