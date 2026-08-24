@@ -135,73 +135,92 @@ permalink: /publications/
 
 ---
 
+### PhD
+
+<ol reversed>
+  <li><strong>Strawbridge, S.E.</strong> (2019).  
+      <em>Understanding the dynamics of embryonic stem cell differentiation.</em>  
+      PhD Biochemistry, University of Cambridge.
+  </li>
+</ol>
+
+
+### Masters
+
 <ol reversed>
   <li><strong>Pauley, E.</strong> (2026).  
       <em>Investigating Trisomy 21 in Early Human Development: Chromosome 21 Dosage Effects, Trophoblast Dysfunction and Stem Cell-Based Embryo Models.</em>  
       MSc Reproductive and Developmental Medicine, University of Sheffield.
   </li>
+
   <li><strong>Requejo, A.</strong> (2026).  
       <em>How Follicles Communicate: Defining the Local Signalling Environment Regulating Primordial Follicle Maintenance and Activation.</em>  
       MSc Reproductive and Developmental Medicine, University of Sheffield.
-  </li>		
+  </li>
+
   <li><strong>Stocks, A.L.</strong> (2026).  
       <em>Quantifying the Effect of Maternal Dietary Protein Intake on Global Transcription in the Mouse Blastocyst.</em>  
       MSc Reproductive and Developmental Medicine, University of Sheffield.
-  </li>	
+  </li>
+
   <li><strong>English, H.L.</strong> (2025).  
       <em>Decoding Early Human Development: A Pipeline for Exploring How Genetic Variation Shapes Lineage Allocation.</em>  
       MSc Reproductive and Developmental Medicine, University of Sheffield.
   </li>
+
   <li><strong>Higgins-Aguilar, S.J.</strong> (2025).  
       <em>Investigating Early Pregnancy Loss Using Human Pluripotent Stem Cells to Model Placental Tissues.</em>  
       MSc Reproductive and Developmental Medicine, University of Sheffield.
   </li>
+
   <li><strong>Guma'a, K.</strong> (2024).  
       <em>Spatiotemporal analysis of NANOG chromatin-binding dynamics in mouse embryonic stem cells.</em>  
       MPhil Biochemistry, University of Cambridge.
   </li>
+
   <li><strong>Preston, A.</strong> (2024).  
       <em>Investigating effects of nanoscale transport mechanisms on the formation of the FGF4 morphogen gradient during early mouse development.</em>  
       MSc Systems Biology, University of Cambridge.
   </li>
+
   <li><strong>Bowers, K.</strong> (2023).  
       <em>A data-driven nuclear scale coarse-grained spatiotemporal model of transcription factor kinetics within pluripotent cells.</em>  
       MPhil Computational Biology, University of Cambridge.
   </li>
-  
+
   <li><strong>Yuze, C.</strong> (2023).  
       <em>Transcription factor condensate formation under homotypic interactions is concentration and valency-dependent.</em>  
       MSc Systems Biology, University of Cambridge.
   </li>
-  
+
   <li><strong>Berger, S.</strong> (2022).  
       <em>Establishing a nuclear scale coarse-grained model of transcription factor condensate formation within a physiological context.</em>  
       MPhil Biological Sciences (Stem Cell Biology), University of Cambridge.
   </li>
-  
+
   <li><strong>Chernova, V.</strong> (2021).  
       <em>Multi-scale cluster identification in single molecule localization microscopy data using persistent homology.</em>  
       MSc Systems Biology, University of Cambridge.
-  </li> 
-    
+  </li>
+
   <li><strong>Nikolényi, G.</strong> (2020).  
       <em>An analytical framework for quantifying spatial clustering of transcription factors from three-dimensional super-resolution microscopy data.</em>  
       MSc Systems Biology, University of Cambridge.
   </li>
-  
-  <li><strong>Schrattle, A.K.</strong> (2019).  
-      <em>Investigating specification and regulation of the extraembryonic lineages during early mouse development.</em>  
-      BSc Engineering, IMC University of Applied Sciences Krems.
-  </li>
-  
-  <li><strong>Strawbridge, S.E.</strong> (2019).  
-      <em>Understanding the dynamics of embryonic stem cell differentiation.</em>  
-      PhD Biochemistry, University of Cambridge.
-  </li>
-  
+
   <li><strong>Strawbridge, S.E.</strong> (2013).  
       <em>The effects of fluid flow on cell aggregation: a hybrid approach to modeling chemotaxis.</em>  
       MSc Mathematical Modelling & Scientific Computing, University of Oxford.
+  </li>
+</ol>
+
+
+### Undergraduate
+
+<ol reversed>
+  <li><strong>Schrattle, A.K.</strong> (2019).  
+      <em>Investigating specification and regulation of the extraembryonic lineages during early mouse development.</em>  
+      BSc Engineering, IMC University of Applied Sciences Krems.
   </li>
 
   <li><strong>Strawbridge, S.E.</strong> (2011).  
