@@ -86,40 +86,6 @@ permalink: /people/
 
 
 <tr>
-  <td><img src="/assets/images/people/erin_pauley.jpg" class="people-photo" />
-    <br><strong>Erin Pauley</strong>
-  </td>
-  <td><img src="/assets/images/flags/IE.png" class="flag-icon" /></td>
-  <td>University of Sheffield</td>
-  <td>MSc Reproductive and Developmental Medicine</td>
-  <td>2026-present</td>
-  <td>Co-supervisor: <br> Emma Lucas</td>
-</tr> 
-
-<tr>
-  <td><img src="/assets/images/people/agustina_requejo.jpg" class="people-photo" />
-    <br><strong>Agustina Requejo</strong>
-  </td>
-  <td><img src="/assets/images/flags/AR.png" class="flag-icon" /></td>
-  <td>University of Sheffield</td>
-  <td>MSc Reproductive and Developmental Medicine</td>
-  <td>2026-present</td>
-  <td>Co-supervisor: <br> Mark Fenwick</td>
-</tr> 
-
-<tr>
-  <td><img src="/assets/images/people/abigail_l_stocks.jpeg" class="people-photo" />
-    <br><strong>Abigail L. Stocks</strong>
-  </td>
-  <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
-  <td>University of Sheffield</td>
-  <td>MSc Reproductive and Developmental Medicine</td>
-  <td>2026-present</td>
-  <td>Co-supervisor: <br> Emma Lucas</td>
-</tr> 
-
-
-<tr>
   <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" />
     <br><strong>Samuel Guttridge</strong>
   </td>
@@ -218,6 +184,42 @@ permalink: /people/
 </thead>
 
 <tbody>
+
+<tr>
+  <td><img src="/assets/images/people/erin_pauley.jpg" class="people-photo" />
+    <br><strong>Erin Pauley</strong>
+  </td>
+  <td><img src="/assets/images/flags/IE.png" class="flag-icon" /></td>
+  <td>University of Sheffield</td>
+  <td>MSc Reproductive and Developmental Medicine</td>
+  <td>2026</td>
+  <td> </td>	
+  <td>Co-supervisor: <br> Emma Lucas</td>
+</tr> 
+
+<tr>
+  <td><img src="/assets/images/people/agustina_requejo.jpg" class="people-photo" />
+    <br><strong>Agustina Requejo</strong>
+  </td>
+  <td><img src="/assets/images/flags/AR.png" class="flag-icon" /></td>
+  <td>University of Sheffield</td>
+  <td>MSc Reproductive and Developmental Medicine</td>
+  <td>2026</td>
+  <td> </td>	
+  <td>Co-supervisor: <br> Mark Fenwick</td>
+</tr> 
+
+<tr>
+  <td><img src="/assets/images/people/abigail_l_stocks.jpeg" class="people-photo" />
+    <br><strong>Abigail L. Stocks</strong>
+  </td>
+  <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
+  <td>University of Sheffield</td>
+  <td>MSc Reproductive and Developmental Medicine</td>
+  <td>2026</td>
+  <td> </td>
+  <td>Co-supervisor: <br> Emma Lucas</td>
+</tr> 
 
 <tr> 
   <td><img src="/assets/images/people/aondoyima_ioratim-uba.jpg" class="people-photo" />
