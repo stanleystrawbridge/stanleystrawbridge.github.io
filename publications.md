@@ -122,15 +122,15 @@ permalink: /publications/
 
 <ol reversed>
   <li><strong>Pauley, E.</strong> (2026).  
-      <em>Investigating Trisomy 21 in Early Human Development: Chromosome 21 Dosage Effects, Trophoblast Dysfunction and Stem Cell-Based Embryo Models</em>  
+      <em>Investigating Trisomy 21 in Early Human Development: Chromosome 21 Dosage Effects, Trophoblast Dysfunction and Stem Cell-Based Embryo Models.</em>  
       MSc Reproductive and Developmental Medicine, University of Sheffield.
   </li>
   <li><strong>Requejo, A.</strong> (2026).  
-      <em>How Follicles Communicate: Defining the Local Signalling Environment Regulating Primordial Follicle Maintenance and Activation</em>  
+      <em>How Follicles Communicate: Defining the Local Signalling Environment Regulating Primordial Follicle Maintenance and Activation.</em>  
       MSc Reproductive and Developmental Medicine, University of Sheffield.
   </li>		
   <li><strong>Stocks, A.L.</strong> (2026).  
-      <em>Quantifying the Effect of Maternal Dietary Protein Intake on Global Transcription in the Mouse Blastocyst</em>  
+      <em>Quantifying the Effect of Maternal Dietary Protein Intake on Global Transcription in the Mouse Blastocyst.</em>  
       MSc Reproductive and Developmental Medicine, University of Sheffield.
   </li>	
   <li><strong>English, H.L.</strong> (2025).  
