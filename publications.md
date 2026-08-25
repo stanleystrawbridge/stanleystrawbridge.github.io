@@ -123,7 +123,7 @@ permalink: /publications/
 <ol reversed>
   <li>Hainer, S.J.<sup>*</sup>, <strong>Strawbridge, S.E.<sup>*</sup></strong>, Choi, S., Guo, G., Kinoshita, M., Zhao, C., Zhou, F. (2026).  
       <em>Pluripotency, differentiation and reprogramming: 20 years of induced pluripotent stem cells.</em>  
-      <strong>BMC Biology</strong>, <em>in press</em>.
+      <strong>BMC Biology</strong>24, 186.
   </li>
 </ol>
 
