@@ -58,7 +58,7 @@ permalink: /publications/
   </li>
 
   <li><strong>Strawbridge, S.E.<sup>†</sup></strong>, Corridori, C.<sup>†</sup>, Blanchard, G.B., Smith, A.<sup>*</sup>, Kugler, H.<sup>*</sup>, Martello, G.<sup>*</sup> (2026).  
-      <em>Exit from naive pluripotency proceeds with variable latency but without asymmetric division to generate population heterogeneity</em>  
+      <em>Exit from naive pluripotency proceeds with variable latency but without asymmetric division to generate population heterogeneity.</em>  
       <strong>Stem Cell Reports</strong>, 21(3):102813.
   </li>
   
