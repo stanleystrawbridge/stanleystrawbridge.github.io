@@ -20,11 +20,6 @@ permalink: /publications/
 ---
 
 <ol reversed>
-
-<li> Gogolou, A.<sup>†</sup>, Stefanidis, N., Blin, G., <strong>Strawbridge, S.E.</strong>, Fletcher, A.G., Tsakiridis, A.<sup>*</sup> (2026).
-<em>Notch signalling governs human enteric nervous system progenitor dynamics.</em>
-<strong>bioRxiv</strong>. <a href="https://doi.org/10.64898/2026.05.01.722150">doi:10.64898/2026.05.01.722150</a>.
-</li>
 	
 <li> <strong>Strawbridge, S.E.<sup>†*</sup></strong> and Fletcher, A.G. (2026).
 <em>Quantification and statistical comparison of cell-state transition kinetics using a parametric failure-based model.</em>
@@ -56,6 +51,12 @@ permalink: /publications/
 ---
 
 <ol reversed>
+  
+  <li> Gogolou, A.<sup>†</sup>, Stefanidis, N., Cooper, F., Blin, G., <strong>Strawbridge, S.E.</strong>, Fletcher, A.G., Tsakiridis, A.<sup>*</sup> (2026).
+    <em>Notch signalling governs human enteric nervous system progenitor dynamics.</em>
+    <strong>Development</strong>.
+  </li>
+
   <li><strong>Strawbridge, S.E.<sup>†</sup></strong>, Corridori, C.<sup>†</sup>, Blanchard, G.B., Smith, A.<sup>*</sup>, Kugler, H.<sup>*</sup>, Martello, G.<sup>*</sup> (2026).  
       <em>Exit from naive pluripotency proceeds with variable latency but without asymmetric division to generate population heterogeneity</em>  
       <strong>Stem Cell Reports</strong>, 21(3):102813.
