@@ -45,33 +45,6 @@ permalink: /people/
   <td></td>
 </tr>
 
-<tr>
-  <td><img src="/assets/images/people/ben_eames.png" class="people-photo" />
-    <br><strong>Ben Eames</strong>
-  </td>
-  <td>
-	<img src="/assets/images/flags/UK.png" class="flag-icon" /> <br>
-	<img src="/assets/images/flags/NZ.png" class="flag-icon" />
-  </td>
-  <td>University of Sheffield</td>
-  <td>MSc Mathematical and Theoretical Physics</td>
-  <td>2026-present</td>
-  <td>I<sup>o</sup>  supervisor: <br> Alexander Fletcher</td>
-</tr> 
-
-<tr>
-  <td><img src="/assets/images/people/matthew_hankinson.jpg" class="people-photo" />
-    <br><strong>Matthew Hankinson</strong>
-  </td>
-  <td>
-	<img src="/assets/images/flags/UK.png" class="flag-icon" />
-  </td>
-  <td>University of Sheffield</td>
-  <td>MSc Mathematical and Theoretical Physics</td>
-  <td>2026-present</td>
-  <td>I<sup>o</sup>  supervisor: <br> Alexander Fletcher</td>
-</tr> 
-
 
 <tr>
   <td><img src="/assets/images/people/millicent_a_opoku.jpg" class="people-photo" />
@@ -184,6 +157,35 @@ permalink: /people/
 </thead>
 
 <tbody>
+
+<tr>
+  <td><img src="/assets/images/people/ben_eames.png" class="people-photo" />
+    <br><strong>Ben Eames</strong>
+  </td>
+  <td>
+	<img src="/assets/images/flags/UK.png" class="flag-icon" /> <br>
+	<img src="/assets/images/flags/NZ.png" class="flag-icon" />
+  </td>
+  <td>University of Sheffield</td>
+  <td>MSc Mathematical and Theoretical Physics</td>
+  <td>2026</td>
+  <td> </td>	
+  <td>I<sup>o</sup>  supervisor: <br> Alexander Fletcher</td>
+</tr> 
+
+<tr>
+  <td><img src="/assets/images/people/matthew_hankinson.jpg" class="people-photo" />
+    <br><strong>Matthew Hankinson</strong>
+  </td>
+  <td>
+	<img src="/assets/images/flags/UK.png" class="flag-icon" />
+  </td>
+  <td>University of Sheffield</td>
+  <td>MSc Mathematical and Theoretical Physics</td>
+  <td>2026</td>
+  <td> </td>	
+  <td>I<sup>o</sup>  supervisor: <br> Alexander Fletcher</td>
+</tr> 
 
 <tr>
   <td><img src="/assets/images/people/erin_pauley.jpg" class="people-photo" />
