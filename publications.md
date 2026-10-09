@@ -149,6 +149,16 @@ permalink: /publications/
 ### Masters
 
 <ol reversed>
+  <li><strong>Eames, B.</strong> (2026).  
+      <em>A Network Graph Analysis of Pre-Blastocyst Mouse Embryos using Machine Learning Segmentation.</em>  
+      MSc Mathematical and Theoretical Physics, University of Sheffield.
+  </li>
+
+  <li><strong>Hankison, M.</strong> (2026).  
+      <em>Inverse PINNs for Parameter Inference in Biological Dynamical Systems.</em>  
+      MSc Mathematical and Theoretical Physics, University of Sheffield.
+  </li>
+  
   <li><strong>Pauley, E.</strong> (2026).  
       <em>Investigating Trisomy 21 in Early Human Development: Chromosome 21 Dosage Effects, Trophoblast Dysfunction and Stem Cell-Based Embryo Models.</em>  
       MSc Reproductive and Developmental Medicine, University of Sheffield.
