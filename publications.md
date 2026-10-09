@@ -47,7 +47,7 @@ permalink: /publications/
 
 <ol reversed>
 
-  <li> <strong>Strawbridge, S.E.<sup>†*</sup></strong> and Fletcher, A.G. (2026).
+  <li> <strong>Strawbridge, S.E.<sup>*</sup></strong> and Fletcher, A.G.* (2026).
 	<em>Quantification and statistical comparison of cell-state transition kinetics using a parametric failure-based model.</em>
 	 <strong>iScience</strong>.
   </li>
