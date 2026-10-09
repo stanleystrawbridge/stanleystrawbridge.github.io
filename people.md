@@ -45,6 +45,27 @@ permalink: /people/
   <td></td>
 </tr>
 
+<tr>
+  <td><img src="/assets/images/people/yasmin_t_al_daqqaq.JPG" class="people-photo" />
+    <br><strong>Yasmin T. Al Daqqaq</strong>
+  </td>
+  <td><img src="/assets/images/flags/JO.SVG" class="flag-icon" /></td>
+  <td>University of Sheffield</td>
+  <td>PhD Reproductive Medicine; <br> EPSRC Doctoral Landscape Award</td>
+  <td>2026-present</td>
+   <td>Co-supervisors: <br> Emma Lucas; <br>Ivana Barbaric, <br>Frederik Claeyssens</td>
+</tr> 
+
+<tr>
+  <td><img src="/assets/images/people/lola_a_p_dormer.jpg" class="people-photo" />
+    <br><strong>Lola A. P. Dormer</strong>
+  </td>
+  <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
+  <td>University of Sheffield	</td>
+  <td>Integrated Masters Biomedical Sciences</td>
+  <td>2026-present</td>
+  <td> </td>
+</tr> 
 
 <tr>
   <td><img src="/assets/images/people/millicent_a_opoku.jpg" class="people-photo" />
@@ -57,13 +78,12 @@ permalink: /people/
   <td>I<sup>o</sup>  supervisor: <br> Nick Monk</td>
 </tr> 
 
-
 <tr>
   <td><img src="/assets/images/people/samuel_guttridge.jpg" class="people-photo" />
     <br><strong>Samuel Guttridge</strong>
   </td>
   <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
-  <td>	University of Sheffield	</td>
+  <td>Uiversity of Sheffield	</td>
   <td>PhD Reproductive Medicine</td>
   <td>2025-present</td>
   <td>I<sup>o</sup>  supervisor: <br> Emma Lucas</td>
