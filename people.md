@@ -49,7 +49,7 @@ permalink: /people/
   <td><img src="/assets/images/people/yasmin_t_al_daqqaq.JPG" class="people-photo" />
     <br><strong>Yasmin T. Al Daqqaq</strong>
   </td>
-  <td><img src="/assets/images/flags/JO.SVG" class="flag-icon" /></td>
+  <td><img src="/assets/images/flags/JO.svg" class="flag-icon" /></td>
   <td>University of Sheffield</td>
   <td>PhD Reproductive Medicine; <br> EPSRC Doctoral Landscape Award</td>
   <td>2026-present</td>
