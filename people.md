@@ -215,7 +215,7 @@ permalink: /people/
   <td>University of Sheffield</td>
   <td>MSc Reproductive and Developmental Medicine</td>
   <td>2026</td>
-  <td> </td>	
+  <td>Clinical Embryology STP</td>	
   <td>Co-supervisor: <br> Emma Lucas</td>
 </tr> 
 
@@ -239,7 +239,7 @@ permalink: /people/
   <td>University of Sheffield</td>
   <td>MSc Reproductive and Developmental Medicine</td>
   <td>2026</td>
-  <td> </td>
+  <td>Preventx</td>
   <td>Co-supervisor: <br> Emma Lucas</td>
 </tr> 
 
