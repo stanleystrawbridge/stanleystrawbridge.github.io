@@ -62,7 +62,7 @@ permalink: /people/
   </td>
   <td><img src="/assets/images/flags/UK.png" class="flag-icon" /></td>
   <td>University of Sheffield	</td>
-  <td>Integrated Masters Biomedical Sciences</td>
+  <td>Integrated Masters<br>Biomedical Sciences</td>
   <td>2026-present</td>
   <td> </td>
 </tr> 
