@@ -20,6 +20,23 @@ Below are a few highlights.
 
 <br>
 
+### Media and interviews
+
+**[The Company of Biologists Travelling Fellowships programme: a commitment to support the next generation of scientists](https://journals.biologists.com/dev/article/152/23/dev205356/370057/The-Company-of-Biologists-Travelling-Fellowships)**  
+*Development*, 11 December 2025.  
+
+Stan reflects on how a Travelling Fellowship supported his collaboration with Alexander Fletcher and helped shape his research career.
+
+**[The people behind the papers – Stanley Strawbridge](https://journals.biologists.com/dev/article/152/12/dev205019/368376/The-people-behind-the-papers-Stanley-Strawbridge)**  
+*Development*, 24 June 2025.  
+
+An interview with Stan about early embryo development, combining experiments with mathematical modelling, and establishing his research group.
+
+
+---
+
+<br>
+
 ### 3-Minute Thesis
 While a Bye-Fellow at Christ’s College, Cambridge, Stan served as a judge for a 3-Minute Thesis competition, where students learn to hone their science communicaiton skills.
 
