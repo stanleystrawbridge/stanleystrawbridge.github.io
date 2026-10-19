@@ -32,6 +32,10 @@ Stan reflects on how a Travelling Fellowship supported his collaboration with Al
 
 An interview with Stan about early embryo development, combining experiments with mathematical modelling, and establishing his research group.
 
+**[The Stem Cell Expert: How do cells make decisions?](https://music.youtube.com/podcast/2b9gESYrsz0)**  
+*Off The Tangent* podcast, 12 June 2025.  
+
+Stan discusses stem cells, cell-fate decisions and early embryo development, and how mathematical modelling and advanced imaging can help explain why some embryos fail to develop or implant.
 
 ---
 
