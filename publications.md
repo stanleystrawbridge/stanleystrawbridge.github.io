@@ -117,14 +117,20 @@ permalink: /publications/
 
 <br>
 
-## Editorial
+## Editorials and commentary
 
 ---
 
 <ol reversed>
-  <li>Hainer, S.J.<sup>*</sup>, <strong>Strawbridge, S.E.<sup>*</sup></strong>, Choi, S., Guo, G., Kinoshita, M., Zhao, C., Zhou, F. (2026).  
-      <em>Pluripotency, differentiation and reprogramming: 20 years of induced pluripotent stem cells.</em>  
-      <strong>BMC Biology</strong>24, 186.
+  <li><strong>Strawbridge, S.E.</strong> (2026).
+      <em>Building a human embryo research programme from the ground up.</em>
+      <strong>The Reproductive Scientist</strong>, 18 October.
+      <a href="https://www.arcscientists.org/reproductive-scientist/building-a-human-embryo-research-programme-from-the-ground-up/">Read article</a>.
+  </li>
+
+  <li>Hainer, S.J.<sup>*</sup>, <strong>Strawbridge, S.E.<sup>*</sup></strong>, Choi, S., Guo, G., Kinoshita, M., Zhao, C., Zhou, F. (2026).
+      <em>Pluripotency, differentiation and reprogramming: 20 years of induced pluripotent stem cells.</em>
+      <strong>BMC Biology</strong>, 24, 186.
   </li>
 </ol>
 
